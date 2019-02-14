@@ -18,7 +18,7 @@ tags:
 
 Si tu habites Québec comme moi, tu as probablement entendu parlé du [projet de loi n° 9](http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-9-42-1.html) du gouvernement caquiste. Ce projet a provoqué des réactions polarisées à travers le Québec avec certains qui défendent mordicus le projet et d'autres qui le considère comme un arrêt de mort à l’immigration au Québec. Mais quels sont vraiment les impacts de ce projet?
 
-En effet, avant de commenter ce projet de loi, nous devons commencer par comprendre les motivations du gouvernement à introduire cette loi. Selon ce dernier, je cite, le projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du travail par une intégration réussie des personnes immigrantes.
+En effet, avant de commenter ce projet de loi, nous devons commencer par comprendre les motivations du gouvernement à introduire cette loi. Selon ce dernier, je cite, le projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du travail par une intégration réussie des personnes immigrantes.
 
 Vu ainsi, ce projet de loi est noble et à soutenir car l'immigration économique doit être positive pour le pays d'accueil. Et tant qu'à choisir des immigrants, mieux vaut choisir ceux qui répondent aux besoins du marché de travail. 
 Aussi, bien que le ministre n'en parle quasiment pas, en tant qu'immigrant que je suis, je peux affirmer que le système d'immigration québécois est actuellement brisé. Il est incompréhensible que le délais pour une demande de résidence permanente soit de 19 mois au Québec comparé à 6 mois partout ailleurs au Canada.
