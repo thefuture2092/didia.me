@@ -1,8 +1,8 @@
 ---
 template: post
 title: >-
-  J’ai essayé de réfléchir de façon neutre sur le projet de loi n° 9 sur
-  l’immigration au Québec.
+  En voulant tout gagner, le Québec risque de perdre sa capacité à attirer les
+  meilleurs.
 slug: reflexion-sur-projet-loi-immigration-quebec
 draft: true
 date: 2019-02-14T04:30:05.944Z
@@ -16,25 +16,26 @@ tags:
 ---
 **Cher ami,**
 
-Si tu habites Québec comme moi, tu as probablement entendu parlé du [projet de loi n° 9](http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-9-42-1.html) du gouvernement du Québec qui porte sur la modification de la loi sur l'immigration. Ce projet a provoqué des réactions polarisées à travers toute la province, avec certains qui défendent mordicus le projet et d'autres qui le considère comme hostile à l'immigration et l'immigré. Mais lequel de ces deux camps a vraiment raison? Dans les lignes qui suivront, je vais essayer de me positionner à ce sujet.
+Si tu habites Québec comme moi, tu as probablement entendu parlé du [projet de loi n° 9](http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-9-42-1.html) du gouvernement du Québec qui porte sur la modification de la loi sur l'immigration. Selon le gouvernement, ce projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du travail par une intégration réussie des personnes immigrantes. Mais en voulant répondre à tout le monde, je pense que les mesures introduites risquent fortement de décourager les personnes brillantes à immigrer au Québec.
 
-## Qu'est-ce qui ne marche pas actuellement avec l'immigration au Québec?
+En effet, d'une part, plusieurs entreprises de Québec sont en manque criant d'employés. Certaines en région, où les immigrants ne s'installent pas souvent, sont même entrain de fermer leurs portes. Elles ont donc grandement besoin d'immigrants pour occuper leurs emplois ouverts.\
+\
+D'autre part, la majeure partie de la population a l'impression que le Québec accueille bien trop d'immigrants. Et ces immigrants arrivent souvent en ne parlant pas français et préfère plutôt apprendre l'anglais et s'installer à Montréal où ils peuvent bien vivre sans le fameux français. Les gens ont peur des personnes qui supposément ne partagent pas les mêmes "valeurs" que la société Québécoise. Et coup de grâce, ces gens "volent" les emplois de québécois \
+\
+Voyant une opportunité en or, la Coalition Avenir Québec a donc décidé de surfer sur cette vague pendant la campagne électorale, ce qui, avouons-le, lui a quand même très bien réussi. Aujourd'hui la CAQ fait suite à ses promesses de campagne et propose donc le nouveau projet de loi n° 9 à l'Assemblée Nationale.
 
-Il y'a plusieurs problèmes avec le système actuel de l'immigration qui affectent tant l'immigrant que la population québécoise accueillant. En me basant sur mon expérience personnelle, le programme de la CAQ ainsi que les commentaires Facebook qui reviennent souvent, je peux les regrouper comme suit:
+Pour répondre aux besoins des employeurs, le gouvernement a donc décidé d'introduire plusieurs mesures dont:
 
-1. Selon l'opinion publique, le Québec accueille beaucoup trop d'immigrants qu'il le devrait.
-2. Selon la CAQ, les immigrants ont un problème de langue et des valeurs différentes des celles du Québec, ce qui rend difficile leur intégration.
-3. Selon les employeurs, les immigrants qui sont acceptés n'ont pas nécessairement les compétences recherchées dans le marché d'emploi.
-4. Selon les immigrants, le processus d'immigration au Québec prend trop longtemps. Et pour beaucoup, une fois arrivés, leurs diplômes ne sont même pas reconnus, sans parlait du fait qu'il n'y a pas toujours assez d'emplois dans leur domaine.
+1. Les immigrants seront maintenant choisis selon les besoins économiques et des mains d'oeuvres de la province (Modification 4, 13).
+2. Le ministre pourra imposer des conditions aux résidents permanents, notamment où habiter. (Modification 9)
 
+Et pour répondre aux inquiétudes de la population:
 
+1. Le ministre peut mettre en place des programmes visant l'apprentissage des valeurs québécoises(ndlr, les tests de valeurs) ainsi que de la connaissance du français. (Modification 6, 14)
+2. Imposer des conditions aux employeurs concernant le recrutement des résidents permanents (Modification 8, 10) 
 
-En effet, officiellement, ce projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du
- travail par une intégration réussie des personnes immigrantes.\
-Vu ainsi, ce projet de loi est noble et à soutenir car l'immigration économique doit être positive pour le pays d'accueil. Tant qu'à choisir des immigrants, mieux vaut choisir ceux qui répondent aux besoins du marché du travail. 
+Rendu ici, tu te poses certainement la question de savoir en quoi ces mesures peuvent-elle faire perdre au Québec sa capacité à attirer les immigrants.
 
-Aussi, en tant qu'immigrant que je suis, je peux affirmer que le système d'immigration québécois est actuellement brisé. Il est incompréhensible que le délais pour une demande de résidence permanente soit de 19 mois au Québec comparé à 6 mois partout ailleurs au Canada.
+En effet, pour y arriver, je t'aimerai t'amener en entrer dans la peau d'un immigrant. Généralement pour la majorité d'immigrants choisit d'immigrer au Canada et non au Québec. Nous choisissons le Québec parce que c'est l'endroit au Canada où l'on parle français. Les immigrants anglophones qui choisissent d'immigrer au Québec le font certainement pour d'autres raisons, je ne pourrai pas vraiment parler pour eux. Cependant, il faut noter qu'immigrer au Québec est déjà en moyenne 1.5 fois plus cher
 
-Cependant, à voir les mesures prises par le gouvernement, je pense que ce projet de loi aura comme effet pervers de priver le Québec des immigrants capable non seulement de répondre au besoin du marché mais aussi apporter l'innovation nécessaire à la prospérité économique du Québec. Pour bien t'expliquer ma position, je te propose d'analyser en détails avec moi les propositions du gouvernement.
-
-En effet, lorsqu’on voit les réactions sur les réseaux sociaux, il est facile de constater que la majorité des médias est focalisée sur la décision du gouvernement d’annuler et rembourser environ 18 000 demandes déjà introduites.
+##
