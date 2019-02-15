@@ -16,11 +16,23 @@ tags:
 ---
 **Cher ami,**
 
-Si tu habites Québec comme moi, tu as probablement entendu parlé du [projet de loi n° 9](http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-9-42-1.html) du gouvernement du Québec. Ce projet a provoqué des réactions polarisées à travers toute la province, avec certains qui défendent mordicus le projet et d'autres qui le considère comme hostile à l'immigration et l'immigré. Mais quels sont vraiment les impacts de ce projet?
+Si tu habites Québec comme moi, tu as probablement entendu parlé du [projet de loi n° 9](http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-9-42-1.html) du gouvernement du Québec qui porte sur la modification de la loi sur l'immigration. Ce projet a provoqué des réactions polarisées à travers toute la province, avec certains qui défendent mordicus le projet et d'autres qui le considère comme hostile à l'immigration et l'immigré. Mais lequel de ces deux camps a vraiment raison? Dans les lignes qui suivront, je vais essayer de me positionner à ce sujet.
 
-En effet, avant de commenter ce projet de loi, nous devons commencer par comprendre les motivations du gouvernement à introduire cette loi. Selon ce dernier, je cite, le projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du travail par une intégration réussie des personnes immigrantes.
+## Qu'est-ce qui ne marche pas actuellement avec l'immigration au Québec?
 
-Vu ainsi, ce projet de loi est noble et à soutenir car l'immigration économique doit être positive pour le pays d'accueil. Tant qu'à choisir des immigrants, mieux vaut choisir ceux qui répondent aux besoins du marché de travail. 
+Il y'a plusieurs problèmes avec le système actuel de l'immigration qui affectent tant l'immigrant que la population québécoise accueillant. En me basant sur mon expérience personnelle, le programme de la CAQ ainsi que les commentaires Facebook qui reviennent souvent, je peux les regrouper comme suit:
+
+1. Selon l'opinion publique, le Québec accueille beaucoup trop d'immigrants qu'il le devrait.
+2. Selon la CAQ, les immigrants ont un problème de langue et des valeurs différentes des celles du Québec, ce qui rend difficile leur intégration.
+3. Selon les employeurs, les immigrants qui sont acceptés n'ont pas nécessairement les compétences recherchées dans le marché d'emploi.
+4. Selon les immigrants, le processus d'immigration au Québec prend trop longtemps. Et pour beaucoup, une fois arrivés, leurs diplômes ne sont même pas reconnus, sans parlait du fait qu'il n'y a pas toujours assez d'emplois dans leur domaine.
+
+
+
+En effet, officiellement, ce projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du
+ travail par une intégration réussie des personnes immigrantes.\
+Vu ainsi, ce projet de loi est noble et à soutenir car l'immigration économique doit être positive pour le pays d'accueil. Tant qu'à choisir des immigrants, mieux vaut choisir ceux qui répondent aux besoins du marché du travail. 
+
 Aussi, en tant qu'immigrant que je suis, je peux affirmer que le système d'immigration québécois est actuellement brisé. Il est incompréhensible que le délais pour une demande de résidence permanente soit de 19 mois au Québec comparé à 6 mois partout ailleurs au Canada.
 
 Cependant, à voir les mesures prises par le gouvernement, je pense que ce projet de loi aura comme effet pervers de priver le Québec des immigrants capable non seulement de répondre au besoin du marché mais aussi apporter l'innovation nécessaire à la prospérité économique du Québec. Pour bien t'expliquer ma position, je te propose d'analyser en détails avec moi les propositions du gouvernement.
