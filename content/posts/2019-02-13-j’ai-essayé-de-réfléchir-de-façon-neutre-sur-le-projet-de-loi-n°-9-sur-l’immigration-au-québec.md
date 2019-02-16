@@ -36,6 +36,12 @@ Et pour répondre aux inquiétudes de la population:
 
 Rendu ici, tu te poses certainement la question de savoir en quoi ces mesures peuvent-elle faire perdre au Québec sa capacité à attirer les immigrants.
 
-En effet, pour y arriver, je t'aimerai t'amener en entrer dans la peau d'un immigrant. Généralement pour la majorité d'immigrants choisit d'immigrer au Canada et non au Québec. Nous choisissons le Québec parce que c'est l'endroit au Canada où l'on parle français. Les immigrants anglophones qui choisissent d'immigrer au Québec le font certainement pour d'autres raisons, je ne pourrai pas vraiment parler pour eux. Cependant, il faut noter qu'immigrer au Québec est déjà en moyenne 1.5 fois plus cher
+En effet, pour y arriver, j'aimerai t'amener à entrer dans la peau d'un immigrant. Généralement la majorité d'immigrants qui arrive au Québec pensent plutôt au Québec comme faisant partie du Canada. Nous choisissons le Québec parce que c'est l'endroit au Canada où l'on parle français. Les immigrants anglophones qui choisissent d'immigrer au Québec le font certainement pour d'autres raisons, je ne pourrai pas vraiment parler pour eux. Cependant, il faut noter qu'immigrer au Québec est déjà en moyenne 1.5 fois plus cher et prend 3 fois plus de temps qu'au Canada. En effet il faut 6 mois pour une entrée express dans toutes les autres provinces du Canada comparé à 19 mois au Québec.
 
-##
+Alors il est quand même juste de se poser la question, pourquoi un immigrant, au top de son art, accepterait des conditions aussi limitant alors qu'il est possible avec son expertise d'être accepté ailleurs au Canada? Qui accepterait de venir au Québec où il ne pourrait même plus choisir où vivre, où il devra être soumis à des tests, que cela soit de valeur ou de français alors qu'il a la possibilité de pouvoir immigrer en Ontario où il n'est soumis à rien de tout ça?\
+\
+Ainsi je pense qu'avec ce projet de loi, le Québec pourra attirer les immigrants, ceux qui n'ont pas vraiment de choix. Pour ceux qui sont experts dans leur domaine et qui sont recherchés, ils choisiront certainement ailleurs au Canada où il y'a moins d'obstacles.
+
+Je ne vais même pas m'aventurer pour l'instant à parler de la décision d'imposer des conditions aux employeurs concernant le recrutement des résidents permanents car Dieu seul sait quels conditions seront imposés et quel sera la conséquence sur l'employabilité des résidents permanents au Québec.
+
+Toutefois cher ami, moi qui te parle, ne désespère pas et espère que les députés nationaux pourront analyser ces lois du point de vu des immigrants que je suis. Toutefois si ce n'est pas le cas, l'Ontario n'est pas si loin du Québec.
