@@ -14,13 +14,11 @@ category: Politique
 tags:
   - Québec politique immigration
 ---
-**Cher ami,**
+_Cher ami,_
 
 Si tu habites Québec comme moi, tu as probablement entendu parlé du [projet de loi n° 9](http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-9-42-1.html) du gouvernement du Québec qui porte sur la modification de la loi sur l'immigration. Selon le gouvernement, ce projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du travail par une intégration réussie des personnes immigrantes. Mais en voulant répondre à tout le monde, je pense que les mesures introduites risquent fortement de décourager les personnes brillantes à immigrer au Québec.
 
 ![Quelques immigrants à la fête de la St-Jean.](/media/110930_quebec.jpg "Quelques immigrants à la fête de la St-Jean. mclean.ca")
-
-
 
 En effet, d'une part, plusieurs entreprises de Québec sont en manque criant d'employés. Certaines en région, où les immigrants ne s'installent pas souvent, sont même entrain de fermer leurs portes. Elles ont donc grandement besoin d'immigrants pour occuper leurs emplois ouverts.\
 \
