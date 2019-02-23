@@ -12,7 +12,9 @@ description: >-
   changement envisagé par le gouvernement de François Legault?
 category: Politique
 tags:
-  - Québec politique immigration
+  - Québec 
+  - Politique
+  - Immigration
 ---
 _Cher ami,_
 
