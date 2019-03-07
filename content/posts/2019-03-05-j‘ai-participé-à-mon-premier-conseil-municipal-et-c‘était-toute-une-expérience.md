@@ -30,7 +30,7 @@ Ensuite, il y'avait une période des questions réservée aux citoyens participa
 Cependant, deux choses ont fortement attiré mon attention. D'une part, il n'y avait pas des jeunes parmi les citoyens qui participaient au conseil ce jour là, j'étais presque le seul jeune à part ceux qui faisaient partie de la presse. Est-ce que c'est parce que les jeunes sont moins concernés par la politique? En parlant de mon expérience à plusieurs autres jeunes, j'ai souvent eu la même réponse qui justifiait cela par le fait qu'ils travaillent, ils n'ont pas le temps de participer à ça. \
 En effet je dois avouer que c'est quand même long le conseil de ministre mais toutefois si c'est vraiment ça la raison, alors c'est triste car les gens ne se rendent pas compte de quel privilège ils ont d'avoir un mot à dire sur la façon dont ils sont dirigés.
 
-![]()
+![Membres du conseil municipal de la ville de Québec](/media/conseil-municipal-quebec-1.gif "Membres du conseil municipal de la ville de Québec")
 
 D'autre part, j'ai remarqué qu'aussi qu'il manquait aussi de diversité culturelle au sein du conseil municipal. C'est difficile à expliquer que dans une ville comme Québec où il y'a quand même beaucoup de diversité culturelle, le conseil municipal soit aussi peu réprésentatif de cette diversité.
 
