@@ -1,6 +1,6 @@
 ---
 template: post
-title: Using git bisect to quickly find the commit that introduced a bug
+title: Using git bisect to find the buggy commit faster than the flash
 slug: using-git-bisect-to-find-bad-commit
 draft: true
 date: 2019-02-21T12:00:33.353Z
@@ -18,6 +18,8 @@ tags:
 _Dear friend,_
 
 A couple of months ago, I gave a presentation at \[work](https://life.mirego.com/en) about using binary search as a debugging algorithm. Today I want to share the same thing with you, specially on how to use binary search to find a commit that introduced a bug in your code.
+
+![](/media/find-buggy-commit-faster.jpg)
 
 If you are a developer like I am, you have probably found yourself in a situation where a feature that was working as intended has suddenly become broken. If you use a revision control system, you may have needed to find the commit that first had introduced the bug in order to fix it quickly.
 
