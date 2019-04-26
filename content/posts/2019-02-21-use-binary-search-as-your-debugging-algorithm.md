@@ -35,6 +35,13 @@ Now I know what you are thinking: doing this manually is still tedious. And you 
 
 ## This is how to use them
 
-From here on I will be using `git` but the `bisect` command works pretty much the same way in both `git` and `mercurial`. 
+For this demo,  I will use `git` but the `bisect` command works pretty much the same way in both `git` and `mercurial`. 
 
-Suppose you had code that displayed a Obama icon like this. 16 commits after the icon, you realized the code was not displaying the good icon anymore, instead something like this was displayed. So your manager has asked you to fix the problem. Of course you can just replace the icon by the good icon. But as a good developer, you feel like maybe there is a reason why this was changed in the first place. How do you find out what that reason is? You can go back to the commit that changed the icon in the first place and find out what the intent was. How do you find that commit then?
+So for the context, I have this project with 1,107 commits in it. We just found out that a feature which compress pictures in production does not work anymore but everything look fine in the code. I realize we did not have automated tests for that feature (big fail).\
+So before debugging anything, I start by writing a test script for the feature. And when I run it in my latest commit, it does fail indeed. 
+
+So now let's find the guilty commit together:
+
+```
+
+```
