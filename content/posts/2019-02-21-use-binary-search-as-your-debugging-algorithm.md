@@ -3,7 +3,7 @@ template: post
 title: Using git bisect to find the buggy commit faster than the flash
 slug: using-git-bisect-to-find-bad-commit
 draft: true
-date: 2019-02-21T12:00:33.353Z
+date: 2019-04-29T11:00:33.353Z
 description: >-
   If you use git and you found yourself in a situation where you needed to find
   a commit that introduced a bug in your code, then git bisect is your friend.
@@ -17,7 +17,7 @@ tags:
 ---
 _Dear friend,_
 
-A couple of months ago, I gave a presentation at \[work](https://life.mirego.com/en) about using binary search as a debugging algorithm. Today I want to share the same thing with you, specially on how to use binary search to find a commit that introduced a bug in your code.
+A couple of months ago, I gave a presentation at [work](https://life.mirego.com/en) about using binary search as a debugging algorithm. Today I want to share the same thing with you, specially on how to use binary search to find a commit that introduced a bug in your code.
 
 ![](/media/find-buggy-commit-faster.jpg)
 
@@ -31,17 +31,59 @@ Another way is to use a binary search algorithm to find the buggy commit. I thin
 
 > Revision control system like git or mercurial have built-in commands to help you find a buggy commit without doing it manually yourself. 💚
 
-Now I know what you are thinking: doing this manually is still tedious. And you are absolutely right. Going over your commits to find which one is the middle, then checking it out to see if the error is still there and so on and so on; it is indeed tedious. Luckily enough if you use `git` or mercurial (`hg`), then there is a built-in command named [`git bisect`](https://git-scm.com/docs/git-bisect) or [`hg bisect`](https://www.mercurial-scm.org/repo/hg/help/bisect) that performs this binary search for you.
+Now I know what you are thinking: doing this manually is still tedious. And you are absolutely right. Going over your commits to find which one is the middle, then checking it out to see if the error is still there and so on and so on; it is indeed tedious. Luckily enough if you use _git_ or mercurial (_hg_), then there is a built-in command named [_git bisect_](https://git-scm.com/docs/git-bisect) or [_hg bisect_](https://www.mercurial-scm.org/repo/hg/help/bisect) that performs this binary search for you.
 
 ## This is how to use them
 
-For this demo,  I will use `git` but the `bisect` command works pretty much the same way in both `git` and `mercurial`. 
+For this demo,  I will use _git_ but the _bisect_ command works pretty much the same way in both _git_ and _mercurial_. 
 
-So for the context, I have this project with 1,107 commits in it. We just found out that a feature which compress pictures in production does not work anymore but everything look fine in the code. I realize we did not have automated tests for that feature (big fail).\
-So before debugging anything, I start by writing a test script for the feature. And when I run it in my latest commit, it does fail indeed. 
-
-So now let's find the guilty commit together:
+So for the context, I have this project with 1,107 commits in it. We just found out that an important feature does not work anymore in production (currently \_v1.10.5\_ ) but its code looks good. \
+I realize we did not have automated tests for that feature (big fail). So before starting anything, I start by writing a test script for the feature. When I run it on the latest commit it does fail.
 
 ```
+$ ./test_import_feature.sh❌Assertion failed: Important feature is not working
+```
+
+You actually don't need a test script per se, your bug could be a visual one, so your test would likely be just checking if it looks good.\
+\
+Now that we have a test for our important feature, let's find the guilty commit together.\
+First we kneed to tell git that we are going to start bisecting the code.
 
 ```
+$ git bisect start
+```
+
+Now we need to give the algorithm both a known good commit and a known bad commit. For the bad commit, it's easy just pick the latest commit. For the good commit, usually you can pick the latest working commit you know was working. In our case we know that our latest working version was \_v1.0.0\_(commit \_3f29f2c\_). 
+
+```
+$ git bisect bad HEAD$ git bisect good 3f29f2cBisecting: 100 revisions left to test after this (roughly 7 steps)[dfeb81250bc4d622d61b21611918d93ffc2e5342] Fix lint
+```
+
+There was 201 commits since our latest working commit. Now after specifying the bad and good commit, \_git\_ tells us that we are left with 100 revisions to test and that we have roughly 7 more steps to do before finding our guilty commit. And it also checkout a commit for us to test if it's good or bad. Let's run our test again to find out.
+
+```
+$ ./test_import_feature.sh❌Assertion failed: Important feature is not working
+```
+
+Oups 🙊still failing. Now we know this commit is bad. Let's tell git.
+
+```
+$ git bisect badBisecting: 49 revisions left to test after this (roughly 6 steps)[4f88051ecb530874facdf78335a33d279fd7937e] Fix build jobs
+```
+
+Now git send us to another commit. Let's run the test again to see if it's bad or good.
+
+```
+$ ./test_import_feature.sh✅Test passed: Important feature is working 🎉
+```
+
+Oh yeah, now it's working! We have ourself a good commit. So we will keep doing the same step over and over until we found the bad commit.
+
+```
+$ git bisect goodBisecting: 24 revisions left to test after this (roughly 5 steps)[4a975c385d6ddf0cee2e368788f8744172c7a4f7] Add new checkout route (#820)$ ./test_import_feature.sh✅Test passed: Important feature is working 🎉$ git bisect goodBisecting: 12 revisions left to test after this (roughly 4 steps)[f30f561685fa348c574a078d69d592d4faf4bf84] Add new display bloc (#825)$ ./test_import_feature.sh❌Assertion failed: Important feature is not working$ git bisect badBisecting: 5 revisions left to test after this (roughly 3 steps)[1ffe58d9432f4d1b28e67115e3eb2d9eecd58aec] Modify default docker stack$ ./test_import_feature.sh✅Test passed: Important feature is working 🎉$ git bisect goodBisecting: 2 revisions left to test after this (roughly 2 steps)[ee863df9dede04e48c23f2d7ec7c2bdd39791f6b] Fix font color (#822)$ ./test_import_feature.sh❌Assertion failed: Important feature is not working$ git bisect badBisecting: 0 revisions left to test after this (roughly 1 step)[cb1dee22424046470e07ae135f88fe0bcdb24c35] Modify beanstalk deployment policy$ ./test_import_feature.sh❌Assertion failed: Important feature is not working$ git bisect badBisecting: 0 revisions left to test after this (roughly 0 steps)[ac303ac4a1297ede0eae36698e8cb98ff160ccf6] Modify rolling updates (#821$ ./test_import_feature.sh✅Test passed: Important feature is working 🎉$ git bisect goodcb1dee22424046470e07ae135f88fe0bcdb24c35 is the first bad commitcommit cb1dee22424046470e07ae135f88fe0bcdb24c35Author: Aristote DiasonamaDate: Wed Jun 27 08:59:19 2018 -0400   Modify beanstalk deployment policy
+```
+
+Victory 🥂, after only 7 steps we have found our guilty commit amongst 201 potential commits. And as you can see, the error was made after modifying beanstalk deployment policy which We could have not guessed as it is not in our application code but in our infrastructure code.\
+This commit is 118 commits away from our latest commit and 83 commits away from our known working commit i.e if we run a linear algorithm and checked one commit by one we would have had to check at least 83 commits‼️ That is to say the git bisect would have been at least 11 times faster than the linear algorithm.
+
+Dear friend, I hope this post has added a great to your already rich toolbox and now you can indeed find buggy commit faster than The Flash. If you have something you want to add about this post or just share an opinion, drop me a line in the comments section, I will be happy to read it. And if you learnt something new today, don't forget to share this post as it may help someone else too.
