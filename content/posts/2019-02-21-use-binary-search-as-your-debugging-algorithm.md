@@ -13,7 +13,6 @@ tags:
   - coding
   - debugging
   - development
-  
 ---
 _Dear friend,_
 
@@ -21,7 +20,7 @@ A couple of months ago, I gave a presentation at [work](https://life.mirego.com/
 
 ![](/media/find-buggy-commit-faster.jpg)
 
-If you are a developer like I am, you have probably found yourself in a situation where a feature that was working as intended has suddenly become broken. If you use a revision control system, you may have needed to find the commit that first had introduced the bug in order to fix it quickly.
+If you are a developer like I am, you have probably found yourself in a situation where a feature that was working as intended has suddenly become broken. If you use a revision control system, you may have needed to find the commit that first introduced the bug in order to fix it quickly.
 
 One way to do it is to start by the latest commit with the bug and walk backwards until you find a working commit. If the bug has been introduced several commits before, this can be tedious and can take a lot of time. In fact, the complexity of this task is linear and depends on the number of potential bad commits.
 
