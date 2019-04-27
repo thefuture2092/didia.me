@@ -3,17 +3,17 @@ import renderer from 'react-test-renderer';
 import Contacts from './Contacts';
 
 describe('Contacts', () => {
-	const props = {
-		contacts: {
-			email: '#',
-			twitter: '#',
-			linkedin: '#',
-			github: '#'
-		}
-	};
+  const props = {
+    contacts: {
+      email: '#',
+      twitter: '#',
+      linkedin: '#',
+      github: '#'
+    }
+  };
 
-	it('renders correctly', () => {
-		const tree = renderer.create(<Contacts {...props} />).toJSON();
-		expect(tree).toMatchSnapshot();
-	});
+  it('renders correctly', () => {
+    const tree = renderer.create(<Contacts {...props} />).toJSON();
+    expect(tree).toMatchSnapshot();
+  });
 });

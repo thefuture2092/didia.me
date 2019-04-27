@@ -6,43 +6,43 @@ import Layout from '../components/Layout';
 import Page from '../components/Page';
 
 const CategoriesListTemplate = ({data}) => {
-	const {title, subtitle} = data.site.siteMetadata;
+  const {title, subtitle} = data.site.siteMetadata;
 
-	const {group} = data.allMarkdownRemark;
+  const {group} = data.allMarkdownRemark;
 
-	return (
-		<Layout title={`Categories - ${title}`} description={subtitle}>
-			<Sidebar />
-			<Page title="Categories">
-				<ul>
-					{group.map(category => (
-						<li key={category.fieldValue}>
-							<Link to={`/category/${kebabCase(category.fieldValue)}/`}>
-								{category.fieldValue} ({category.totalCount})
-							</Link>
-						</li>
-					))}
-				</ul>
-			</Page>
-		</Layout>
-	);
+  return (
+    <Layout title={`Categories - ${title}`} description={subtitle}>
+      <Sidebar />
+      <Page title="Categories">
+        <ul>
+          {group.map(category => (
+            <li key={category.fieldValue}>
+              <Link to={`/category/${kebabCase(category.fieldValue)}/`}>
+                {category.fieldValue} ({category.totalCount})
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </Page>
+    </Layout>
+  );
 };
 
 export const query = graphql`
-	query CategoriesListQuery {
-		site {
-			siteMetadata {
-				title
-				subtitle
-			}
-		}
-		allMarkdownRemark(filter: {frontmatter: {template: {eq: "post"}, draft: {ne: true}}}) {
-			group(field: frontmatter___category) {
-				fieldValue
-				totalCount
-			}
-		}
-	}
+  query CategoriesListQuery {
+    site {
+      siteMetadata {
+        title
+        subtitle
+      }
+    }
+    allMarkdownRemark(filter: {frontmatter: {template: {eq: "post"}, draft: {ne: true}}}) {
+      group(field: frontmatter___category) {
+        fieldValue
+        totalCount
+      }
+    }
+  }
 `;
 
 export default CategoriesListTemplate;
