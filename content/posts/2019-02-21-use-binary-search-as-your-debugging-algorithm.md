@@ -87,3 +87,5 @@ Victory 🥂, after only 7 steps we have found our guilty commit amongst 201 pot
 This commit is 118 commits away from our latest commit and 83 commits away from our known working commit i.e if we run a linear algorithm and checked one commit by one we would have had to check at least 83 commits‼️ That is to say the git bisect would have been at least 11 times faster than the linear algorithm.
 
 Dear friend, I hope this post has added a great to your already rich toolbox and now you can indeed find buggy commit faster than The Flash. If you have something you want to add about this post or just share an opinion, drop me a line in the comments section, I will be happy to read it. And if you learnt something new today, don't forget to share this post as it may help someone else too.
+
+Until next time, peace ✌🏾
