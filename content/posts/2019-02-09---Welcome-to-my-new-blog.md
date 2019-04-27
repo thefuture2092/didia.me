@@ -3,7 +3,7 @@ template: post
 title: Welcome to my new blog!
 slug: /posts/welcome/
 draft: false
-date: '2019-02-09T06:25:37.121Z'
+date: 2019-02-09T06:25:37.121Z
 description: >-
   Dear friend, I have decided to start blogging again. Here is why and what you
   can expect from my blogging journey.
