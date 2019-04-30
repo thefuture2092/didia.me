@@ -7,6 +7,8 @@ const Layout = ({children, title, description}) => (
     <Helmet>
       <title>{title}</title>
       <meta name="description" content={description} />
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:creator" content="@thefuture2092" />
     </Helmet>
     {children}
   </div>
