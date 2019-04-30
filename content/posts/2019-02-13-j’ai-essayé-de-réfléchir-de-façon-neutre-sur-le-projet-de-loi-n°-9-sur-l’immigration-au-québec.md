@@ -4,6 +4,7 @@ title: >-
   En voulant tout gagner, le Québec risque de perdre sa capacité à attirer les
   meilleurs.
 slug: reflexion-sur-projet-loi-immigration-quebec
+thumbnail: ../../static/media/110930_quebec.jpg
 draft: false
 date: 2019-02-14T04:30:05.944Z
 description: >-

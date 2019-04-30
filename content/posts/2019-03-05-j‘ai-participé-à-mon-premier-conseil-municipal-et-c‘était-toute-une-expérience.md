@@ -4,6 +4,7 @@ title: >-
   As-tu déjà participé à un conseil municipal? Moi oui et c‘était tout une
   expérience.
 slug: mon-premier-conseil-municipal
+thumbnail: ../../static/media/img_4417.jpg
 draft: false
 date: 2019-03-05T10:53:23.290Z
 description: >-

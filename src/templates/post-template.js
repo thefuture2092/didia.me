@@ -4,14 +4,16 @@ import Layout from '../components/Layout';
 import Post from '../components/Post';
 
 const PostTemplate = ({data}) => {
-  const {title: siteTitle, subtitle: siteSubtitle} = data.site.siteMetadata;
+  const {title: siteTitle, subtitle: siteSubtitle, url: siteUrl} = data.site.siteMetadata;
 
-  const {title: postTitle, description: postDescription} = data.markdownRemark.frontmatter;
+  const {title: postTitle, description: postDescription, thumbnail} = data.markdownRemark.frontmatter;
 
   const metaDescription = postDescription !== null ? postDescription : siteSubtitle;
 
+  const metaImage = thumbnail ? thumbnail.childImageSharp.fixed : null;
+
   return (
-    <Layout title={`${postTitle} - ${siteTitle}`} description={metaDescription}>
+    <Layout title={`${postTitle} - ${siteTitle}`} description={metaDescription} metaImage={metaImage} siteUrl={siteUrl}>
       <Post post={data.markdownRemark} />
     </Layout>
   );
@@ -45,6 +47,13 @@ export const query = graphql`
         description
         tags
         title
+        thumbnail {
+          childImageSharp {
+            fixed(width: 1200, height: 630, cropFocus: CENTER) {
+              ...GatsbyImageSharpFixed
+            }
+          }
+        }
       }
     }
   }
