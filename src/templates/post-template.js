@@ -50,7 +50,7 @@ export const query = graphql`
         thumbnail {
           childImageSharp {
             fixed(width: 1200, height: 630, cropFocus: CENTER) {
-              ...GatsbyImageSharpFixed
+              ...GatsbyImageSharpFixed_noBase64
             }
           }
         }
