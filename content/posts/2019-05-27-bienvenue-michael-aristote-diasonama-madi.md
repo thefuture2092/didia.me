@@ -39,6 +39,8 @@ Tu sais, tu es né le jour de l'anniversaire du début de la légende de Michael
 
 Michael-Aristote, pour ta mère et moi, tu es un don de Dieu. Oui, nous savons que tu grandiras dans une société où l'on ne croit plus vraiment à l'existence de Dieu. Mais tu sais nous, nous refusons de croire que nous sommes juste le résultat d'une explosion cosmique par hasard. Avec tout ce que nous avons traversé, toutes les expériences que nous avons vécues, nous croyons que Dieu existe et c'est bien son existence qui donne un sens à notre vie. Nous espérons que nous t'aiderons à connaitre et développer cette relation avec Dieu, le maître de tout temps et des circonstances.
 
+![Photo de Michael qui présente son point.](/media/whatsapp-image-2019-05-31-at-10.57.54.jpeg "Michael Aristote")
+
 > Rappelles-toi toujours que ta diversité est une force. Utilises la pour contribuer à l'avancement de ton pays, le Canada.
 
 Mon fils bien-aimé, nous savons qu'à une étape de ta vie tu te rendras surement compte que tu es différent de la majeure partie de tes compatriotes de par ta couleur de peau et origine de tes parents. Il y'aura des gens (heureusement moins nombreux au Canada) qui essaieront de te faire sentir moins canadien que les autres. Cependant, nous voulons que tu saches que c'est normal, nous tes parents sommes aussi passés par là. Tu dois plutôt toujours te rappeler que ta diversité est une force. Tu connaitras plus de langues, plus de cultures et tu auras plus d'une façon de voir les choses. Utilises donc cette diversité pour contribuer à ta manière à la société canadienne. La seule façon de te sentir vraiment canadien, c'est d'apporter toi aussi, à ta façon, ta pierre pour construire le Canada de demain.
