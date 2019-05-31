@@ -19,15 +19,13 @@ Cher Michael-Aristote,
 
 Pendant 9 mois dans le ventre de ta maman, nous t'avons senti grandir, vu bouger, donner des coups à maman. Nous essayions souvent d'imaginer à qui de nous deux tu ressemblerais le plus, quelle taille tu aurais, de qui tu tiendras ton sourire, etc. Je me rappellerai toujours de notre première échographie, c'était juste un moment magique de voir que tu prenais place et grandissait dans le ventre de maman. Rien de ceci n'est pourtant comparable à ce que nous avons éprouvé en cette fameuse journée du 7 mai 2019.
 
-
-
 ![](/media/1e8ade26948f4ab0a6841941b843690c.jpg "Papa Aristote et maman Parousia")
-
-
 
 En effet, à 6h31 ce 7 mai 2019, plus de trois minutes après ta naissance, je n'avais pas toujours trouvé les mots pour te souhaiter la bienvenue tellement que j'étais choqué de finalement te rencontrer. J'entendais l'infirmière me dire: "C'est ton fils, dis-lui quelque chose". J'avais l'impression qu'elle était à des milliers de kilomètres tellement j'étais emporté par la beauté de ce nouvel être devant moi. Tu étais juste plus beau, plus mignon qu'on ne pouvait l'imaginer dans nos rêves le plus fous (et crois moi, nous en avions fait des rêves).
 
-Aujourd'hui, 24 jours après ta naissance, nous voulons te souhaiter la bienvenue au monde en t'adressant notre toute première lettre que nous espérons que ru pourras lire très bientôt 😉.
+Aujourd'hui, 24 jours après ta naissance, nous voulons te souhaiter la bienvenue au monde en t'adressant notre toute première lettre que nous espérons que tu pourras lire très bientôt 😉.
+
+![Une photo des mains de Michael](/media/whatsapp-image-2019-05-31-at-11.02.24.jpeg "Michael Aristote")
 
 > Nous sommes prêts à tout donner pour que tu sois le kid le plus heureux au monde.
 
@@ -39,11 +37,11 @@ Tu sais, tu es né le jour de l'anniversaire du début de la légende de Michael
 
 > J'espère que nous t'aiderons à connaitre et développer cette relation avec Dieu, le maître de tout temps et des circonstances.
 
-Michael-Aristote, pour ta mère et moi, tu es un don de Dieu. Oui, nous savons que tu grandiras dans une société où l'on ne croit plus vraiment à l'existence de Dieu. Mais tu sais nous, nous refusons de croire que nous sommes juste le résultat d'une explosion cosmique par hasard. Avec tout ce que nous avons traversé, toutes les experiences que nous avons vécues, nous croyons que Dieu existe et c'est bien son existence qui donne un sens à notre vie. Nous espérons que nous t'aiderons à connaitre et développer cette relation avec Dieu, le maître de tout temps et des circonstances.
+Michael-Aristote, pour ta mère et moi, tu es un don de Dieu. Oui, nous savons que tu grandiras dans une société où l'on ne croit plus vraiment à l'existence de Dieu. Mais tu sais nous, nous refusons de croire que nous sommes juste le résultat d'une explosion cosmique par hasard. Avec tout ce que nous avons traversé, toutes les expériences que nous avons vécues, nous croyons que Dieu existe et c'est bien son existence qui donne un sens à notre vie. Nous espérons que nous t'aiderons à connaitre et développer cette relation avec Dieu, le maître de tout temps et des circonstances.
 
 > Rappelles-toi toujours que ta diversité est une force. Utilises la pour contribuer à l'avancement de ton pays, le Canada.
 
-Mon fils bien-aimé, nous savons que tu te rendras vite compte que tu es différent de la majeure partie de tes compatriotes de par ta couleur de peau et origine de tes parents. Cependant, nous voulons que tu saches que c'est normal et surtout que cela ne te fasse pas sentir moins canadien que les autres. Tu dois plutôt toujours te rappeler que ta diversité est une force. Tu connaitras plus de langues, plus de cultures et tu auras plus d'une façon de voir les choses. Utilises donc cette diversité pour contribuer à ta manière à la société canadienne. La seule façon de te sentir vraiment canadien, c'est d'apporter toi aussi, à ta façon, ta pierre pour construire le Canada de demain.
+Mon fils bien-aimé, nous savons qu'à une étape de ta vie tu te rendras surement compte que tu es différent de la majeure partie de tes compatriotes de par ta couleur de peau et origine de tes parents. Il y'aura des gens (heureusement moins nombreux au Canada) qui essaieront de te faire sentir moins canadien que les autres. Cependant, nous voulons que tu saches que c'est normal, nous tes parents sommes aussi passés par là. Tu dois plutôt toujours te rappeler que ta diversité est une force. Tu connaitras plus de langues, plus de cultures et tu auras plus d'une façon de voir les choses. Utilises donc cette diversité pour contribuer à ta manière à la société canadienne. La seule façon de te sentir vraiment canadien, c'est d'apporter toi aussi, à ta façon, ta pierre pour construire le Canada de demain.
 
 > J'aimerais que tu n'oublies jamais la terre de tes ancêtres, la République Démocratique du Congo. Contribuer à son développement est le meilleur cadeau que tu puisses offrir à ton père.
 
