@@ -2,7 +2,7 @@
 template: post
 title: Lettre ouverte à notre fils Michael-Aristote Diasonama (Madi)!
 slug: bienvenue-michael-aristote-diasonama
-draft: true
+draft: false
 date: 2019-05-27T23:38:40.919Z
 description: >-
   Au Centre Hospitalier Universitaire de Québec (CHU), le 7 mai 2019 à 6h28,
