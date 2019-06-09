@@ -31,7 +31,8 @@ module.exports = {
       email: 'aristotediasonama@yahoo.fr',
       linkedin: 'diasonama',
       twitter: 'thefuture2092',
-      github: 'thefuture2092'
+      github: 'thefuture2092',
+      rss: 'https://www.didia.me/rss.xml'
     }
   }
 };

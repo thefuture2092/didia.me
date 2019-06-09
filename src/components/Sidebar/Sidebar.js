@@ -43,6 +43,7 @@ export const Sidebar = props => (
                 linkedin
                 github
                 email
+                rss
               }
             }
           }
