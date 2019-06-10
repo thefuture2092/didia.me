@@ -13,4 +13,9 @@ category: Software Engineering
 tags:
   - Software Engineering
 ---
-Imagine waking up to a notification saying your city has been targetted by a nuclear bomb, you should
+Imagine everybody in your city waking up to a notification saying you have been targetted by a nuclear bomb, you should evacuate as soon as possible. Imagine the chaos that will ensue while everybody is trying to escape... What if I told you, it was just a hoax by some kid still living with his parents? You wouldn't be happy, would you?
+
+Welp, this is the sort of things that can happen when a software system is not secure. Someone can misuse it in the worst possible way and cause chaos or even death to others.\
+Hacking has always been an issue since computer systems came into the existence. But in this internet of things age, it has now gotten both accessible and extremely dangerous. Developing a system without security or privacy in mind can expose people to dangers. Just look at [this website of unsecured cameras connected to the internet around the world](https://www.insecam.org/en/bycountry/CA/) to see the extent of it. These are things that should not exist in today's world.
+
+So who is to blame for this ?
