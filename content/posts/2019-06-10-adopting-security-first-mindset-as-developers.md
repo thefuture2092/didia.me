@@ -16,6 +16,11 @@ tags:
 Imagine everybody in your city waking up to a notification saying you have been targetted by a nuclear bomb, you should evacuate as soon as possible. Imagine the chaos that will ensue while everybody is trying to escape... What if I told you, it was just a hoax by some kid still living with his parents? You wouldn't be happy, would you?
 
 Welp, this is the sort of things that can happen when a software system is not secure. Someone can misuse it in the worst possible way and cause chaos or even death to others.\
-Hacking has always been an issue since computer systems came into the existence. But in this internet of things age, it has now gotten both accessible and extremely dangerous. Developing a system without security or privacy in mind can expose people to dangers. Just look at [this website of unsecured cameras connected to the internet around the world](https://www.insecam.org/en/bycountry/CA/) to see the extent of it. These are things that should not exist in today's world.
+Hacking has always been an issue since computer systems came into the existence. But in this internet of things age, it has now gotten both accessible and extremely dangerous. Developing a system without security or privacy in mind can expose people to dangers. Just look at [this website of unsecured cameras connected to the internet around the world](https://www.insecam.org/en/bycountry/CA/) to see the extent of it. These are things that should not be possible in today's world.
 
-So who is to blame for this ?
+So how do we avoid this?
+
+It is the responsability of those making software to make sure what they are building is safe for the users. If you talk about an agile setting, it starts with the project owner or program manager. You don't have to wait for the client to tell you they need security. When thinking about a feature, a product owner should always include a condution of success related to security and privacy.
+If for instance, you are building a content management system for a news site like CNN, you will want to make sure only people with the right to publish a story do so.
+
+After
