@@ -23,4 +23,8 @@ So how do we avoid this?
 It is the responsability of those making software to make sure what they are building is safe for the users. If you talk about an agile setting, it starts with the project owner or program manager. You don't have to wait for the client to tell you they need security. When thinking about a feature, a product owner should always include a condution of success related to security and privacy.
 If for instance, you are building a content management system for a news site like CNN, you will want to make sure only people with the right to publish a story do so.
 
-After
+After the PO, it should be a developer's responsability to assure that the feature he is developing is safe for end users. In order to do that, you should put yourself in a mind of someone who will want to abuse your system. If we go back to our CNN example, a jealous author should not be able to write and publish articles in the name of another author. You should be able to see who published an article and when he did so. As a developer, when you should be able to think about those issues. The simpler way to do that is to always think about your system as a potential target of hackers and think what would happen if your feature was misused.
+
+At the end of the day, going forward we will need to build software around privacy and security. Security issues are becoming more and more important with the rise of connected objects. So it's up to you as a developer to start learning about security and think security-first in features you are building.
+
+Until next time, peace ✌🏾
