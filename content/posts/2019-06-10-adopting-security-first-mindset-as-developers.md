@@ -5,26 +5,41 @@ slug: adopting-security-first-mindset-as-developers
 draft: true
 date: 2019-06-10T10:10:31.431Z
 description: >-
-  Cybersecutiry is becoming so important today that we cannot continue to put
-  security as an after-thought or leaving security to specific security team or
-  squad. I believe it is time for software developer as all, just like we
-  embrace devops, to embrace a security-first mindset. 
+  Cybersecutiry is becoming so important today that we should stop considering
+  security as an after-thought or leaving security to specific security team. I
+  believe all software developers should embrace a security-first mindset in all
+  their development activities.
 category: Software Engineering
 tags:
   - Software Engineering
 ---
-Imagine everybody in your city waking up to a notification saying you have been targetted by a nuclear bomb, you should evacuate as soon as possible. Imagine the chaos that will ensue while everybody is trying to escape... And one day later, after flying your entire family to another city, you are told it was just a hoax by some kid still living with his parents? You wouldn't be happy, would you?
+Dear friend,
 
-Welp, this is the sort of things that can happen when a software system is not secured enough. Someone can misuse it in the worst possible way and cause chaos or even death to others.\
-Hacking has always been an issue since computer systems came into existence. But in this age of internet of things, where everything in our lives is connected, it has now gotten both accessible and extremely dangerous. Developing a system without security or privacy in mind can expose people to dangers. Just look at [this website of unsecured cameras connected to the internet around the world](https://www.insecam.org/en/bycountry/CA/) to see the extent of it. These are things that should not be possible in today's world.
+Imagine everybody in your city waking up to a notification saying you have been targetted by a nuclear bomb, you should evacuate as soon as possible. Imagine the chaos that will ensue while everybody is trying to escape… And one day later, after flying your entire family to another city, you are told it was just a hoax by some dude still living in his parents basement? You wouldn't be happy, would you?
 
-So how do we avoid this?
+Welp, these are things that can happen when a software system is not secured enough. Someone can misuse it in the worst possible way and cause harm or even death to others.
 
-It is the responsability of those making software to make sure what they are building is safe for the users. If you talk about an agile setting, it starts with the project owner or program manager. You don't have to wait for the client to tell you they need security. When thinking about a feature, a product owner should always include a condution of success related to security and privacy.
-If for instance, you are building a content management system for a news site like CNN, you will want to make sure only people with the right to publish a story do so.
+Hacking has always been an issue since computer systems came into existence. But today, we are in the golden age of sophisticated hacking. Hacking is not only done by some dudes in their parents basement anymore. We now have countries setting up an army of hackers to attack other nations. My friend, we are in the age of cyber warfare. \
+And to make matters worse, with the advances in the field of internet of things, everything in our lives is connected. The potential surface of attack and damages have grown exponentially. Now people can kill you by hacking into your car or cadiac implants. People are being [spied on online](https://www.insecam.org/en/bycountry/CA/) because their camera is connected to the internet and they don't even know it.
 
-After the PO, it should be a developer's responsability to assure that the feature he is developing is safe for end users. In order to do that, you should put yourself in a mind of someone who will want to abuse your system. If we go back to our CNN example, a jealous author should not be able to write and publish articles in the name of another author. You should be able to see who published an article and when he did so. As a developer, when you should be able to think about those issues. The simpler way to do that is to always think about your system as a potential target of hackers and think what would happen if your feature was misused.
+As you can see, developing a system without security in mind should not be acceptable today. It exposes people to real dangers. Yes there is a job to do in making people aware of the risk they incur by using their products in an unsecure way but I do believe that the biggest chunk responsabilities lie in the hands of those making the products.
 
-At the end of the day, going forward we will need to build software around privacy and security. Security issues are becoming more and more important with the rise of connected objects. So it's up to you as a developer to start learning about security and think security-first in features you are building.
+It is the responsability of those making software to make sure what they are building is safe for end users. If you talk about an agile setting, it starts with the project owner or program manager. You don't have to wait for the client to tell you they need security. I will be even harsher, you don't need a client approval to implement security features for end users. When thinking about a feature, a product owner should always include some conditions of success related to security and privacy.
+
+For instance, in our connected cameras case above, the software operating those cameras should have come with a unique password by default to allow accessing the cameras through the internet. I bet most of the users are not even aware that their videos can be viewed online by anyone with an internet connexion.
+
+After the product owner, it should be the developer's responsability to assure that the feature he is developing is safe for end users. Developers will be the ones utilmately building the software so it is important for them to have a security-first mindset in order to cover as much ground as possible on security. I will go as far as suggesting that this should be part of our deontology as software developers. 
+
+To adopt a security mindset, I would suggest the following:
+
+1. Learn as much as you can about security and privacy. At least you should know the basics about possible attacks on the kind of software you are building.
+2. Whenever you are about to build a new feature, think about how the feature could be abused and used against your potential users.
+3. Try to use open source software or packages only from trusted sources or at least popular librairies. Though the latter does not garantee security, at least you have the benefits of having many eyes watching the project if it gets compromised one day.
+4. If you need to use software from an untrusted source, then do some due dilligence before and if you are using a dependy system, you should lock the dependency to the version you did due dilligence on and update manually when you need to.
+5. Be ass about security. Do not compromise on end users security. If the client insist on ditching the secutiry features (usually because of budget constraints), make him understand the consequences and sign a liabilty waiver 😀… You are a professional after all.
+
+Of course we are probably going to miss things and have some holes in our system that we did not think about. But it is always better to reduce the risk as much as possible. By adopting a security-first mindset, you are setting yourself up for success. 
+
+At the end of the day, going forward we will have no other choice than to build build software privacy and security centric software. The Apple, Google and Facebook of this world have understood it (At least I hope so). Security issues are becoming more and more important with the rise of connected objects that they cannot be ignored as in the past. So it's up to you as a developer to start learning about security and adopt a security-first mindset when building software.
 
 Until next time, peace ✌🏾
