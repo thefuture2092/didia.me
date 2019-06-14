@@ -16,17 +16,13 @@ module.exports = {
     {
       label: 'RDC Etudes',
       path: 'https://www.rdcetudes.com'
-    },
-    {
-      label: 'Congo Nouveau',
-      path: 'https://www.facebook.com/newcongo243'
     }
   ],
   author: {
     name: 'Didia Aristote Diasonama',
     photo: '/photo.jpg',
     bio:
-      'Husband, Father, Son, Brother. I make software for a living. Education and politics are some of my other areas of interests. I am a cofounder at RDC Etudes and founder of the political movement Congo Nouveau malgré nos politiciens!',
+      'Husband, Father, Son, Brother. I make software for a living. Education and politics are some of my other areas of interests. I am currently a software developer at Mirego and a co-founder and general coordinator at RDC Etudes!',
     contacts: {
       email: 'aristotediasonama@yahoo.fr',
       linkedin: 'diasonama',
