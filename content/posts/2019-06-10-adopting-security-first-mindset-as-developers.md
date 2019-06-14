@@ -2,7 +2,7 @@
 template: post
 title: Adopting security-first mindset as developers
 slug: adopting-security-first-mindset-as-developers
-draft: true
+draft: false
 date: 2019-06-10T10:10:31.431Z
 description: >-
   Cybersecutiry is becoming so important today that we should stop considering
