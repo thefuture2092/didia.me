@@ -2,7 +2,6 @@
 template: post
 title: Find the commit that introduced a bug faster than The Flash
 slug: using-bisect-to-find-bad-commit
-thumbnail: ../../static/media/find-buggy-commit-faster.jpg
 draft: false
 date: 2019-04-29T11:00:33.353Z
 description: >-
@@ -10,10 +9,7 @@ description: >-
   a commit that introduced a bug in your code, then git bisect is your friend.
 category: Software Engineering
 tags:
-  - software
-  - coding
-  - debugging
-  - development
+  - Software Engineering
 ---
 _Dear friend,_
 
