@@ -1,6 +1,6 @@
 ---
 template: post
-title: Adopting security-first mindset as developers
+title: Adopting a security-first mindset as developers
 slug: adopting-security-first-mindset-as-developers
 draft: false
 date: 2019-06-14T11:10:00.000Z
