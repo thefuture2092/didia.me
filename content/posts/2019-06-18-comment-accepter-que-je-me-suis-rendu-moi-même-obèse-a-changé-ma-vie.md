@@ -44,9 +44,9 @@ Il a fallu attendre l'été 2013 pour que je me rende compte finalement que j'é
 
 Juste 5 minutes après le début du match, j'étais complètement K.O, à bout de souffle, je ne pouvais plus courir. J'allais demander à sortir mais je me suis rappelé tout le hype que j'avais fait avant le match et les moqueries qui s'en suivront. J'ai donc décidé de continuer sur le terrain.\
 \
-Ça n'a pas été facile, j'ai joué de façon héroique et j'ai terminé la partie meilleure buteur du match. Ça, mon ami, c'est comme cela que j'espérais que cette épisode se termine. Mais hélas, juste 2 minutes après que j'ai pris un peu d'eau et j'ai récommencé à jouer, j'étais de nouveau K.O. Cette fois ci, il a fallu que l'on m'aide à quitter le terrain. Cher ami, si tu ne sais pas c'est quoi qu'on appelle la honte, ce jour là moi je l'ai découvert.
+Ça n'a pas été facile, j'ai joué de façon héroïque et j'ai terminé la partie meilleur buteur du match. Ça, mon ami, c'est comme cela que j'espérais que cette épisode se termine. Mais hélas, juste 2 minutes après que j'ai pris un peu d'eau et j'ai recommencé à jouer, j'étais de nouveau K.O. Cette fois ci, il a fallu que l'on m'aide à quitter le terrain. Cher ami, si tu ne sais pas c'est quoi qu'on appelle la honte, ce jour là moi je l'ai découvert.
 
 Après avoir vécu cette expérience, je suis rentré à la maison et curieusement ce jour là, c'était pour la première fois que je remarque que mes 6 packs dont j'étais très fier, n'étaient plus qu'un souvenir du passé. J'avais maintenant un gros ventre.\
 Cette découverte horrible cumulé à l'expérience humiliante de ma première partie de soccer au Canada, m'ont fait réalisé qu'il était temps de changer et reprendre les choses en mains.
 
-C'est ainsi que débuta mon processus de perte du poids, dont je vous en parlerai dans le prochain article de cette série Prendre plaisir à perdre du poids.
+C'est ainsi que débuta mon processus de perte du poids, dont je vous parlerai dans le prochain article de cette série Prendre plaisir à perdre du poids.
