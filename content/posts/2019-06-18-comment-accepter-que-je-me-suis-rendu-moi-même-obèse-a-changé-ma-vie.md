@@ -35,6 +35,7 @@ Par conséquent, une fois arrivé au Canada, j'ai fini par devenir client régul
 > En l'espace de 9 mois, je passais de 154 livres (70 Kg) à 216 livres (98 Kg)
 
 Un peu plus de 9 mois après mon arrivée au Canada, ce régime de malbouffe a fini par porter ses fruits: Fini Aristote le mince, bienvenu Aristote le gros. 
+
 <p>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D464366416988316%26set%3Dpb.100002448856234.-2207520000.1560926762.%26type%3D3%26theater&width=500&show_text=true&height=589" width="500" height="589" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 </p>
@@ -51,8 +52,9 @@ Alors qu'est-il finalement arrivé au moment de jouer au football ? Bien, du hau
 > Je devais revenir comme j'étais avant ou du moins être capable de rester ne fût-ce que 15 minutes sur un terrain de soccer.
 
 Cette expérience m'avait totalement choqué. Comment allais-je encore ouvrir ma grande bouche là ? Je suis rentré à la maison dépité. \
-Et c'est exactement ce jour là que, pour la première fois, j'ai remarqué que je n'avais plus mes 6 packs. Tout ça n'était plus qu'un souvenir du passé. J'avais maintenant un gros ventre. Une grosse bedaine comme on dit au Québec. 
+Et c'est exactement ce jour là que, pour la première fois, j'ai décidé de calculer mon index de masse corporelle (BMI), ce chiffre qui permet de situer dans la catégorie de mince, normal, surpoids ou obèse.\
+Le résultat était non équivoque. Pour une taille de 175 cm et une masse de 98 Kg, mon BMI était de 32. Et j'étais bien évidemment classé comme obèse. Et devant ce résultat la réalité m'a vite rattrapée. J'ai pensé à mes fameux 6 packs que je considérais comme acquis. Surprise! Ils n'étaient plus là eux non plus. Tout ça n'était plus qu'un souvenir du passé. J'avais maintenant un gros ventre. Une grosse bedaine comme on dit au Québec. 
 
-C'est donc cette expérience humiliante qui a fini par me faire réaliser que j'avais vraiment grossi et que ça ne devrait pas rester comme ça. Je devrais reprendre la situation au contrôle. Je devais revenir comme j'étais avant avec mes 6 packs et surtout capable au moins de rester ne fût-ce que 15 minutes sur un terrain de soccer. Mais comment m'y prendre avec cet amour déclaré que j'ai pour les KFC, McDonalds et tout ? Recommencer à cuisiner régulièrement ? C'est ce dont je vous parlerai dans le prochain article de cette série [_**Prendre plaisir à perdre du poids.**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
+C'est donc cette expérience humiliante qui a fini par me faire réaliser que j'avais vraiment grossi et que ça ne devrait pas rester comme ça. Je devrais reprendre la situation au contrôle. Je devais revenir comme j'étais avant avec mes 6 packs et surtout capable au moins de rester ne fût-ce que 15 minutes sur un terrain de soccer. Mais comment m'y prendre avec cet amour déclaré que j'ai pour les KFC, McDonalds et tout ? Recommencer à cuisiner régulièrement ? C'est ce dont je vous parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
