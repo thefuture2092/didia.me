@@ -2,7 +2,7 @@
 template: post
 title: Comment je suis devenu obèse en moins de 9 mois au Canada.
 slug: comment-je-suis-devenu-obese
-draft: true
+draft: false
 date: 2019-06-18T09:56:38.303Z
 description: >-
   Dans ce premier article de la série prendre plaisir à perdre du poids, je
