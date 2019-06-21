@@ -27,7 +27,7 @@ En effet, avant d'arriver au Canada en septembre 2012, je n'avais aucun problèm
 
 Hélas, arrivé au Canada tout a changé rapidement. Vivant seul, j'avais de la misère à cuisiner régulièrement et manger santé. La cuisine congolaise me prenais généralement 2 à 3 heures par jour. Pour moi, c'était juste inacceptable comme perte de temps… Blah Blah Blah
 
-Bon ça c'était la raison officielle que je donne d'habitude pour me sentir moins coupable. En fait, pour être honnête, la vrai raison c'est que je suis ne contrôle pas ce que je mange. Pour moi quand c'est bon, je mange. Je m'en fous éperdument du nombre de calories. J'aime le KFC, McDo, Subway, les Pizza et sans oublier les biscuits. En fait, surtout les biscuits!!! (Mes dents ne sont probablement pas en accord avec ça mais…)\
+Bon ça c'est la raison officielle que je donne d'habitude pour me sentir moins coupable. En fait, pour être honnête, la vrai raison c'est que je ne contrôle pas ce que je mange. Pour moi quand c'est bon, je mange. Je m'en fous éperdument du nombre de calories. J'aime le KFC, McDo, Subway, les Pizza et sans oublier les biscuits. En fait, surtout les biscuits!!! (Mes dents ne sont probablement pas en accord avec ça mais…)\
 Au Congo, je n'avais pas vraiment facilement accès à tout ça! En Inde, ça coûtait bien trop cher manger ces affaires là et de surcroît je ne travaillais pas.
 
 Par conséquent, une fois arrivé au Canada, j'ai fini par devenir client régulier de Domino's Pizza, du Ashton pour sa poutine et de Subway pour ses sandwichs sous-marins. Je m'étais même fait un horaire de consommation pour assurer la variation du menu. Lundi, subway, Mardi, pizza, Mercredi subway, Jeudi poutine, Vendredi pizza, samedi KFC et dimanche je cuisine quelque chose pour me donner bonne conscience.
@@ -35,8 +35,9 @@ Par conséquent, une fois arrivé au Canada, j'ai fini par devenir client régul
 > En l'espace de 9 mois, je passais de 154 livres (70 Kg) à 216 livres (98 Kg)
 
 Un peu plus de 9 mois après mon arrivée au Canada, ce régime de malbouffe a fini par porter ses fruits: Fini Aristote le mince, bienvenu Aristote le gros. 
-
+<p>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D464366416988316%26set%3Dpb.100002448856234.-2207520000.1560926762.%26type%3D3%26theater&width=500&show_text=true&height=589" width="500" height="589" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</p>
 
 Tout le monde ne cessait de me dire que j'avais grossi. Sur Facebook, mes amis de l'Inde et du Congo n'en revenaient juste pas. En l'espace de 9 mois, je passais de 154 livres(70 Kg) à 216 livres (98 Kg).
 
@@ -52,6 +53,6 @@ Alors qu'est-il finalement arrivé au moment de jouer au football ? Bien, du hau
 Cette expérience m'avait totalement choqué. Comment allais-je encore ouvrir ma grande bouche là ? Je suis rentré à la maison dépité. \
 Et c'est exactement ce jour là que, pour la première fois, j'ai remarqué que je n'avais plus mes 6 packs. Tout ça n'était plus qu'un souvenir du passé. J'avais maintenant un gros ventre. Une grosse bedaine comme on dit au Québec. 
 
-C'est donc cette expérience humiliante qui a fini par me faire réaliser que j'avais vraiment grossi et que ça ne devrait pas rester comme ça. Je devrais reprendre la situation au contrôle. Je devais revenir comme j'étais avant avec mes 6 packs et surtout capable au moins de rester ne fût-ce que 15 minutes sur un terrain de soccer. Mais comment m'y prendre avec cet amour déclaré que j'ai pour les KFC, McDonalds et tout ? Recommencer à cuisiner régulièrement ? C'est ce dont je vous parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
+C'est donc cette expérience humiliante qui a fini par me faire réaliser que j'avais vraiment grossi et que ça ne devrait pas rester comme ça. Je devrais reprendre la situation au contrôle. Je devais revenir comme j'étais avant avec mes 6 packs et surtout capable au moins de rester ne fût-ce que 15 minutes sur un terrain de soccer. Mais comment m'y prendre avec cet amour déclaré que j'ai pour les KFC, McDonalds et tout ? Recommencer à cuisiner régulièrement ? C'est ce dont je vous parlerai dans le prochain article de cette série [_**Prendre plaisir à perdre du poids.**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
