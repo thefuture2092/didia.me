@@ -13,7 +13,7 @@ category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
 ---
-_Cet article est la première de la série **Prendre plaisir à perdre du poids**, dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids et qui ressemble à un jeu vidéo plus qu'autre chose. En espérant que cela inspire aussi d'autres._
+_Cet article est la première de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids et qui ressemble à un jeu vidéo plus qu'autre chose. En espérant que cela inspire aussi d'autres._
 
 Cher ami,
 
@@ -52,6 +52,6 @@ Alors qu'est-il finalement arrivé au moment de jouer au football ? Bien, du hau
 Cette expérience m'avait totalement choqué. Comment allais-je encore ouvrir ma grande bouche là ? Je suis rentré à la maison dépité. \
 Et c'est exactement ce jour là que, pour la première fois, j'ai remarqué que je n'avais plus mes 6 packs. Tout ça n'était plus qu'un souvenir du passé. J'avais maintenant un gros ventre. Une grosse bedaine comme on dit au Québec. 
 
-C'est donc cette expérience humiliante qui a fini par me faire réaliser que j'avais vraiment grossi et que ça ne devrait pas rester comme ça. Je devrais reprendre la situation au contrôle. Je devais revenir comme j'étais avant avec mes 6 packs et surtout capable au moins de rester ne fût-ce que 15 minutes sur un terrain de soccer. Mais comment m'y prendre avec cet amour déclaré que j'ai pour les KFC, McDonalds et tout ? Recommencer à cuisiner régulièrement ? C'est ce dont je vous parlerai dans le prochain article de cette série **_Prendre plaisir à perdre du poids._**
+C'est donc cette expérience humiliante qui a fini par me faire réaliser que j'avais vraiment grossi et que ça ne devrait pas rester comme ça. Je devrais reprendre la situation au contrôle. Je devais revenir comme j'étais avant avec mes 6 packs et surtout capable au moins de rester ne fût-ce que 15 minutes sur un terrain de soccer. Mais comment m'y prendre avec cet amour déclaré que j'ai pour les KFC, McDonalds et tout ? Recommencer à cuisiner régulièrement ? C'est ce dont je vous parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
