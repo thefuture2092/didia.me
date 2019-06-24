@@ -12,6 +12,7 @@ description: >-
 category: Software Engineering
 tags:
   - Software Engineering
+thumbnail: /media/paid-security.jpg
 ---
 Dear friend,
 
