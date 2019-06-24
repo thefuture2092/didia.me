@@ -12,6 +12,7 @@ description: >-
 category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
+thumbnail: /media/228699_104858502939111_5149882_n-collage-1-.jpg
 ---
 _Cet article est la première de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
