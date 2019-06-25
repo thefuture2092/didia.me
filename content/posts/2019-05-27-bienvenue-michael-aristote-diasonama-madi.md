@@ -14,6 +14,7 @@ tags:
   - parents
   - enfants
   - famille
+thumbnail: /media/whatsapp-image-2019-05-31-at-11.02.24.jpeg
 ---
 Cher Michael-Aristote,
 

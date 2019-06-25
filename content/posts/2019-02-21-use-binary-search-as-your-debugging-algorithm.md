@@ -10,6 +10,7 @@ description: >-
 category: Software Engineering
 tags:
   - Software Engineering
+thumbnail: /media/find-buggy-commit-faster.jpg
 ---
 _Dear friend,_
 
