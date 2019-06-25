@@ -140,7 +140,7 @@ module.exports = {
           {
             site {
               siteMetadata {
-                url
+                siteUrl: url
               }
             }
             allSitePage(
