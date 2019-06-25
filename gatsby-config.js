@@ -3,6 +3,13 @@
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
 
+const netlifyCmsPaths = {
+  resolve: `gatsby-plugin-netlify-cms-paths`,
+  options: {
+    cmsConfig: `/static/admin/config.yml`
+  }
+};
+
 module.exports = {
   siteMetadata: {
     url: siteConfig.url,
@@ -14,6 +21,13 @@ module.exports = {
     author: siteConfig.author
   },
   plugins: [
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
+    'gatsby-plugin-netlify',
+    'gatsby-plugin-offline',
+    'gatsby-plugin-catch-links',
+    'gatsby-plugin-react-helmet',
+    netlifyCmsPaths,
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -24,15 +38,15 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/static/media`,
-        name: 'media'
+        name: 'assets',
+        path: `${__dirname}/static`
       }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'assets',
-        path: `${__dirname}/static`
+        path: `${__dirname}/static/media`,
+        name: 'media'
       }
     },
     {
@@ -109,9 +123,6 @@ module.exports = {
         ]
       }
     },
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
-    'gatsby-plugin-netlify',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
@@ -166,9 +177,6 @@ module.exports = {
         icon: 'static/photo.jpg'
       }
     },
-    'gatsby-plugin-offline',
-    'gatsby-plugin-catch-links',
-    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-sass',
       options: {

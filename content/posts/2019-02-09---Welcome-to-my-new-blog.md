@@ -2,7 +2,7 @@
 template: post
 title: Welcome to my new blog!
 slug: /posts/welcome/
-thumbnail: ../../static/media/writing.jpg
+thumbnail: /media/writing.jpg
 draft: false
 date: 2019-02-09T06:25:37.121Z
 description: >-
