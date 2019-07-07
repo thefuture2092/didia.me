@@ -38,12 +38,10 @@ Au début c'était une histoire d'amour et ça m'avait aussi aidé à perdre bea
 ## Utiliser le supplément Garcinia Cambogia
 
 Après l'echec de l'expérience Soylent, je me devais de trouver une alternative aussi efficace mais qui ne m'empêchera pas de manger normalement comme du monde. \
-C'est à la recherche de cette solution que j'ai découvert Garcinia Combogia via Instagram. Les promoteurs clamaient que ce produit pouver contribuer à perdre du poids sans effort. \
-J'ai donc sauté dans le BandWaggon. 
+C'est à la recherche de cette solution que j'ai découvert le supplément Garcinia Cambogia via Instagram. Ce supplément provient d'un fruit du même non et a pour effet principale de briller la graisse abdominale et ainsi aider dans la perte du poids. Je ne pouvais donc pas résister à cet appel.
 
-Voici donc ce que j'ai fait au cours de six ans pour perdre du poids:
+Après l'avoir utilisé pendant un ou deux mois, honnêtement je n'avais pas ressenti tant d'effet sur moi. C'est vrai que mon appétit avait considérablement baissé et chier était rendu presqu'une bataille quotidienne. Pour moi cette dernière était un no - no. Avoir de la peine à chier chaque jour était juste un effet secondaire que je ne pouvais accepter de vivre avec. J'ai donc dû complètement arrêté avec le Garcinia Cambogia.
 
-1. Augmenter ma frequence d'entrainement au gymn.
-2. Remplacer mes repas par le Soylent.
-3. Utiliser le médicament Cambodga Garcinia.
-4. S'inscrire au cours de Crossfit.
+## S'inscrire au crossfit
+
+Quand j'ai réjoint mon employeur en 2017, il y'avait de mes collègues qui faisaient un régime d'entrainement appelé crossfit.
