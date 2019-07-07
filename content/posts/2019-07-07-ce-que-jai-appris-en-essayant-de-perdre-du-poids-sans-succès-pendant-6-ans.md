@@ -44,4 +44,10 @@ Après l'avoir utilisé pendant un ou deux mois, honnêtement je n'avais pas res
 
 ## S'inscrire au crossfit
 
-Quand j'ai réjoint mon employeur en 2017, il y'avait de mes collègues qui faisaient un régime d'entrainement appelé crossfit.
+Quand j'ai rejoint mon employeur en 2017, il y'avait de mes collègues qui faisaient un régime d'entrainement appelé crossfit. Le crossfit est un programme de conditionnement physique de haute intensité qui combine principalement la force athlétique, l'haltérophilie, la gymnastique et les sports d'endurance. C'est probablement le meilleur programme d'entrainement que j'ai rencontré à date.\
+Ma première rencontre avec le crossfit était une catastrophe. J'étais tellement confiant du fait que je m'entrainais régulièrement que je m'attendais pas à ce que ça soit un gros challenge. Par excès de zèle, j'ai décidé de m'inscrire dans le groupe régulier plutôt que celui de débutant. Ce fut une catastrophe qui n'avait duré  que 15 minutes au lieu de 45 minutes d'une séance. J'étais complètement brûlé. Cela m'a motivé à respecter le crossfit et à continuer à m'entrainer.\
+C'est grâce au crossfit que j'avais considérablement perdu du poids jusqu'à atteindre 90 Kg juste avant mon mariage en Aout 2017.
+
+Toutefois, le crossift est un programme qui ne se concentre pas que sur la masse musculaire. Ainsi, bien que j'étais devenu plus en forme avec le crossfit, je commençais aussi à perdre ma masse musculaire. Hors je ne voulais pas perdre ma masse musculaire. On s'en fout de la forme, ce qui est important c'est l'extérieur, l'apparence 😅😅. \
+\
+C'est ainsi que j'avais décidé de reprendre aussi avec mon entrainement musculaire. Donc entre septembre et décembre 2017, je faisais les deux. Il y'avait même de temps où je faisais crossfit à 11h et entrainement musculaire à 18h. Mes coach de crossfit me prenait pour un fou, ils n'en revenaient pas et ne cessait de me dire que c'était dangereux. Et puis ce qui devrait arriver est bien arrivée, je me suis blessé aux épaules et au dos en un même jour à la fin de l'année 2017 et j'ai donc dû prendre pause du crossfit tout comme de l'entrainement musculaire.
