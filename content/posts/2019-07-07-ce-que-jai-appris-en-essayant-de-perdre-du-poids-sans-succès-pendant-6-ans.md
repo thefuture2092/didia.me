@@ -51,3 +51,18 @@ C'est grâce au crossfit que j'avais considérablement perdu du poids jusqu'à a
 Toutefois, le crossift est un programme qui ne se concentre pas que sur la masse musculaire. Ainsi, bien que j'étais devenu plus en forme avec le crossfit, je commençais aussi à perdre ma masse musculaire. Hors je ne voulais pas perdre ma masse musculaire. On s'en fout de la forme, ce qui est important c'est l'extérieur, l'apparence 😅😅. \
 \
 C'est ainsi que j'avais décidé de reprendre aussi avec mon entrainement musculaire. Donc entre septembre et décembre 2017, je faisais les deux. Il y'avait même de temps où je faisais crossfit à 11h et entrainement musculaire à 18h. Mes coach de crossfit me prenait pour un fou, ils n'en revenaient pas et ne cessait de me dire que c'était dangereux. Et puis ce qui devrait arriver est bien arrivée, je me suis blessé aux épaules et au dos en un même jour à la fin de l'année 2017 et j'ai donc dû prendre pause du crossfit tout comme de l'entrainement musculaire.
+
+## Descente finale aux enfers
+
+Au final, en voulant tout gagner j'avais tout perdu. Je suis resté sans m'entrainer pendant deux mois. Ce que je ne vous ai pas dit ce qu'à cause de l'intensité du double entrainement crossfit - musculaire, j'avais recommencé à manger comme un gros porc. Le problème c'est que quand j'ai arrêté de m'entrainer, je n'ai pas arrêté de manger. \
+Et deux mois après, à mon retour au Crossfit, je n'étais juste plus capable. À chaque entrainement, j'avais très mal à la hanche. Le crossfit était devenu pour moins amusant qu'avant. Je ne prenais plus plaisir à m'entrainer car bien que j'avais encore l'énergie pour poursuivre mon entrainement de la journée, mon dos me lachait trop souvent. J'ai donc arrêté definitivement avec le crossfit. Mon rythme d'entrainement musculaire était revenu à trois fois par semaine que je ne faisais même plus régulièrement, manquant de fois plusieurs semaines de suite.
+
+Je savais que tout ceci ne resterait pas sans conséquence mais je ne m'attendais vraiment pas à ce qui allait arriver ce 30 décembre 2018, quand j'avais décidé de rémonter sur ma balance pour pouvoir prendre des résolutions pour 2019. Elle indiquait maintenant 254 livres (115 Kg). 
+
+## Repartir de l'avant
+
+J'étais choqué et triste. C'était comme si après tous ces efforts de perte de poids, j'étais revenu au point de départ d'il y'a 6 ans… En fait, non même pas au point départ, mais en arrière même de la ligne de départ. Tout simplement, en essayant de perdre du poids pendant 6 ans, j'en avait gagné 38 livres (17 Kg). 
+
+Toutefois, au delà du choc, je savais que j'étais le seul responsable de ce qui m'arrivait. I did it to myself, comme disent nos amis anglophones. Et il n'y avait que moi qui pouvait réparer la situation. Et j'avais la volonté mais cette fois, je devrais trouver un nouveau programme de perte de poids qui allait tenir compte de ce qui n'a pas marché durant les six dernières années. C'est ce dont je vous parlerai dans le prochain article de cette série [_**Prendre plaisir à perdre du poids.**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
+
+À la prochaine ✌🏾
