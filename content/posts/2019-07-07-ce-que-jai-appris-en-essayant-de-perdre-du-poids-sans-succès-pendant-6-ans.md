@@ -16,31 +16,41 @@ _Cet article est la deuxième de la série [**Prendre plaisir à perdre du poids
 
 Cher ami,
 
-Après avoir remarqué que j'avais effectivement pris du poids, j'avais décidé de revenir à mon ancien moi. Durant 6 ans, j'étais devenu obsédé par mon poids. J'ai essayé plusieurs régimes pour en perdre mais quelle fût ma surprise lorsqu'en début d'année 2019, mon poids indiquait 254 livres (115 Kg). Donc en 6 ans de tentative de perte de poids, j'avais gagné 38 livres (17 Kg) de plus au lieu d'en perdre. Qu'est-ce qui n'avait donc pas marché ?
+Après avoir remarqué que j'avais effectivement pris du poids, j'avais décidé de revenir à mon ancien moi. Pendant 6 ans, j'ai essayé plusieurs régimes pour maigrir, je me suis donné à fond pour réduire mon poids. Quelle ne fût ma surprise lorsqu'en début d'année 2019, ma balance indiquait 254 livres (115 Kg). C'était comme ci le ciel m'était tombé sur la tête. Donc après 6 ans d'efforts continus, plutôt que perdre du poids, j'en avais gagné 38 livres (17 Kg) de plus. Qu'est-ce qui n'avait donc pas marché ?
 
-## Augmenter ma fréquence d'entrainement au gymn.
+## Augmenter ma fréquence d'entrainement au gym.
 
-En effet, la première décision que j'ai eu à l'été 2013, c'était d'augmenter ma fréquence d'entrainement au gymn. Plutôt que d'aller 3 fois par semaine comme avant, j'y allais pendant 5 jours, soit du lundi au vendredi. Il était hors de question pour moi d'arrêter de manger les pizzas ou les poulets KFC. Vous connaissez tous bien l'amour qui existe entre un noir et son poulet 😀.
+En effet, la première décision que j'ai eu pour perdre du poids, c'était d'augmenter ma fréquence d'entrainement au gym. Plutôt que d'aller 3 fois par semaine comme avant, j'y allais 5 fois, soit du lundi au vendredi. Il était hors de question pour moi d'arrêter de manger les pizzas ou les poulets KFC. Vous connaissez tous bien le profond amour qui existe entre un homme noir et son poulet 😀.
 
-Initialement le plan avait très bien marché, j'avais réussi à perdre du poids et en passant augmenter ma masse musculaire. Mais très vite dans le régime j'avais regagné plus que ce que j'avais perdu.\
-En fait ce qu'il faut savoir ce que quand l'on commence à beaucoup s'entrainer et augmenter la masse musculaire, le métabolisme du corps s'adapte et demande encore plus de nourriture. C'est ainsi que je m'étais rapidement retrouvé à manger encore plus qu'avant.
+Initialement le plan avait très bien marché, j'avais réussi à perdre du poids et en passant augmenter ma masse musculaire. Toutefois j'avais fini par très vite regagner tout le poids que j'avais perdu. Pourquoi ?\
+En fait ce qu'il faut savoir c'est que lorsqu'on commence à beaucoup s'entrainer et augmenter sa masse musculaire, le métabolisme du corps s'adapte et demande encore plus de nourriture. C'est ainsi que je m'étais rapidement retrouvé à manger encore beaucoup plus qu'avant.
 
-## Remplacer mes repas par le Soylent
+## Prendre du Soylent comme repas
 
-Après avoir réalisé que malgré mes entrainements intensifs, je n'avais toujours perdu la graisse abdominale et mes 6 packs étaient toujours cachés en moi, j'avais décidé d'aller voir un des coach d'entrainement au Gymn. Je me rappelerai toujours de sa réponse toute ma vie. Il me dit: "Les abs ne se construisent pas au Gymn mais à la cuisine."\
-Pour la première fois, j'avais commencé à considérer maintenant changer mon alimentation si mon objectif était vraiment de perdre du poids.\
+Après avoir réalisé que malgré mes entrainements intensifs, je n'avais toujours perdu la graisse abdominale et mes 6 packs étaient toujours cachés, j'étais allé voir un des coach d'entrainement au Gym pour savoir comment faire apparaitre rapidement les abdos. Parce que qu'on se le dise, être musclé avec un gros ventre, c'est comme avoir une Lamborghini avec un moteur de Honda civic. (J'ai aucune idée si ça fait du sens.)\
+Mais toujours est-il, je me rappellerai de sa réponse toute ma vie. Il me répondit alors: 
+
+> Les abs ne se construisent pas au Gym mais à la cuisine.
+
+Ça m'avait marqué comme réponse. Et ça faisait du sens, surtout en ce moment là. Alors j'avais décidé, pour la première fois, de reconsidérer mon alimentation.\
 \
-Cependant, comme d'habitude avec moi, je suis allé à l'extrême de la chose. J'ai remplacé complètement tout ce que je mangeais par le Soylent.\
-Pour ceux qui ne connaissent pas Solylent, c'est un subtitut de répas qui vient en forme de poudre et liquide et qui clame containir la majeure partie des nutrients dont le corps a besoin pour survivre.\
-Soylent venait tout juste de lancer et pour moi c'était une bénédiction du ciel. Vous vous imaginez ? Je n'avais plus besoin de cuisiner, je prenais 3L de Soylent par jour et j'avais mangé ce qu'il fallait.\
-Au début c'était une histoire d'amour et ça m'avait aussi aidé à perdre beaucoup de poids. Mais très vite le rêve s'est transformé en cauchemar. J'avais très vite réalisé que l'on ne mangeait pas seulement pour se nourrir mais aussi pour le plaisir qu'il y'a à manger. Manger chaque jour la même chose m'avait rendu misérable et j'ai donc dû abandonner Soylent complètement.
+Hors vous vous rappellerez que moi et la cuisine, nous n'étions vraiment pas des très bons amis. Il était difficile d'envisager retourner et commencer à cuisiner chaque jour.  Cependant, je l'ai fait pendant quelques semaines jusqu'à ce que je découvre quelque chose que je pensais à l'époque allait sauver ma vie: SOYLENT.
 
-## Utiliser le supplément Garcinia Cambogia
+\
+Pour ceux qui ne savent pas c'est quoi le Soylent, c'est un substitut de repas qui vient en forme de poudre ou liquide et qui clame contenir la majeure partie des nutrients dont le corps a besoin pour survivre.\
+À l'époque, Soylent venait tout juste de lancer et pour moi c'était une bénédiction du ciel. Vous vous imaginez ? Je n'avais plus besoin de cuisiner, je prenais 3L de Soylent par jour et je mangeais tout ce qu'il me fallait. En plus avec Soylent, je pouvais facilement la quantité de calories que je prenais par jour.
 
-Après l'echec de l'expérience Soylent, je me devais de trouver une alternative aussi efficace mais qui ne m'empêchera pas de manger normalement comme du monde. \
-C'est à la recherche de cette solution que j'ai découvert le supplément Garcinia Cambogia via Instagram. Ce supplément provient d'un fruit du même non et a pour effet principale de briller la graisse abdominale et ainsi aider dans la perte du poids. Je ne pouvais donc pas résister à cet appel.
+Malheureusement, encore là, notre histoire d'amour n'a duré que 3 petits mois. J'avais sous estimé l'importance de la nourriture dans nos vies. En fait, on ne mange pas seulement pour se nourrir mais aussi pour le plaisir qu'il y'a à manger. J'ai vite découvert que manger chaque jour la même chose m'avait rendu misérable et j'ai dû abandonné mon expérience Soylent.
 
-Après l'avoir utilisé pendant un ou deux mois, honnêtement je n'avais pas ressenti tant d'effet sur moi. C'est vrai que mon appétit avait considérablement baissé et chier était rendu presqu'une bataille quotidienne. Pour moi cette dernière était un no - no. Avoir de la peine à chier chaque jour était juste un effet secondaire que je ne pouvais accepter de vivre avec. J'ai donc dû complètement arrêté avec le Garcinia Cambogia.
+PS: Une autre raison pour laquelle j'ai vraiment abandonné Soylent, ce que ça provoquait des pets qui sentaient vraiment mauvais, alors vraiment mauvais. Et chier, ce plaisir qu'est chier, devenait une ressource rare. De fois, je passais une semaine toute entière sans chier et lorsqu'arrivait le moment de chier, c'était juste un caca liquide. Vous vous imaginez le clavaire pour une personne qui adore chier comme moi ?
+
+## Prendre le supplément Garcinia Cambogia
+
+Après l'échec de l'expérience Soylent, je me devais de trouver une alternative aussi efficace mais qui ne m'aurait pas empêché de manger et chier normalement comme du monde. C'est dans cette recherche, qu'un de mes collègues de travail m'avait parlé du supplément Garcinia Cambogia.
+
+Ce supplément, qui provient d'un fruit du même nom, a pour effet principale de brûler la graisse abdominale et ainsi aider dans la perte du poids. Juste tout ce que je cherchais. Je pensais là avoir trouvé la solution magique.
+
+Bien que ce supplément m'avait beaucoup aidé, surtout dans la diminution de l'appétit, il avait aussi un effet secondaire sur le système digestif. Comme avec le Soylent, chier était devenu très rare en prenant du Garcinia Cambogia. Cependant le pire c'était que quand ça arrivait le temps de chier, c'était l'enfer. Contrairement au Soylent, je pouvais passer une heure assis à la toilette, tellement ça faisait mal chier. Les cacas étaient rendu trop durs et je me blessais à chaque fois que j'allais chier. C'était l'enfer aussi. J'ai donc fini par arrêter le Garcinia Cambogia malgré l'effet positif que sur l'appétit.
 
 ## S'inscrire au crossfit
 
@@ -63,6 +73,6 @@ Je savais que tout ceci ne resterait pas sans conséquence mais je ne m'attendai
 
 J'étais choqué et triste. C'était comme si après tous ces efforts de perte de poids, j'étais revenu au point de départ d'il y'a 6 ans… En fait, non même pas au point départ, mais en arrière même de la ligne de départ. Tout simplement, en essayant de perdre du poids pendant 6 ans, j'en avait gagné 38 livres (17 Kg). 
 
-Toutefois, au delà du choc, je savais que j'étais le seul responsable de ce qui m'arrivait. I did it to myself, comme disent nos amis anglophones. Et il n'y avait que moi qui pouvait réparer la situation. Et j'avais la volonté mais cette fois, je devrais trouver un nouveau programme de perte de poids qui allait tenir compte de ce qui n'a pas marché durant les six dernières années. C'est ce dont je vous parlerai dans le prochain article de cette série [_**Prendre plaisir à perdre du poids.**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
+Toutefois, au delà du choc, je savais que j'étais le seul responsable de ce qui m'arrivait. I did it to myself, comme disent nos amis anglophones. Et il n'y avait que moi qui pouvait réparer la situation. Et j'avais la volonté mais cette fois, je devrais trouver un nouveau programme de perte de poids qui allait tenir compte de ce qui n'a pas marché durant les six dernières années. C'est ce dont je vous parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
