@@ -37,6 +37,7 @@ Après avoir réalisé que malgré mes entrainements intensifs, je n'avais toujo
 Or, vous vous rappellerez que moi et la cuisine, nous n'étions vraiment pas des très bons amis. Il était difficile d'envisager retourner et commencer à cuisiner chaque jour.  Cependant, je l'ai quand-même fait pendant quelques semaines jusqu'à ce que je découvre quelque chose qui, je pensais à l'époque, allait changer ma vie: SOYLENT.\
 \
 Pour ceux qui ne savent pas c'est quoi le Soylent, c'est un substitut de repas qui vient en forme de poudre ou liquide et qui clame contenir la majeure partie des nutrients dont le corps a besoin pour survivre.\
+\
 À l'époque, Soylent venait tout juste de lancer et pour moi c'était une bénédiction du ciel. Vous vous imaginez ? Je n'avais plus besoin de cuisiner, je prenais 3L de Soylent par jour et je mangeais tout ce qu'il me fallait. En plus avec Soylent, je pouvais facilement la quantité de calories que je prenais par jour.
 
 Malheureusement, encore là, notre histoire d'amour n'a duré que 3 petits mois. J'avais sous estimé l'importance de la nourriture dans nos vies. En fait, on ne mange pas seulement pour se nourrir mais aussi pour le plaisir qu'il y'a à manger. J'ai vite découvert que manger chaque jour la même chose m'avait rendu misérable et j'ai dû abandonné mon expérience Soylent.
