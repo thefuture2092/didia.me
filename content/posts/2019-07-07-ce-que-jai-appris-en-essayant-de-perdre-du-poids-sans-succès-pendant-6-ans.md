@@ -23,19 +23,18 @@ Après avoir remarqué que j'avais effectivement pris du poids, j'avais décidé
 En effet, la première décision que j'ai eu pour perdre du poids, c'était d'augmenter ma fréquence d'entrainement au gym. Plutôt que d'aller 3 fois par semaine comme avant, j'y allais 5 fois, soit du lundi au vendredi. Il était hors de question pour moi d'arrêter de manger les pizzas ou les poulets KFC. Vous connaissez tous bien le profond amour qui existe entre un homme noir et son poulet 😀.
 
 Initialement le plan avait très bien marché, j'avais réussi à perdre du poids et en passant augmenter ma masse musculaire. Toutefois j'avais fini par très vite regagner tout le poids que j'avais perdu. Pourquoi ?\
+\
 En fait ce qu'il faut savoir c'est que lorsqu'on commence à beaucoup s'entrainer et augmenter sa masse musculaire, le métabolisme du corps s'adapte et demande encore plus de nourriture. C'est ainsi que je m'étais rapidement retrouvé à manger encore beaucoup plus qu'avant.
 
 ## Prendre du Soylent comme repas
 
-Après avoir réalisé que malgré mes entrainements intensifs, je n'avais toujours perdu la graisse abdominale et mes 6 packs étaient toujours cachés, j'étais allé voir un des coach d'entrainement au Gym pour savoir comment faire apparaitre rapidement les abdos. Parce que qu'on se le dise, être musclé avec un gros ventre, c'est comme avoir une Lamborghini avec un moteur de Honda civic. (J'ai aucune idée si ça fait du sens.)\
-Mais toujours est-il, je me rappellerai de sa réponse toute ma vie. Il me répondit alors: 
+Après avoir réalisé que malgré mes entrainements intensifs, je n'avais toujours perdu la graisse abdominale et mes 6 packs étaient toujours cachés, j'étais allé voir un des coach d'entrainement au Gym pour savoir comment faire apparaitre rapidement mes abdos. Parce que, qu'on se le dise, être musclé avec un gros ventre, c'est comme avoir une Lamborghini avec un moteur de Honda civic. Ça n'a juste pas le même résultat (If you know what I'm saying 😜). Mais toujours est-il, je me rappellerai de sa réponse toute ma vie:
 
 > Les abs ne se construisent pas au Gym mais à la cuisine.
 
 Ça m'avait marqué comme réponse. Et ça faisait du sens, surtout en ce moment là. Alors j'avais décidé, pour la première fois, de reconsidérer mon alimentation.\
 \
-Hors vous vous rappellerez que moi et la cuisine, nous n'étions vraiment pas des très bons amis. Il était difficile d'envisager retourner et commencer à cuisiner chaque jour.  Cependant, je l'ai fait pendant quelques semaines jusqu'à ce que je découvre quelque chose que je pensais à l'époque allait sauver ma vie: SOYLENT.
-
+Or, vous vous rappellerez que moi et la cuisine, nous n'étions vraiment pas des très bons amis. Il était difficile d'envisager retourner et commencer à cuisiner chaque jour.  Cependant, je l'ai quand-même fait pendant quelques semaines jusqu'à ce que je découvre quelque chose qui, je pensais à l'époque, allait changer ma vie: SOYLENT.\
 \
 Pour ceux qui ne savent pas c'est quoi le Soylent, c'est un substitut de repas qui vient en forme de poudre ou liquide et qui clame contenir la majeure partie des nutrients dont le corps a besoin pour survivre.\
 À l'époque, Soylent venait tout juste de lancer et pour moi c'était une bénédiction du ciel. Vous vous imaginez ? Je n'avais plus besoin de cuisiner, je prenais 3L de Soylent par jour et je mangeais tout ce qu'il me fallait. En plus avec Soylent, je pouvais facilement la quantité de calories que je prenais par jour.
