@@ -10,8 +10,12 @@ module.exports = {
   googleAnalyticsId: 'UA-116959149-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Accueil',
       path: '/'
+    },
+    {
+      label: 'Prendre Plaisir à Perdre du Poids',
+      path: '/category/prendre-plaisir-a-perdre-du-poids/'
     },
     {
       label: 'RDC Etudes',
