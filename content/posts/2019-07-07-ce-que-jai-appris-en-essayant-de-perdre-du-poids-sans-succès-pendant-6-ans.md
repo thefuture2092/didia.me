@@ -4,7 +4,7 @@ title: Ce que j'ai appris en essayant de perdre du poids sans succès pendant 6 
 draft: false
 date: 2019-07-10T21:00:24.557Z
 description: >-
-  Dans ce deuxième article de la série prendre plaisir à perdre du poids, je
+  Dans ce deuxième article de la série Prendre Plaisir à Perdre du Poids, je
   parle de comment pendant 6 ans j'ai essayé de perdre en vain du poids. J'avais
   l'impression que pour chaque 2 lives (1 Kg) que je perdais j'en gagnais 3
   livres (1.5 Kg) quelques jours seulement après la fin du programme.
