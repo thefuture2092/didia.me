@@ -18,7 +18,7 @@ Cher ami,
 
 Après avoir remarqué que j'avais effectivement pris du poids, j'avais décidé de revenir à mon ancien moi. Pendant 6 ans, j'ai essayé plusieurs régimes pour maigrir, je me suis donné à fond pour réduire mon poids. Quelle ne fût ma surprise lorsqu'en début d'année 2019, ma balance indiquait 254 livres (115 Kg). C'était comme ci le ciel m'était tombé sur la tête. Donc après 6 ans d'efforts continus, plutôt que perdre du poids, j'en avais gagné 38 livres (17 Kg) de plus. Qu'est-ce qui n'avait donc pas marché ?
 
-## Augmenter ma fréquence d'entrainement au gym.
+## Augmenter ma fréquence d'entrainement au gym
 
 En effet, la première décision que j'ai eu pour perdre du poids, c'était d'augmenter ma fréquence d'entrainement au gym. Plutôt que d'aller 3 fois par semaine comme avant, j'y allais 5 fois, soit du lundi au vendredi. Il était hors de question pour moi d'arrêter de manger les pizzas ou les poulets KFC. Vous connaissez tous bien le profond amour qui existe entre un homme noir et son poulet 😀.
 
@@ -26,7 +26,7 @@ Initialement le plan avait très bien marché, j'avais réussi à perdre du poid
 \
 En fait ce qu'il faut savoir c'est que lorsqu'on commence à beaucoup s'entrainer et augmenter sa masse musculaire, le métabolisme du corps s'adapte et demande encore plus de nourriture. C'est ainsi que je m'étais rapidement retrouvé à manger encore beaucoup plus qu'avant.
 
-## Prendre du Soylent comme repas
+## Remplacer mes repas par du Soylent
 
 Après avoir réalisé que malgré mes entrainements intensifs, je n'avais toujours perdu la graisse abdominale et mes 6 packs étaient toujours cachés, j'étais allé voir un des coach d'entrainement au Gym pour savoir comment faire apparaitre rapidement mes abdos. Parce que, qu'on se le dise, être musclé avec un gros ventre, c'est comme avoir une Lamborghini avec un moteur de Honda civic. Ça n'a juste pas le même résultat (If you know what I'm saying 😜). Mais toujours est-il, je me rappellerai de sa réponse toute ma vie:
 
@@ -52,27 +52,35 @@ Ce supplément, qui provient d'un fruit du même nom, a pour effet principale de
 
 Bien que ce supplément m'avait beaucoup aidé, surtout dans la diminution de l'appétit, il avait aussi un effet secondaire sur le système digestif. Comme avec le Soylent, chier était devenu très rare en prenant du Garcinia Cambogia. Cependant le pire c'était que quand ça arrivait le temps de chier, c'était l'enfer. Contrairement au Soylent, je pouvais passer une heure assis à la toilette, tellement ça faisait mal chier. Les cacas étaient rendu trop durs et je me blessais à chaque fois que j'allais chier. C'était l'enfer aussi. J'ai donc fini par arrêter le Garcinia Cambogia malgré l'effet positif que sur l'appétit.
 
-## S'inscrire au crossfit
+## S'entrainer deux fois par jour.
 
-Quand j'ai rejoint mon employeur en 2017, il y'avait de mes collègues qui faisaient un régime d'entrainement appelé crossfit. Le crossfit est un programme de conditionnement physique de haute intensité qui combine principalement la force athlétique, l'haltérophilie, la gymnastique et les sports d'endurance. C'est probablement le meilleur programme d'entrainement que j'ai rencontré à date.\
-Ma première rencontre avec le crossfit était une catastrophe. J'étais tellement confiant du fait que je m'entrainais régulièrement que je m'attendais pas à ce que ça soit un gros challenge. Par excès de zèle, j'ai décidé de m'inscrire dans le groupe régulier plutôt que celui de débutant. Ce fut une catastrophe qui n'avait duré  que 15 minutes au lieu de 45 minutes d'une séance. J'étais complètement brûlé. Cela m'a motivé à respecter le crossfit et à continuer à m'entrainer.\
-C'est grâce au crossfit que j'avais considérablement perdu du poids jusqu'à atteindre 90 Kg juste avant mon mariage en Aout 2017.
-
-Toutefois, le crossift est un programme qui ne se concentre pas que sur la masse musculaire. Ainsi, bien que j'étais devenu plus en forme avec le crossfit, je commençais aussi à perdre ma masse musculaire. Hors je ne voulais pas perdre ma masse musculaire. On s'en fout de la forme, ce qui est important c'est l'extérieur, l'apparence 😅😅. \
+En milieu d'année 2017, j'ai découvert un régime d'entrainement appelé crossfit. Quelques collègues au boulot le pratiquer et ça avait fini par piquer ma curiosité. Le crossfit est un programme de conditionnement physique de haute intensité qui combine principalement la force athlétique, l'haltérophilie, la gymnastique et les sports d'endurance. C'est probablement le meilleur programme d'entrainement que j'ai rencontré à date.\
 \
-C'est ainsi que j'avais décidé de reprendre aussi avec mon entrainement musculaire. Donc entre septembre et décembre 2017, je faisais les deux. Il y'avait même de temps où je faisais crossfit à 11h et entrainement musculaire à 18h. Mes coach de crossfit me prenait pour un fou, ils n'en revenaient pas et ne cessait de me dire que c'était dangereux. Et puis ce qui devrait arriver est bien arrivée, je me suis blessé aux épaules et au dos en un même jour à la fin de l'année 2017 et j'ai donc dû prendre pause du crossfit tout comme de l'entrainement musculaire.
+Pourtant ma première rencontre avec le crossfit était catastrophique. Vois-tu, j'étais une personne qui m'entrainait déjà régulièrement avant de commencer à faire le crossfit. J'étais tellement confiant que j'ai décidé de m'inscrire dans le groupe régulier plutôt que celui de débutant. \
+Une séance de crossfit dure normalement 45 minutes. Je n'avais résisté que pendant 15 minutes. J'étais complètement brulé que j'avais l'impression que j'allais vomir mon coeur. C'est ce jour là que je me suis rendu compte que j'étais probablement musclé mais mon cardio était à zéro. \
+C'est après cette humiliation de la première journée que j'ai soudainement eu beaucoup de respect pour le crossfit et je suis devenu super motivé à continuer. Juste 4 petits mois après avoir commencé, le résultat était super positif. J'avais réussi à redescendre à 198 livres (90 Kg) juste avant mon mariage. 😅 
+
+Toutefois, en même temps que je faisais le crossfit, j'avais l'impression de perdre ma masse musculaire. Oui je perdais du poids mais cela venait avec le prix de perdre ma masse musculaire. Pour moi, c'était inacceptable car, qu'on se le dise, on s'en fout un peu d'être en forme ou pas, ce qui compte c'est l'extérieur, l'apparence 😅😅😅. Je voulais récupérer mes muscles.
+
+C'est donc à cause de cette façon de voir les choses dont je ne suis plus fier aujourd'hui que j'avais décidé de reprendre mon entrainement musculaire. Donc de septembre à décembre 2017, je m'entrainais deux fois par jour, lundi, mercredi, vendredi. Je faisais le crossfit à 11h et je faisais l'entrainement à 18h. Quand mes coach de crossfit me voyaient, ils n'en revenaient pas, mes amis me disaient que c'était dangereux et que j'allais finir par me blesser. Moi je répondais comme un fou: «C'est en se déchirant que les muscles se reconstruisent! »
+
+Puis ce qui devrait arriver est bel et bien arrivée. Je me suis doublement blessé à l'épaule droite et à la hanche au début de l'année 2018. Je ne pouvais ni faire le crossfit, ni l'entrainement musculaire. J'avais tout arrêté.
 
 ## Descente finale aux enfers
 
-Au final, en voulant tout gagner j'avais tout perdu. Je suis resté sans m'entrainer pendant deux mois. Ce que je ne vous ai pas dit ce qu'à cause de l'intensité du double entrainement crossfit - musculaire, j'avais recommencé à manger comme un gros porc. Le problème c'est que quand j'ai arrêté de m'entrainer, je n'ai pas arrêté de manger. \
-Et deux mois après, à mon retour au Crossfit, je n'étais juste plus capable. À chaque entrainement, j'avais très mal à la hanche. Le crossfit était devenu pour moins amusant qu'avant. Je ne prenais plus plaisir à m'entrainer car bien que j'avais encore l'énergie pour poursuivre mon entrainement de la journée, mon dos me lachait trop souvent. J'ai donc arrêté definitivement avec le crossfit. Mon rythme d'entrainement musculaire était revenu à trois fois par semaine que je ne faisais même plus régulièrement, manquant de fois plusieurs semaines de suite.
+Je suis resté sans m'entrainer pendant deux mois. Ce que je ne vous ai pas dit ce qu'à cause de l'intensité du double entrainement crossfit - musculaire, j'avais recommencé à manger comme un gros porc. Le problème c'est que quand j'ai arrêté de m'entrainer, je n'ai pas arrêté de manger 🤦🏾‍♂️. 
 
-Je savais que tout ceci ne resterait pas sans conséquence mais je ne m'attendais vraiment pas à ce qui allait arriver ce 30 décembre 2018, quand j'avais décidé de rémonter sur ma balance pour pouvoir prendre des résolutions pour 2019. Elle indiquait maintenant 254 livres (115 Kg). 
+Deux mois après, j'ai tenté un retour au crossfit. Sans succès!!! À chaque entrainement, j'avais très mal à la hanche. Je voulais forcer et continuer à le faire à cause des résultats précédemment obtenus mais ce n'était juste plus amusant comme avant. Même quand j'avais encore assez d'énergie pour compléter une séance, mon dos me lâchait. J'ai donc dû abandonner le crossfit.
+
+Quid de mon entrainement musculaire ?  L'expérience du crossfit m'avait aussi démotivé à continuer l'entrainement musculaire. À chaque fois que je pensais à ailler m'entrainer, je pensais automatiquement à la peine que j'avais à la hanche et je n'avais pas de motivation à y aller. Je ne m'entrainais donc plus régulièrement comme avant, manquant de fois plusieurs semaines de suite. Au final, en voulant tout gagner j'avais tout perdu. 
+
+Évidemment tout ceci n'est pas resté sans conséquence sur mon poids. Je le savais, je le sentais. Voilà pourquoi je n'osais même pas monter sur ma balance 😀. \
+Finalement c'est arrivé le 30 décembre 2018. Ce jour là, avec ma femme nous parlions de nos résolutions pour l'année 2019 qui s'en venait. Pour moi c'était reprendre le contrôle sur mon forme. J'ai donc décidé de monter sur ma balance pour savoir où j'en étais. La balance affichait clairement 254 livres (115 Kg). J'ai dû remonter au moins 5 fois de suite car je n'en revenais juste pas. 
 
 ## Repartir de l'avant
 
-J'étais choqué et triste. C'était comme si après tous ces efforts de perte de poids, j'étais revenu au point de départ d'il y'a 6 ans… En fait, non même pas au point départ, mais en arrière même de la ligne de départ. Tout simplement, en essayant de perdre du poids pendant 6 ans, j'en avait gagné 38 livres (17 Kg). 
+J'étais choqué et triste. C'était comme si après tous ces efforts de perte de poids, j'étais revenu au point de départ d'il y'a 6 ans… En fait non! Même pas au point départ, mais en arrière de la ligne de départ. Tout simplement, en essayant de perdre du poids pendant 6 ans, j'en avais plutôt gagné 38 livres (17 Kg). 
 
-Toutefois, au delà du choc, je savais que j'étais le seul responsable de ce qui m'arrivait. I did it to myself, comme disent nos amis anglophones. Et il n'y avait que moi qui pouvait réparer la situation. Et j'avais la volonté mais cette fois, je devrais trouver un nouveau programme de perte de poids qui allait tenir compte de ce qui n'a pas marché durant les six dernières années. C'est ce dont je vous parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
+J'étais choqué. Mais je savais que j'étais le seul responsable de ce qui m'arrivait. J'avais arrêté de prendre soin de moi. Pour certaines personnes, "être en forme" vient naturellement. Pour d'autres comme moi, il faut constamment y travailler et veiller. Je devrais donc repartir mais ça aurait été idiot de repartir avec les mêmes solutions qui n'ont pas marché pendant six ans. Je devrais donc faire une introspection et mettre en place quelque chose, un programme qui allait adresser tout ce qui n'avait pas marché pendant les 6 dernières années. Je pense avoir finalement réussi à faire et c'est ce dont je te parlerai dans le prochain article de cette série [_**Prendre plaisir à perdre du poids.**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
