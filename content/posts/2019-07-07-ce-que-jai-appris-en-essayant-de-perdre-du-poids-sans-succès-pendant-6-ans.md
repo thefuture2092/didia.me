@@ -36,8 +36,6 @@ Après avoir réalisé que malgré mes entraînements intensifs, je n'avais touj
 
 Ça m'avait marqué comme réponse. Et ça faisait du sens, surtout en ce moment là. Alors j'avais décidé, pour la première fois, de reconsidérer mon alimentation.
 
-
-
 ![A black man with a thumbs up gesture with arrows towards belly and muscles](/media/10661722_961171013898005_2997289113553107312_o.jpg "Moi en 2014")
 
 \
@@ -49,7 +47,7 @@ Pour ceux qui ne savent pas c'est quoi le Soylent, c'est un substitut de repas q
 
 Malheureusement, encore là, notre histoire d'amour n'a duré que 3 petits mois. J'avais sous estimé l'importance de la nourriture dans nos vies. En fait, on ne mange pas seulement pour se nourrir mais aussi pour le plaisir qu'il y'a à manger. J'ai vite découvert que manger chaque jour la même chose m'avait rendu misérable et j'ai dû abandonner mon expérience Soylent.
 
-PS: Une autre raison pour laquelle j'ai vraiment abandonné Soylent, c'est que ça provoquait des pets qui sentaient vraiment mauvais, alors vraiment mauvais. Et chier, ce plaisir qu'est chier, devenait une ressource rare. De fois, je passais une semaine toute entière sans chier et lorsqu'arrivait le moment de chier, c'était juste un caca liquide. Vous vous imaginez le calvaire pour une personne qui adore chier comme moi ?
+PS: Une autre raison pour laquelle j'ai vraiment abandonné Soylent, c'est que ça provoquait des pets qui sentaient vraiment mauvais, alors vraiment mauvais. Et chier, ce plaisir qu'est ce moment de chier, devenait quelque chose de très rare. De fois, je passais une semaine toute entière sans chier. Vous vous imaginez ce calvaire ?
 
 ## Prendre le supplément Garcinia Cambogia
 
@@ -59,7 +57,7 @@ Après l'échec de l'expérience Soylent, je me devais de trouver une alternativ
 
 Ce supplément, qui provient d'un fruit du même nom, a pour effet principale de brûler la graisse abdominale et ainsi aider dans la perte du poids. Juste tout ce que je cherchais. Je pensais là avoir trouvé la solution magique.
 
-Bien que ce supplément m'avait beaucoup aidé, surtout dans la diminution de l'appétit, il avait aussi un effet secondaire sur le système digestif. Comme avec le Soylent, chier était devenu très rare en prenant du Garcinia Cambogia. Cependant le pire c'était que quand ça arrivait le temps de chier, c'était l'enfer. Contrairement au Soylent, je pouvais passer une heure assis à la toilette, tellement ça faisait mal chier. Les cacas étaient rendu trop durs et je me blessais à chaque fois que j'allais chier. C'était l'enfer aussi. J'ai donc fini par arrêter le Garcinia Cambogia malgré l'effet positif que sur l'appétit.
+Bien que ce supplément m'avait beaucoup aidé, surtout dans la diminution de l'appétit, il avait aussi un effet secondaire sur le système digestif. Comme avec le Soylent, chier était devenu très rare en prenant du Garcinia Cambogia. Cependant le pire c'était que quand arrivait le temps de chier, c'était l'enfer. Contrairement au Soylent, je pouvais passer une heure assis à la toilette, tellement ça faisait mal. C'était l'enfer aussi. J'ai donc fini par arrêter le Garcinia Cambogia malgré l'effet positif de réduction d'appétit.
 
 ## S'entrainer deux fois par jour.
 
@@ -95,6 +93,6 @@ J'étais choqué et triste. C'était comme si après tous ces efforts de perte d
 
 ![Un homme noir avec une chemise bleu ciel.](/media/a9df888bf1404420853c44484aa5bfc8.jpg "Moi avec mon nouveau gros ventre")
 
-J'étais choqué. Mais je savais que j'étais le seul responsable de ce qui m'arrivait. J'avais arrêté de prendre soin de moi-même. Pour certaines personnes, "être en forme" vient naturellement. Pour d'autres comme moi, il faut constamment y travailler et veiller. Je devrais donc repartir de l'avant. Toutefois ça aurait été idiot de repartir avec les mêmes solutions qui n'ont pas marché pendant six ans. Je devais donc faire une introspection et mettre en place quelque chose, un programme qui allait adresser tout ce qui n'avait pas marché pendant les 6 dernières années. Je pense avoir finalement réussi à le faire et c'est ce dont je te parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
+J'étais choqué. Mais je savais que j'étais le seul responsable de ce qui m'arrivait. J'avais arrêté de prendre soin de moi-même. Pour certaines personnes, "être en forme" vient naturellement. Pour d'autres comme moi, il faut constamment y travailler et veiller. Je devrais donc repartir de l'avant. Toutefois ça aurait été idiot de repartir avec les mêmes solutions qui n'ont pas marché pendant six ans. Je devais donc faire une introspection et mettre en place quelque chose, un programme qui allait adresser tout ce qui n'avait pas marché pendant les 6 dernières années. Je pense avoir finalement réussi à le faire et c'est ce dont je te parlerai dans le prochain article de cette série [_**Prendre plaisir à perdre du poids.**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
