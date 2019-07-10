@@ -11,6 +11,7 @@ description: >-
 category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
+thumbnail: /media/10661722_961171013898005_2997289113553107312_o.jpg
 ---
 _Cet article est la deuxième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
@@ -34,9 +35,14 @@ Après avoir réalisé que malgré mes entrainements intensifs, je n'avais toujo
 
 > Les abs ne se construisent pas au Gym mais à la cuisine.
 
-Ça m'avait marqué comme réponse. Et ça faisait du sens, surtout en ce moment là. Alors j'avais décidé, pour la première fois, de reconsidérer mon alimentation.\
+Ça m'avait marqué comme réponse. Et ça faisait du sens, surtout en ce moment là. Alors j'avais décidé, pour la première fois, de reconsidérer mon alimentation.
+
+
+
+![A black man with a thumbs up gesture with arrows towards belly and muscles](/media/10661722_961171013898005_2997289113553107312_o.jpg "Moi en 2014")
+
 \
-Or, vous vous rappellerez que moi et la cuisine, nous n'étions vraiment pas des très bons amis. Il était difficile d'envisager retourner et commencer à cuisiner chaque jour.  Cependant, je l'ai quand-même fait pendant quelques semaines jusqu'à ce que je découvre quelque chose qui, je pensais à l'époque, allait changer ma vie: SOYLENT.\
+Vous vous rappellerez que moi et la cuisine, nous n'étions vraiment pas des très bons amis. Il était difficile d'envisager recommencer à cuisiner chaque jour.  Cependant, je l'ai quand-même fait pendant quelques semaines jusqu'à ce que je découvre quelque chose qui, je pensais à l'époque, allait changer ma vie: SOYLENT.\
 \
 Pour ceux qui ne savent pas c'est quoi le Soylent, c'est un substitut de repas qui vient en forme de poudre ou liquide et qui clame contenir la majeure partie des nutrients dont le corps a besoin pour survivre.\
 \
@@ -50,6 +56,8 @@ PS: Une autre raison pour laquelle j'ai vraiment abandonné Soylent, ce que ça 
 
 Après l'échec de l'expérience Soylent, je me devais de trouver une alternative aussi efficace mais qui ne m'aurait pas empêché de manger et chier normalement comme du monde. C'est dans cette recherche, qu'un de mes collègues de travail m'avait parlé du supplément Garcinia Cambogia.
 
+![An image of 3 garcinia cambogia fruits.](/media/garcinia-cambodgia.jpg "Les suppléments Garcinia Cambogia sont basés sur un fruit du même nom.")
+
 Ce supplément, qui provient d'un fruit du même nom, a pour effet principale de brûler la graisse abdominale et ainsi aider dans la perte du poids. Juste tout ce que je cherchais. Je pensais là avoir trouvé la solution magique.
 
 Bien que ce supplément m'avait beaucoup aidé, surtout dans la diminution de l'appétit, il avait aussi un effet secondaire sur le système digestif. Comme avec le Soylent, chier était devenu très rare en prenant du Garcinia Cambogia. Cependant le pire c'était que quand ça arrivait le temps de chier, c'était l'enfer. Contrairement au Soylent, je pouvais passer une heure assis à la toilette, tellement ça faisait mal chier. Les cacas étaient rendu trop durs et je me blessais à chaque fois que j'allais chier. C'était l'enfer aussi. J'ai donc fini par arrêter le Garcinia Cambogia malgré l'effet positif que sur l'appétit.
@@ -60,7 +68,11 @@ En milieu d'année 2017, j'ai découvert un régime d'entrainement appelé cross
 \
 Pourtant ma première rencontre avec le crossfit était catastrophique. Vois-tu, j'étais une personne qui m'entrainait déjà régulièrement avant de commencer à faire le crossfit. J'étais tellement confiant que j'ai décidé de m'inscrire dans le groupe régulier plutôt que celui de débutant. \
 Une séance de crossfit dure normalement 45 minutes. Je n'avais résisté que pendant 15 minutes. J'étais complètement brulé que j'avais l'impression que j'allais vomir mon coeur. C'est ce jour là que je me suis rendu compte que j'étais probablement musclé mais mon cardio était à zéro. \
-C'est après cette humiliation de la première journée que j'ai soudainement eu beaucoup de respect pour le crossfit et je suis devenu super motivé à continuer. Juste 4 petits mois après avoir commencé, le résultat était super positif. J'avais réussi à redescendre à 198 livres (90 Kg) juste avant mon mariage. 😅 
+C'est après cette humiliation de la première journée que j'ai soudainement eu beaucoup de respect pour le crossfit et je suis devenu super motivé à continuer.  
+
+![Deux hommes et une femme sur la photo lors d'un mariage](/media/286_-8-25-2017-10-52-8-canon-canon-eos-7d-mark-ii-5472x3648-.jpg "Parousia et moi lors de notre mariage")
+
+Juste 4 petits mois après avoir commencé, le résultat était super positif. J'avais réussi à redescendre à 198 livres (90 Kg) juste avant mon mariage. J'avais tellement perdu du poids que deux jours avant le mariage, il a fallu réduire la taille de la veste que j'avais fait confectionner sur mesure 4 mois avant car ça ne me suffisait plus 😅.
 
 Toutefois, en même temps que je faisais le crossfit, j'avais l'impression de perdre ma masse musculaire. Oui je perdais du poids mais cela venait avec le prix de perdre ma masse musculaire. Pour moi, c'était inacceptable car, qu'on se le dise, on s'en fout un peu d'être en forme ou pas, ce qui compte c'est l'extérieur, l'apparence 😅😅😅. Je voulais récupérer mes muscles.
 
@@ -70,18 +82,19 @@ Puis ce qui devrait arriver est bel et bien arrivée. Je me suis doublement bles
 
 ## Descente finale aux enfers
 
-Je suis resté sans m'entrainer pendant deux mois. Ce que je ne vous ai pas dit ce qu'à cause de l'intensité du double entrainement crossfit - musculaire, j'avais recommencé à manger comme un gros porc. Le problème c'est que quand j'ai arrêté de m'entrainer, je n'ai pas arrêté de manger 🤦🏾‍♂️. 
+Je suis resté sans m'entrainer pendant deux mois. Or, à cause de l'intensité du double entrainement crossfit - musculaire que je faisais, j'avais recommencé à manger comme un gros porc. Le problème c'est que quand j'ai arrêté de m'entrainer, je n'ai pas arrêté de manger 🤦🏾‍♂️. 
 
 Deux mois après, j'ai tenté un retour au crossfit. Sans succès!!! À chaque entrainement, j'avais très mal à la hanche. Je voulais forcer et continuer à le faire à cause des résultats précédemment obtenus mais ce n'était juste plus amusant comme avant. Même quand j'avais encore assez d'énergie pour compléter une séance, mon dos me lâchait. J'ai donc dû abandonner le crossfit.
 
 Quid de mon entrainement musculaire ?  L'expérience du crossfit m'avait aussi démotivé à continuer l'entrainement musculaire. À chaque fois que je pensais à ailler m'entrainer, je pensais automatiquement à la peine que j'avais à la hanche et je n'avais pas de motivation à y aller. Je ne m'entrainais donc plus régulièrement comme avant, manquant de fois plusieurs semaines de suite. Au final, en voulant tout gagner j'avais tout perdu. 
 
-Évidemment tout ceci n'est pas resté sans conséquence sur mon poids. Je le savais, je le sentais. Voilà pourquoi je n'osais même pas monter sur ma balance 😀. \
-Finalement c'est arrivé le 30 décembre 2018. Ce jour là, avec ma femme nous parlions de nos résolutions pour l'année 2019 qui s'en venait. Pour moi c'était reprendre le contrôle sur mon forme. J'ai donc décidé de monter sur ma balance pour savoir où j'en étais. La balance affichait clairement 254 livres (115 Kg). J'ai dû remonter au moins 5 fois de suite car je n'en revenais juste pas. 
+Évidemment tout ceci n'est pas resté sans conséquence sur mon poids. Je le savais, je le sentais. Voilà pourquoi je n'osais même pas monter sur ma balance 😀. Finalement c'est arrivé le 30 décembre 2018. Ce jour là avec Parousia, mon épouse, nous parlions de nos résolutions pour l'année 2019 qui s'en venait. Pour moi, l'une d'entr'elles était reprendre le contrôle sur ma forme. J'ai donc pris le courage d'enfin monter sur ma balance pour savoir où j'en étais. La balance affichait clairement 254 livres (115 Kg). J'ai dû remonter au moins 5 fois de suite car je n'en revenais juste pas. 
 
 ## Repartir de l'avant
 
 J'étais choqué et triste. C'était comme si après tous ces efforts de perte de poids, j'étais revenu au point de départ d'il y'a 6 ans… En fait non! Même pas au point départ, mais en arrière de la ligne de départ. Tout simplement, en essayant de perdre du poids pendant 6 ans, j'en avais plutôt gagné 38 livres (17 Kg). 
+
+![Un homme noir avec une chemise bleu ciel.](/media/a9df888bf1404420853c44484aa5bfc8.jpg "Moi avec mon nouveau gros ventre")
 
 J'étais choqué. Mais je savais que j'étais le seul responsable de ce qui m'arrivait. J'avais arrêté de prendre soin de moi. Pour certaines personnes, "être en forme" vient naturellement. Pour d'autres comme moi, il faut constamment y travailler et veiller. Je devrais donc repartir mais ça aurait été idiot de repartir avec les mêmes solutions qui n'ont pas marché pendant six ans. Je devrais donc faire une introspection et mettre en place quelque chose, un programme qui allait adresser tout ce qui n'avait pas marché pendant les 6 dernières années. Je pense avoir finalement réussi à faire et c'est ce dont je te parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
