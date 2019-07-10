@@ -5,9 +5,8 @@ draft: false
 date: 2019-07-10T21:00:24.557Z
 description: >-
   Dans ce deuxième article de la série Prendre Plaisir à Perdre du Poids, je
-  parle de comment pendant 6 ans j'ai essayé de perdre en vain du poids. J'avais
-  l'impression que pour chaque 2 lives (1 Kg) que je perdais j'en gagnais 3
-  livres (1.5 Kg) quelques jours seulement après la fin du programme.
+  parle de comment en essayant de perdre du poids pendant 6 ans, je me suis
+  retrouvé à en gagner 38 livres (17 Kg) de plus
 category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
