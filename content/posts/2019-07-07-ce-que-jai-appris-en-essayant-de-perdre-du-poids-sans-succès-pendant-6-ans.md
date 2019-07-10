@@ -16,9 +16,11 @@ _Cet article est la deuxième de la série [**Prendre plaisir à perdre du poids
 
 Cher ami,
 
-Après avoir remarqué que j'avais effectivement pris du poids, j'avais décidé de revenir à mon ancien moi. Pendant 6 ans, j'ai essayé plusieurs régimes pour maigrir, je me suis donné à fond pour réduire mon poids. Quelle ne fût ma surprise lorsqu'en début d'année 2019, ma balance indiquait 254 livres (115 Kg). C'était comme ci le ciel m'était tombé sur la tête. Donc après 6 ans d'efforts continus, plutôt que perdre du poids, j'en avais gagné 38 livres (17 Kg) de plus. Qu'est-ce qui n'avait donc pas marché ?
+Après [avoir accepté que j'avais effectivement pris du poids et que j'étais devenu obèse](/comment-je-suis-devenu-obese), je voulais rapidement redevenir en forme. Alors pendant 6 ans, j'ai essayé plusieurs astuces pour maigrir, je me suis donné à fond pour réduire mon poids. Quelle ne fût ma surprise lorsqu'en début d'année 2019, ma balance indiquait 254 livres (115 Kg) 😱!! C'était comme ci le ciel m'était tombé dessus. Tu t'imagines ça ? Donc après 6 ans d'efforts continus, plutôt que perdre du poids, j'en avais gagné 38 livres (17 Kg) ? Qu'est-ce qui n'avait donc pas marché ? C'est ce que nous allons voir ensemble dans les lignes qui vont suivre.
 
 ## Augmenter ma fréquence d'entrainement au gym
+
+![A black male lifting weight at the gym](/media/didia-lifting-weight.jpg "Entrain de m'entrainer.")
 
 En effet, la première décision que j'ai eu pour perdre du poids, c'était d'augmenter ma fréquence d'entrainement au gym. Plutôt que d'aller 3 fois par semaine comme avant, j'y allais 5 fois, soit du lundi au vendredi. Il était hors de question pour moi d'arrêter de manger les pizzas ou les poulets KFC. Vous connaissez tous bien le profond amour qui existe entre un homme noir et son poulet 😀.
 
@@ -81,6 +83,6 @@ Finalement c'est arrivé le 30 décembre 2018. Ce jour là, avec ma femme nous p
 
 J'étais choqué et triste. C'était comme si après tous ces efforts de perte de poids, j'étais revenu au point de départ d'il y'a 6 ans… En fait non! Même pas au point départ, mais en arrière de la ligne de départ. Tout simplement, en essayant de perdre du poids pendant 6 ans, j'en avais plutôt gagné 38 livres (17 Kg). 
 
-J'étais choqué. Mais je savais que j'étais le seul responsable de ce qui m'arrivait. J'avais arrêté de prendre soin de moi. Pour certaines personnes, "être en forme" vient naturellement. Pour d'autres comme moi, il faut constamment y travailler et veiller. Je devrais donc repartir mais ça aurait été idiot de repartir avec les mêmes solutions qui n'ont pas marché pendant six ans. Je devrais donc faire une introspection et mettre en place quelque chose, un programme qui allait adresser tout ce qui n'avait pas marché pendant les 6 dernières années. Je pense avoir finalement réussi à faire et c'est ce dont je te parlerai dans le prochain article de cette série [_**Prendre plaisir à perdre du poids.**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
+J'étais choqué. Mais je savais que j'étais le seul responsable de ce qui m'arrivait. J'avais arrêté de prendre soin de moi. Pour certaines personnes, "être en forme" vient naturellement. Pour d'autres comme moi, il faut constamment y travailler et veiller. Je devrais donc repartir mais ça aurait été idiot de repartir avec les mêmes solutions qui n'ont pas marché pendant six ans. Je devrais donc faire une introspection et mettre en place quelque chose, un programme qui allait adresser tout ce qui n'avait pas marché pendant les 6 dernières années. Je pense avoir finalement réussi à faire et c'est ce dont je te parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
