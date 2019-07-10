@@ -1,8 +1,8 @@
 ---
 template: post
 title: Ce que j'ai appris en essayant de perdre du poids sans succès pendant 6 ans.
-draft: true
-date: 2019-07-07T04:59:24.557Z
+draft: false
+date: 2019-07-10T21:00:24.557Z
 description: >-
   Dans ce deuxième article de la série prendre plaisir à perdre du poids, je
   parle de comment pendant 6 ans j'ai essayé de perdre en vain du poids. J'avais
