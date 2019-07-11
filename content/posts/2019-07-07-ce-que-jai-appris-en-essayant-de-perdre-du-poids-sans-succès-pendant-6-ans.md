@@ -64,7 +64,7 @@ Bien que ce supplément m'ait beaucoup aidé, surtout dans la diminution de l'ap
 En milieu d'année 2017, j'ai découvert un régime d'entraînement appelé crossfit. Quelques collègues au boulot le pratiquer et ça avait fini par piquer ma curiosité. Le crossfit est un programme de conditionnement physique de haute intensité qui combine principalement la force athlétique, l'haltérophilie, la gymnastique et les sports d'endurance. C'est probablement le meilleur programme d'entraînement que j'ai rencontré à date.\
 \
 Pourtant ma première rencontre avec le crossfit était catastrophique. Vois-tu, j'étais une personne qui m'entraînait déjà régulièrement avant de rencontrer le crossfit. J'étais tellement confiant que j'ai décidé de m'inscrire dans le groupe régulier plutôt que celui de débutant. \
-Une séance de crossfit dure normalement 45 minutes. Je n'avais résisté que pendant 15 minutes. J'étais complètement brûlé que j'avais l'impression que j'allais vomir mon coeur. C'est ce jour là que je me suis rendu compte que j'étais probablement musclé mais mon cardio était à zéro. \
+Une séance de crossfit dure normalement 45 minutes. Je n'avais résisté que pendant 15 minutes. J'étais tellement brûlé que j'avais l'impression que j'allais vomir mon coeur. C'est ce jour là que je me suis rendu compte que j'étais probablement musclé mais mon cardio était à zéro. \
 C'est après cette humiliation de la première journée que j'ai soudainement eu beaucoup de respect pour le crossfit et je suis devenu super motivé à continuer.  
 
 ![Deux hommes et une femme sur la photo lors d'un mariage](/media/286_-8-25-2017-10-52-8-canon-canon-eos-7d-mark-ii-5472x3648-.jpg "Parousia et moi lors de notre mariage")
