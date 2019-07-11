@@ -45,7 +45,7 @@ Pour ceux qui ne savent pas c'est quoi le Soylent, c'est un substitut de repas q
 \
 À l'époque, Soylent venait tout juste de lancer et pour moi c'était une bénédiction du ciel. Vous vous imaginez ? Je n'avais plus besoin de cuisiner, je prenais 3L de Soylent par jour et je mangeais tout ce qu'il me fallait. En plus avec Soylent, je pouvais facilement compter la quantité de calories que je prenais par jour.
 
-Malheureusement, encore là, notre histoire d'amour n'a duré que 3 petits mois. J'avais sous estimé l'importance de la nourriture dans nos vies. En fait, on ne mange pas seulement pour se nourrir mais aussi pour le plaisir qu'il y'a à manger. J'ai vite découvert que manger chaque jour la même chose m'avait rendu misérable et j'ai dû abandonner mon expérience Soylent.
+Malheureusement, encore là, notre histoire d'amour n'a duré que 3 petits mois. J'avais sous estimé l'importance de la nourriture dans nos vies. En fait, on ne mange pas seulement pour se nourrir mais aussi pour le plaisir qu'il y a à manger. J'ai vite découvert que manger chaque jour la même chose m'avait rendu misérable et j'ai dû abandonner mon expérience Soylent.
 
 PS: Une autre raison pour laquelle j'ai vraiment abandonné Soylent, c'est que ça provoquait des pets qui sentaient vraiment mauvais, alors vraiment mauvais. Et chier, ce plaisir qu'est ce moment de chier, devenait quelque chose de très rare. De fois, je passais une semaine toute entière sans chier. Vous vous imaginez ce calvaire ?
 
