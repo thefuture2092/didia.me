@@ -47,7 +47,7 @@ Pour ceux qui ne savent pas c'est quoi le Soylent, c'est un substitut de repas q
 
 Malheureusement, encore là, notre histoire d'amour n'a duré que 3 petits mois. J'avais sous estimé l'importance de la nourriture dans nos vies. En fait, on ne mange pas seulement pour se nourrir mais aussi pour le plaisir qu'il y a à manger. J'ai vite découvert que manger chaque jour la même chose m'avait rendu misérable et j'ai dû abandonner mon expérience Soylent.
 
-PS: Une autre raison pour laquelle j'ai vraiment abandonné Soylent, c'est que ça provoquait des pets qui sentaient vraiment mauvais, alors vraiment mauvais. Et chier, ce plaisir qu'est ce moment de chier, devenait quelque chose de très rare. De fois, je passais une semaine toute entière sans chier. Vous vous imaginez ce calvaire ?
+PS: Une autre raison pour laquelle j'ai vraiment abandonné Soylent, c'est que ça provoquait des pets qui sentaient vraiment mauvais, alors vraiment mauvais. Et chier, ce plaisir qu'est ce moment de chier, devenait quelque chose de très rare. De fois, je passais une semaine toute entière sans chier. Vous vous imaginez ce calvaire 😅?
 
 ## Prendre le supplément Garcinia Cambogia
 
