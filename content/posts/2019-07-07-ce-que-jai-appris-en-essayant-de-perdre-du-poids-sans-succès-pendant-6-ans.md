@@ -57,7 +57,7 @@ Après l'échec de l'expérience Soylent, je me devais de trouver une alternativ
 
 Ce supplément, qui provient d'un fruit du même nom, a pour effet principale de brûler la graisse abdominale et ainsi aider dans la perte du poids. Juste tout ce que je cherchais. Je pensais là avoir trouvé la solution magique.
 
-Bien que ce supplément m'avait beaucoup aidé, surtout dans la diminution de l'appétit, il avait aussi un effet secondaire sur le système digestif. Comme avec le Soylent, chier était devenu très rare en prenant du Garcinia Cambogia. Cependant le pire c'était que quand arrivait le temps de chier, c'était l'enfer. Contrairement au Soylent, je pouvais passer une heure assis à la toilette, tellement ça faisait mal. C'était l'enfer aussi. J'ai donc fini par arrêter le Garcinia Cambogia malgré l'effet positif de réduction d'appétit.
+Bien que ce supplément m'ait beaucoup aidé, surtout dans la diminution de l'appétit, il avait aussi un effet secondaire sur le système digestif. Comme avec le Soylent, chier était devenu très rare en prenant du Garcinia Cambogia. Cependant le pire c'était que quand arrivait le temps de chier, c'était l'enfer. Contrairement au Soylent, je pouvais passer une heure assis à la toilette, tellement ça faisait mal. C'était l'enfer aussi. J'ai donc fini par arrêter le Garcinia Cambogia malgré l'effet positif de réduction d'appétit.
 
 ## S'entrainer deux fois par jour.
 
