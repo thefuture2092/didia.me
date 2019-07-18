@@ -25,7 +25,8 @@ je vais te présenter les différents principes qui forment la base du programme
 
 ## Tu es la cause de ta prise de poids.
 
-Et il n'y a que toi qui peut être la cause de ta perte de poids. Voilà pourquoi le programme c'est **Prendre** plaisir… Le plaisir ne viendra pas du programme, le programme va te faciliter la tâche mais c'est toi qui dois prendre ce plaisir là.
+Et il n'y a que toi qui peut être la cause de ta perte de poids. Je suis désolé de te le dire ainsi mais c'est la triste réalité que j'ai fini par réaliser. Tu peux te donner n'importe quelle raison que tu veux mais au final tu seras ramené aux choix que tu avais eu à faire. Tu peux te dire que tu n'avais pas vraiment de choix mais la réalité c'est qu'on a toujours un choix. Même lorsqu'on ne fait pas des choix, on choisit de ne pas faire des choix. \
+Voilà pourquoi le programme c'est **Prendre** plaisir… Le plaisir ne viendra pas du programme. Le programme te facilitera la tâche mais c'est toi qui dois prendre ce plaisir là.
 
 ## Dépenser plus d'énergie que l'on en consomme.
 
