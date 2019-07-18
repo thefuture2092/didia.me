@@ -4,7 +4,6 @@ title: >-
   En voulant tout gagner, le Québec risque de perdre sa capacité à attirer les
   meilleurs.
 slug: reflexion-sur-projet-loi-immigration-quebec
-thumbnail: /media/110930_quebec.jpg
 draft: false
 date: 2019-02-14T04:30:05.944Z
 description: >-
@@ -13,11 +12,12 @@ description: >-
   changement envisagé par le gouvernement de François Legault?
 category: Politique
 tags:
-  - Québec 
+  - Québec
   - Politique
   - Immigration
+thumbnail: /media/110930_quebec.jpg
 ---
-_Cher ami,_
+_Cher ami(e),_
 
 Si tu habites Québec comme moi, tu as probablement entendu parlé du [projet de loi n° 9](http://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-9-42-1.html) du gouvernement du Québec qui porte sur la modification de la loi sur l'immigration. Selon le gouvernement, ce projet de loi vise à accroître la prospérité socio-économique du Québec et à répondre adéquatement aux besoins du marché du travail par une intégration réussie des personnes immigrantes. Mais en voulant répondre à tout le monde, je pense que les mesures introduites risquent fortement de décourager les personnes brillantes à immigrer au Québec.
 
