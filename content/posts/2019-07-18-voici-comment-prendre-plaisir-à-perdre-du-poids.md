@@ -43,6 +43,6 @@ Le programme 4P recommandera juste de choisir un régime qui est le plus amusant
 
 ## Concentre-toi sur le processus et non le produit final.
 
-On sait tous que l'objectif final est la perte de poids pour atteindre un poids donné. Il est important de savoir vers où on s'en va et qu'est-ce qu'on veut. Une fois que c'est fait, se concentrer sur le résultat final, n'apporte que stress et inquiétude. Voilà pourquoi le programme 4P va mettre l'emphase sur le processus de la perte du poids. L'objectif est de rendre ce processus tellement amusant que tu sois excité à chaque jour de continuer à perdre du poids.
+On sait tous que l'objectif final est la perte de poids pour atteindre un poids donné. Il est important de commencer par savoir vers où on s'en va et qu'est-ce qu'on veut. Une fois que c'est fait, se concentrer sur le résultat final, n'apporte que stress et inquiétude. Voilà pourquoi le programme 4P va mettre l'emphase sur le processus de la perte du poids. L'objectif est de rendre ce processus tellement amusant que tu sois excité à chaque jour de continuer à perdre du poids.
 
 #
