@@ -21,11 +21,11 @@ Le 30 décembre 2018, j'avais 254 livres (115 Kg). C'est à ce moment que j'ai d
 
 # Avant toute chose,
 
-je vais te présenter les différents principes qui forment la base du programme 4P. Si tu n'es pas d'accord avec, ça ne sert à rien de poursuivre la série, tu peux juste t'arrêter là, prendre plaisir à être gros ou tu peux toujours faire une chirurgie plastique, ça va coûter cher mais me semble que ça fonctionne quand-même bien.
+je vais te présenter les différents principes qui forment la base du programme 4P. Si tu n'es pas d'accord avec, ça ne sert à rien de poursuivre la série, tu peux juste t'arrêter là, prendre plaisir à être gros ou tu peux toujours faire une chirurgie plastique, ça va coûter cher mais il me semble que ça fonctionne quand-même bien.
 
 ## Tu es la cause de ta prise de poids.
 
-Et il n'y a que toi qui peut être la cause de ta perte de poids. Je suis désolé de te le dire ainsi mais c'est la triste réalité que j'ai fini par réaliser. Tu peux te donner n'importe quelle raison que tu veux mais au final tu seras ramené aux choix que tu avais eu à faire. Tu peux te dire que tu n'avais pas vraiment de choix mais la réalité c'est qu'on a toujours un choix. Même lorsqu'on ne fait pas des choix, on choisit de ne pas faire des choix. \
+Et il n'y a que toi qui peut être la cause de ta perte de poids. Je suis désolé de te le dire ainsi mais c'est la triste réalité que j'ai fini par réaliser. À moins que ton gain de poids soit dû à une maladie ou une condition comme la grossesse, tu peux te donner n'importe quelle raison que tu veux, au final tu seras ramené aux choix que tu avais eu à faire. Tu peux te dire que tu n'avais pas vraiment de choix mais la réalité c'est qu'on a toujours un choix. Même lorsqu'on ne fait pas des choix, on choisit de ne pas faire des choix. \
 Voilà pourquoi le programme c'est **Prendre** plaisir… Le plaisir ne viendra pas du programme. Le programme te facilitera la tâche mais c'est toi qui dois prendre ce plaisir là.
 
 ## Dépenser plus d'énergie que l'on en consomme.
@@ -47,3 +47,5 @@ Le programme 4P recommandera juste de choisir un régime qui est le plus amusant
 On sait tous que l'objectif final est la perte de poids pour atteindre un poids donné. Il est important de commencer par savoir vers où on s'en va et qu'est-ce qu'on veut. Une fois que c'est fait, se concentrer sur le résultat final, n'apporte que stress et inquiétude. Voilà pourquoi le programme 4P va mettre l'emphase sur le processus de la perte du poids. L'objectif est de rendre ce processus tellement amusant que tu sois excité à chaque jour de continuer à perdre du poids.
 
 # En quoi consiste le programme 4P ?
+
+Aujourd'hui nous parlerons de ce qui est nécessaire
