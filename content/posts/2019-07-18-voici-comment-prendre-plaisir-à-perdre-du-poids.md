@@ -30,7 +30,7 @@ Voilà pourquoi le programme c'est **Prendre** plaisir… Le plaisir ne viendra 
 
 ## Dépenser plus d'énergie que l'on en consomme.
 
-C'est le seul principe de la perte de poids. Tout se base sur ça. De manière très simpliste, tout ce que nous mangeons est transformé en nutriments et énergie par notre corps. Lorsqu'il y'a un excédent, notre corps conserve cette énergie en matière gras. Aussi longtemps que tu mangeras, plus que ce que ton corps consomme normalement, tu continueras à grossir. La seule façon de maigrir sans passer par la chirurgie est de dépenser plus d'énergie que ce que tu consommes. Je dis bien, **c'est le seul moyen**.
+C'est le seul principe universel de perte de poids. Tout se base sur ça. De manière très simpliste, tout ce que nous mangeons est transformé en nutriments et énergie par notre corps. Lorsqu'il y'a un excédent, notre corps conserve cette énergie en matière gras. Aussi longtemps que tu mangeras plus que ce que ton corps consomme normalement, tu continueras à grossir. La seule façon de maigrir, sans passer par la chirurgie, est de dépenser plus d'énergie que ce que tu consommes. Je dis bien, **c'est le seul moyen**.
 
 ## Tous les types de régime fonctionnent.
 
@@ -48,4 +48,4 @@ On sait tous que l'objectif final est la perte de poids pour atteindre un poids 
 
 # En quoi consiste le programme 4P ?
 
-Aujourd'hui nous parlerons de ce qui est nécessaire
+L'idée derrière le programme 4P est très simple. Tu commences par choisir un objectif de poids à attendre. Une fois cet objectif choisi, tu vas le diviser en plusieurs étapes. Nous recommandons des étapes de 2Kg ou moins.
