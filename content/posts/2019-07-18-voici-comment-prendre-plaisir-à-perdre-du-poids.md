@@ -49,7 +49,8 @@ Il va de soi que tu auras besoin d'une balance pour mesurer ton poids chaque jou
 J'utilise la balance Renpho. Cet appareil, que vous pouvez acheter sur Amazon, vient avec une application mobile connectée à la balance par Bluetooth. À travers l'application, vous pouvez enregistrer plusieurs profiles si vous êtes nombreux à la maison et aussi consulter une historique de vos données (Poids, BMI, taux de graisse, votre âge métabolique, etc…).
 
 **Une application de suivi d'objectif du poids**\
-L'application qui vient avec la balance Renpho peut vous permettre de suivre votre poids. Toutefois une application appropriée pour suivi de perte de poids qui correspondra à la méthodologie du programme 4P est requis. Sur iPhone, vous pouvez utiliser l'application que j'utilise,                                     
+L'application qui vient avec la balance Renpho peut vous permettre de suivre votre poids. Toutefois une application appropriée pour suivi de perte de poids qui correspondra à la méthodologie du programme 4P est requis. Sur iPhone, vous pouvez utiliser l'application que j'utilise, Happy Scale.\
+Ceux qui, pour je ne sais quelle raison, utilisent encore un téléphone Android, vous pouvez utiliser l'application Libra qui est l'équivalent de Happy Scale.                                    
 
 ## Finalement, c'est quoi ce programme 4P ?
 
@@ -67,8 +68,6 @@ Ton objectif principal est perdre du poids pour atteindre un poids X donné. C'e
 Ton objectif principal choisi, Tu dois maintenant le diviser en petites étapes qui constitueront tes petites missions. Le nombre d'étapes est obtenu en divisant le poids total à perdre soit par par 5, 10, 20, 25, 40 ou 50. L'essentiel est que le poids à perdre par étapes se situe entre 2.2 livres (1 Kg)  et 4.4 livres (2 Kg).\
 Dans mon cas particulier, j'avais 48 livres (22 Kg) donc pour rester dans ma tranche, je devrais diviser par 20 pour avoir des étapes de 2.4 livres (1.2 Kg) chacune.
 
-**Comment jouer ?**
-
 **Les récompenses**\
 À chaque fois que tu réussis une étape, tu obtiendras une récompense. Au début du programme, tu choisis toi même tes récompenses. Tu dois choisir une récompense pour chaque étape. Dans mon cas, j'avais eu à choisir 20 récompenses. Comment choisir une réponse ? Penses à quelque chose que tu aimerez bien obtenir, quelque chose qui te motivera à réussir la mission pour l'avoir.\
 Attention, une fois que quelque chose est choisie comme récompense, tu devras t'en passer tout le long du programme. Tu ne l'auras que lorsque tu réussie la mission associée. \
@@ -79,18 +78,13 @@ Pour vaincre l'excès de poids, tu devras avoir à ta disposition quatre armes: 
 Les deux premières armes ne peuvent provenir que de toi même. Je ne peux malheureusement pass t'aider à leurs sujets.\
 Cependant tu devras toi même choisir un **régime alimentaire** et un** régime sportif **qui te convient le mieux. 
 
+**Le jeu**\
+Pendant 5 jours de la semaine, soit Lundi à Vendredi, tu devras utiliser une combinaison de ta volonté, ton régime alimentaire et ton régime sportif pour pouvoir baisser du poids. Les weekends sont les jours des pauses pour relaxer en famille. Tu peux ou ne pas utiliser le régime. C'est ton choix. \
+Chaque jour il faudra se peser et entrer son poids dans l'application de suivi du poids en vue de compléter ta mission.\
+Pendant ce temps, tu devras garder un rythme de perte de poids entre 1 livre (0.4 Kg) et 2 livres (0.9 Kg) par semaine. Si tu perds moins que ça, tu devras améliorer l'intensité de ton régime alimentaire ou celui de ton régime sportif de façon alternative.
+
 Choisir un bon régime alimentaire et sportif est très important car c'est ce qui te permettra de perdre du poids. Le régime alimentaire et sportif ensemble permettent à ce que tu dépenses plus que tu ne consommes. Beaucoup de régimes échouent parce que soit on nous ne choisissons pas le régime qui nous convient ou encore nous choisissons un régime qui ne nous procure pas le fun nécessaire pour continuer à le faire longtemps. 
 
 Dans le prochain article de la série [**_Prendre plaisir à perdre du poids_**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), nous parlerons justement de comment choisir un bon régime alimentaire et sportif et comment le mettre en place de façon progressive pour réussir le programme 4P.
 
 À la prochaine ✌🏾
-
-\
-Dans le prochain article de cette série, \
-Pour ce faire, il y'a un but à atteindre, plusieurs niveaux à gravir et des récompenses à chaque réussite d'un niveau. Comme tout jeu, tu auras aussi des pénalités lorsque tu échoues.\
-Dans leu jeu, ton objectif principal est la perte de poids. Tu es le personnage principal. Tes munitions sont soit un régime alimentaire et/ou un régime sportif. Je recommande fortement les deux ensemble. À chaque jour, tu devras évaluer ta progression.
-
-## Que faut-il pour mettre en place le programme 4P ?
-
-* Vous avez besoin d'une balance pour suivre progression au jour le jour. Voici ce que moi j'ai achété comme balance. Ce qui est cool avec cette balance, elle permet de mésurer non seulement votre poids mais aussi plusieurs indices de santé comme votre pourcentage de graisse, votre niveau de graisse abdominal. En plus, il est accompagné d'une application connectée par Bluetooth à la balance. Vous n'avez pas besoin d'entrer manuellement votre poids et toutes les données sont disponibles via l'application.
-* Une application de suivi des étapes.
