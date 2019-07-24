@@ -2,7 +2,7 @@
 template: post
 title: Voici comment Prendre Plaisir à Perdre du Poids!
 slug: programme-prendre-plaisir-a-perdre-du-poids
-draft: true
+draft: false
 date: 2019-07-24T21:00:02.186Z
 description: >-
   Dans  ce troisième article de la série Prendre Plaisir à Perdre du Poids, je
@@ -27,7 +27,7 @@ Le 23 Avril 2019, j'ai commencé officiellement à suivre et documenter le progr
 
 ## Avant toute chose,
 
-Il y a 4 principes qui font que le programme 4P fonctionne. Ces 4 principes sont le socle du programme. C'est en croyant en ces principes, que tu trouveras la motivation de continuer le programme 4P jusqu'à atteindre des résultats. Si tu n'es pas d'accord avec ces principes, je pense que la meilleure option de perte de poids pour toi sera la chirurgie plastique 😀. \
+Il y a 4 principes qui font que le programme 4P fonctionne. Ces 4 principes sont le socle du programme. C'est en croyant en ces principes, que tu trouveras la motivation de continuer le programme 4P jusqu'à obtenir des résultats. Si tu n'es pas d'accord avec ces principes, je pense que la meilleure option de perte de poids pour toi sera la chirurgie plastique 😀. \
 \
 Voici donc les 4 principes:
 
