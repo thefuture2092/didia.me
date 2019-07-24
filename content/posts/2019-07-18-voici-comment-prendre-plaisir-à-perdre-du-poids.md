@@ -56,7 +56,7 @@ Voici donc les 4 principes:
 ## Les pré-requis du programme
 
 **Une balance**\
-Il va de soi que tu auras besoin d'une balance pour mesurer ton poids chaque jour. Les meilleurs balances sont celles qui peuvent fournir d'autres données telles que l'indice de masse musculaire, la quantité des graisse dans le corps, etc…
+Il va de soi que tu auras besoin d'une balance pour mesurer ton poids chaque jour. Les meilleures balances sont celles qui peuvent fournir d'autres données telles que l'indice de masse musculaire, la quantité des graisse dans le corps, etc…
 <a href="https://www.amazon.ca/gp/product/B01N1UX8RW/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01N1UX8RW&linkCode=as2&tag=didia08-20&linkId=b108f82df48d98fdf3f0a30136edc48a" target="_blank">
 ![A balance and its accompagning app](/media/renpho.jpg "La balance Renpho")
 </a>
@@ -74,7 +74,7 @@ Le programme 4P n'est pas un régime alimentaire ou sportif à suivre pour perdr
 L'objectif du programme est de gamifier(transformer en un jeu) ton processus de perte de poids. Le jeu consistera en une guerre sans merci livré contre l'excès de poids dans ton corps. Il y aura un personnage principal, un objectif à atteindre, des étapes pour y arriver (différentes missions), des munitions, des récompenses ainsi que des pénalités.
 
 **Personnage principal**\
-Dans le jeu, tu es le personnage principal.  Ton objectif est d'avancer vers ton objectif principal tout en amusant et en restant en vie. Comme tout jeu, il y'aura des étapes difficiles mais réalisables. Tout dépendra de ta capacité à jouer le jeu.
+Dans le jeu, tu es le personnage principal.  Ton but est d'atteindre ton objectif principal tout en amusant (et en restant en vie 😈). Comme tout jeu, il y'aura des étapes difficiles mais réalisables. Tout dépendra de ta capacité à jouer le jeu.
 
 **Objectif principal**\
 Ton objectif principal est perdre du poids pour atteindre un poids X donné. C'est toi qui choisis le poids à atteindre. Certains ont déjà une idée du poids visé. Pour moi, j'avais choisi le dernier poids qui me faisait sentir en forme. C'était 198 livres (90 kg). L'essentiel c'est de viser un poids réaliste. Plus vous visez plus bas, plus le jeu pourrait prendre du temps.
@@ -89,7 +89,7 @@ Dans mon cas particulier, j'avais 48 livres (22 Kg) donc pour rester dans ma 
 ![Une liste de contrôle](/media/img_69a6d3ba662d-1.jpeg "Mes récompenses")
 
 \
-Penses à quelque chose que tu aimerez bien obtenir, quelque chose qui te motivera à réussir la mission pour l'avoir.\
+Penses à des choses que tu aimes, quelque chose qui te motivera à réussir la mission pour l'avoir.\
 Attention, une fois que quelque chose est choisie comme récompense, tu devras t'en passer tout le long du programme. Tu n'obtiens des récompenses que lorsque tu réussis la mission y associée. \
 Par exemple si tu choisis, _Manger du KFC_ comme objectif, tu devras t'abstenir de manger du KFC tout le long du programme. Les seules fois que tu peux en manger sont lorsque c'est une récompense associée à ta mission. Les récompenses sont débloquées **uniquement** la première fois que tu réussis une mission.
 
