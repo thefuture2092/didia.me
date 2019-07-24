@@ -25,18 +25,18 @@ Il y a 4 principes qui font que le programme 4P fonctionne. Ces 4 principes sont
 \
 Voici donc les 4 principes:
 
-1. _**Tu es la cause de ton gain de poids…**_\
+1. **_Tu es la cause de ton gain de poids…_**\
    Et il n'y a que toi qui peut être responsable de ta perte de poids. Je suis désolé de te le dire ainsi mais c'est la triste réalité que j'ai fini par réaliser. À moins que ton gain de poids soit dû à une maladie ou une condition comme la grossesse, tu peux te donner n'importe quelle raison que tu veux, au final tu seras ramené aux choix que tu avais eu à faire dans le passé. Tu peux te dire que tu n'avais pas vraiment de choix mais la réalité c'est qu'on a toujours un choix. Même lorsqu'on ne fait pas des choix, on choisit de ne pas faire des choix. \
    Voilà pourquoi le programme c'est **Prendre** plaisir… Le plaisir ne viendra pas du programme. Le programme te facilitera la tâche mais c'est toi qui dois prendre ce plaisir là.
-2. _**Tous les types de régimes aident à perdre du poids.**_\
+2. **_Tous les types de régimes aident à perdre du poids._**\
    Tu ne t'attendais probablement pas à celle là mais faut savoir que tous les types de régime qui existent fonctionnent très bien. Le programme 4P ne te proposera donc pas un régime particulier. Tant que ton régime te fait consommer moins que ce que tu dépenses régulièrement, le régime t'aidera à perdre du poids.
    \
    **Mais...**\
    Ce ne sont pas tous les régimes qui fonctionnent avec tout le monde. Chaque régime a ses avantages et inconvénients. Il est donc plus prudent de consulter son médecin en cas de doute.
    Le programme 4P recommandera juste de choisir un régime qui est le plus amusant pour toi. Le problème c'est que beaucoup essaient des régimes qu'ils détestent. Comment penses-tu avoir du Plaisir à perdre du poids si tu détestes ton régime où ton régime te fait plus de mal que de bien ?
-3. _**Le secret c'est de dépenser plus d'énergie que tu en consommes.**_\
+3. **_Le secret c'est de dépenser plus d'énergie que tu en consommes._**\
    C'est le seul principe universel de perte de poids. Tout se base sur ça. De manière très simpliste, tout ce que nous mangeons est transformé en nutriments et énergie par notre corps. Lorsqu'il y'a un excédent, notre corps conserve cette énergie en matière gras. Aussi longtemps que tu mangeras plus que ce que ton corps consomme normalement, tu continueras à grossir. La seule façon de maigrir, sans passer par la chirurgie, est de dépenser plus d'énergie que ce que tu consommes. Je dis bien, **c'est le seul moyen**.
-4. _**De petits coups, répétés souvent, abattent de grands arbres.**_\
+4. **_De petits coups, répétés souvent, abattent de grands arbres._**\
    Ton objectif de poids peut sembler trop idéaliste. Il y aura des journées où tu gagneras plutôt que perdre du poids. Mais la clé de la réussite ici est la persévérance. Si tu crois aux trois principes précédents, alors persévères et tu finiras par avoir des résultats.\
    Très souvent, nous voulons perdre du poids en un coup de bâton. Comment veux-tu perdre du poids que tu as accumulé en 9 mois pendant trois semaines ? 
    \
@@ -44,9 +44,30 @@ Voici donc les 4 principes:
 
 ## Finalement, c'est quoi ce programme 4P ?
 
-Le programme 4P n'est pas un régime alimentaire ou sportif à suivre pour perdre du poids. Il y'en a déjà des dizaines sur internet que tu peux adopter. Bien évidemment, je te donnerai des exemples de régimes alimentaires et sportifs que tu pourras suivre et je te partagerai aussi le mien. Cependant, tu peux toujours choisir n'importe lequel régime, l'essentiel est qu'il te convienne et que tu t'amuses avec. \
+Le programme 4P n'est pas un régime alimentaire ou sportif à suivre pour perdre du poids. Il y'en a déjà des dizaines sur internet que tu peux adopter. Bien évidemment, les régimes alimentaires et sportifs font partie du programme et je t'en donnerai quelques exemples. Cependant, tu peux toujours choisir n'importe quel régime, l'essentiel est qu'il te convienne et que tu t'amuses avec. \
 \
-L'objectif du programme est de gamifier(transformer en un jeu) ton processus de perte de poids. Pour ce faire, il y'a un but à atteindre, plusieurs niveaux à gravir et des récompenses à chaque réussite d'un niveau. Comme tout jeu, tu auras aussi des pénalités lorsque tu échoues.\
+L'objectif du programme est de gamifier(transformer en un jeu) ton processus de perte de poids. Donc il y aura un personnage principal, un objectif à atteindre, des étapes pour y arriver (différentes missions), des munitions, des récompenses ainsi que des pénalités.
+
+**Personnage principal**\
+Dans le jeu, tu es le personnage principal.  Ton objectif est d'avancer vers ton objectif principal tout en amusant et en restant en vie. Comme tout jeu, il y'aura des étapes difficiles mais réalisables. Tout dépendra de ta capacité à jouer le jeu.
+
+**Le jeu**
+
+**Objectif principal**\
+Ton objectif principal est perdre du poids pour atteindre un poids X donné. C'est toi qui choisis le poids à atteindre. Certains ont déjà une idée du poids visé. Pour moi, j'avais choisi le poids où je me rappelles être senti mieux pour la dernière fois. C'était 198 livres (90 kg). L'essentiel c'est de viser un poids réaliste. Plus vous visez plus bas, plus le jeu pourrait prendre du temps.
+
+**Les étapes pour y arriver**\
+Ton objectif principal choisi, Tu dois maintenant le diviser en petites étapes qui constitueront tes petites missions. Le nombre d'étapes est obtenu en divisant le poids total à perdre soit par par 5, 10, 20, 25, 40 ou 50. L'essentiel est que le poids à perdre par étapes se situe entre 2.2 livres (1 Kg)  et 4.4 livres (2 Kg).\
+Dans mon cas particulier, j'avais 48 livres (22 Kg) donc pour rester dans ma tranche, je devrais diviser par 20 pour avoir des étapes de 2.4 livres (1.2 Kg) chacune.
+
+**Les récompenses**\
+À chaque fois que tu réussis une étape, tu obtiendras une récompense. Au début du programme, tu choisis toi même tes récompenses. Tu dois choisir une récompense pour chaque étape. Dans mon cas, j'avais eu à choisir 20 récompenses. Comment choisir une réponse ? Penses à quelque chose que tu aimerez bien obtenir, quelque chose qui te motivera à réussir la mission pour l'avoir.\
+Attention, une fois que quelque chose est choisie comme récompense, tu devras t'en passer tout le long du programme. Tu ne l'auras que lorsque tu réussie la mission associée. \
+Par exemple si tu choisis, _Manger du KFC_ comme objectif, tu devras t'abstenir de manger du KFC tout le long du programme. Les seules fois que tu peux en manger sont lorsque c'est une récompense associée à ta mission. Les récompenses sont débloquées la première fois que tu réussis une mission. Juste la première fois.
+
+Les\
+ \
+Pour ce faire, il y'a un but à atteindre, plusieurs niveaux à gravir et des récompenses à chaque réussite d'un niveau. Comme tout jeu, tu auras aussi des pénalités lorsque tu échoues.\
 Dans leu jeu, ton objectif principal est la perte de poids. Tu es le personnage principal. Tes munitions sont soit un régime alimentaire et/ou un régime sportif. Je recommande fortement les deux ensemble. À chaque jour, tu devras évaluer ta progression.
 
 ## Que faut-il pour mettre en place le programme 4P ?
