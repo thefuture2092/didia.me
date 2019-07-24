@@ -18,7 +18,7 @@ _Cet article est le troisième de la série [**Prendre plaisir à perdre du poid
 
 Cher ami(e),
 
-Le 30 décembre 2018, j'avais 254 livres (115 Kg). C'est à ce moment que j'ai décidé que je devrais perdre du poids. J'ai donc recommencé à m'entrainer et éviter tout ce qui était sucré. C'est pendant ce temps que l'inspiration pour mettre en place le programme Prendre Plaisir à Perdre du Poids (4P) m'est venu. 
+Le 30 décembre 2018, j'avais 254 livres (115 Kg). C'est à ce moment que j'ai décidé que je devrais perdre du poids. J'ai donc recommencé à m'entrainer et éviter tout ce qui était sucré. C'est pendant ce temps que l'inspiration pour mettre en place le programme Prendre Plaisir à Perdre du Poids (4P) m'est venue. 
 
 ![Graphique descendant](/media/mon_poids_du_2019-04-23_au_2019-07-24.png "Graphique montrant ma perte de poids")
 
