@@ -2,8 +2,9 @@
 
 module.exports = {
   url: 'https://www.didia.me',
-  title: 'Blog by Didia Aristote Diasonama',
-  subtitle: 'I talk about software, education and sometimes politics.',
+  title: 'Dans la tête de | Inside the mind of Didia Aristote Diasonama',
+  subtitle:
+    'I talk about software, education and sometimes politics. Mostly in french. | Je parle des logiciels, éducation et de fois la politique. De fois en anglais.',
   copyright: '© All rights reserved.',
   disqusShortname: 'didia',
   postsPerPage: 4,

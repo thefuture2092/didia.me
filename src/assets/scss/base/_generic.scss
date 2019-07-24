@@ -1,4 +1,4 @@
-/** 
+/**
  * Generic
  */
 html {
@@ -164,5 +164,11 @@ figcaption {
 
   .float-left {
     float: left;
+  }
+}
+
+@media screen and (max-width: $layout-breakpoint-sm) {
+  ol {
+    padding: 5px
   }
 }
