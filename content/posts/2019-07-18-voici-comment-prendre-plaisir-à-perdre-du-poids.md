@@ -77,16 +77,18 @@ L'objectif du programme est de gamifier(transformer en un jeu) ton processus de 
 Dans le jeu, tu es le personnage principal.  Ton objectif est d'avancer vers ton objectif principal tout en amusant et en restant en vie. Comme tout jeu, il y'aura des étapes difficiles mais réalisables. Tout dépendra de ta capacité à jouer le jeu.
 
 **Objectif principal**\
-Ton objectif principal est perdre du poids pour atteindre un poids X donné. C'est toi qui choisis le poids à atteindre. Certains ont déjà une idée du poids visé. Pour moi, j'avais choisi le poids où je me rappelles être senti mieux pour la dernière fois. C'était 198 livres (90 kg). L'essentiel c'est de viser un poids réaliste. Plus vous visez plus bas, plus le jeu pourrait prendre du temps.
+Ton objectif principal est perdre du poids pour atteindre un poids X donné. C'est toi qui choisis le poids à atteindre. Certains ont déjà une idée du poids visé. Pour moi, j'avais choisi le dernier poids qui me faisait sentir en forme. C'était 198 livres (90 kg). L'essentiel c'est de viser un poids réaliste. Plus vous visez plus bas, plus le jeu pourrait prendre du temps.
 
-**Les étapes pour y arriver**\
+**Diviser pour régner.**\
 Ton objectif principal choisi, Tu dois maintenant le diviser en petites étapes qui constitueront tes petites missions. Le nombre d'étapes est obtenu en divisant le poids total à perdre soit par par 5, 10, 20, 25, 40 ou 50. L'essentiel est que le poids à perdre par étapes se situe entre 2.2 livres (1 Kg)  et 4.4 livres (2 Kg).\
 Dans mon cas particulier, j'avais 48 livres (22 Kg) donc pour rester dans ma tranche, je devrais diviser par 20 pour avoir des étapes de 2.4 livres (1.2 Kg) chacune.
 
 **Les récompenses**\
-À chaque fois que tu réussis une étape, tu obtiendras une récompense. Au début du programme, tu choisis toi même tes récompenses. Tu dois choisir une récompense pour chaque étape. Dans mon cas, j'avais eu à choisir 20 récompenses. Comment choisir une réponse ? Penses à quelque chose que tu aimerez bien obtenir, quelque chose qui te motivera à réussir la mission pour l'avoir.\
-Attention, une fois que quelque chose est choisie comme récompense, tu devras t'en passer tout le long du programme. Tu ne l'auras que lorsque tu réussie la mission associée. \
-Par exemple si tu choisis, _Manger du KFC_ comme objectif, tu devras t'abstenir de manger du KFC tout le long du programme. Les seules fois que tu peux en manger sont lorsque c'est une récompense associée à ta mission. Les récompenses sont débloquées la première fois que tu réussis une mission. Juste la première fois.
+À chaque fois que tu réussis une étape, tu obtiendras une récompense. Au début du programme, tu choisis toi même tes récompenses. Tu dois choisir une récompense pour chaque étape. Dans mon cas, j'avais eu à choisir 20 récompenses. Comment choisir une réponse ? \
+\
+Penses à quelque chose que tu aimerez bien obtenir, quelque chose qui te motivera à réussir la mission pour l'avoir.\
+Attention, une fois que quelque chose est choisie comme récompense, tu devras t'en passer tout le long du programme. Tu n'obtiens des récompenses que lorsque tu réussis la mission y associée. \
+Par exemple si tu choisis, _Manger du KFC_ comme objectif, tu devras t'abstenir de manger du KFC tout le long du programme. Les seules fois que tu peux en manger sont lorsque c'est une récompense associée à ta mission. Les récompenses sont débloquées **uniquement** la première fois que tu réussis une mission.
 
 **Armement à ta disposition**\
 Pour vaincre l'excès de poids, tu devras avoir à ta disposition quatre armes: **La volonté**, **La persévérance**, un **régime alimentaire **ainsi qu'un **régime sportif**.\
@@ -94,8 +96,12 @@ Les deux premières armes ne peuvent provenir que de toi même. Je ne peux malhe
 Cependant tu devras toi même choisir un **régime alimentaire** et un** régime sportif **qui te convient le mieux. 
 
 **Le jeu**\
-Pendant 5 jours de la semaine, soit Lundi à Vendredi, tu devras utiliser une combinaison de ta volonté, ton régime alimentaire et ton régime sportif pour pouvoir baisser du poids. Les weekends sont les jours des pauses pour relaxer en famille. Tu peux ou ne pas utiliser le régime. C'est ton choix. \
-Chaque jour il faudra te peser et entrer ton poids dans l'application de suivi du poids de poids.\
+Pendant 5 jours de la semaine, soit Lundi à Vendredi, tu devras utiliser une combinaison de ta **volonté**, ton **régime alimentaire **et ton **régime sportif** pour pouvoir baisser du poids. Les weekends sont les jours des pauses pour relaxer en famille. Tu peux ou ne pas utiliser le régime. C'est ton choix. \
+Chaque jour, tu devras entrer ton poids dans l'application de suivi du poids de poids, de préférence le matin après la douche. Il est important de le faire chaque jour et vers la même heure.
+
+![Journal d'entrée de poids.](/media/img_5584a76764c7-1.jpeg "Un journal montrant mon entrée de poids journalier")
+
+\
 Tout le long du programme, ton rythme de perte de poids doit se situer entre 1 livre (0.4 Kg) et 2 livres (0.9 Kg) par semaine. \
 Si tu perds moins que ça, tu devras améliorer l'intensité de ton régime alimentaire ou celle de ton régime sportif alternativement.\
 Si tu en perds plus que ça, tu perds probablement plus que la graisse, c'est à dire soit de l'eau ou du muscle. Tu devrais réduire l'intensité de ton régime alimentaire ou continuer de même si ce n'est pas un problème pour toi.
