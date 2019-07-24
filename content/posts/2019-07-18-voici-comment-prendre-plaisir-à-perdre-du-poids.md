@@ -40,7 +40,7 @@ Voici donc les 4 principes:
    Ton objectif de poids peut sembler trop idéaliste. Il y aura des journées où tu gagneras plutôt que perdre du poids. Mais la clé de la réussite ici est la persévérance. Si tu crois aux trois principes précédents, alors persévères et tu finiras par avoir des résultats.\
    Très souvent, nous voulons perdre du poids en un coup de bâton. Comment veux-tu perdre du poids que tu as accumulé en 9 mois pendant trois semaines ? 
    \
-   Le programme 4P est monté de façon à ce que tu célèbres des petites victoires. Que tu habituent ton corps progressivement au régime alimentaire et sportif que tu adopteras. Avec cette méthode itérative et des progressions dans le jeu vidéo, le programme te rendra addictif et tu auras hâte à chaque matin de mesurer ton poids.
+   Le programme 4P est monté de façon à ce que tu célèbres des petites victoires. Que tu habituent ton corps progressivement au régime alimentaire et sportif que tu adopteras. Avec cette méthode itérative et des progressions comme dans un jeu vidéo, le programme te rendra addictif et tu auras hâte à chaque matin de mesurer ton poids.
 
 ## Les pré-requis du programme
 
