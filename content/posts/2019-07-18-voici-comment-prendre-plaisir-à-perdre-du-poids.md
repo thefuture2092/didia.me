@@ -68,7 +68,10 @@ Par exemple si tu choisis, _Manger du KFC_ comme objectif, tu devras t'abstenir 
 **Armement à ta disposition**\
 Pour vaincre l'excès de poids, tu devras avoir à ta disposition quatre armes: **La volonté**, **La persévérance**, un **régime alimentaire **ainsi qu'un **régime sportif**.\
 Les deux premières armes ne peuvent provenir que de toi même. Je ne peux malheureusement pass t'aider à leurs sujets.\
-Cependant tu devras choisir un **régime alimentaire** ainsi qu'un** régime sportif**.\
+Cependant tu devras toi même choisir un **régime alimentaire** et un** régime sportif **qui te conviennent le mieux. 
+
+\
+Dans le prochain article de cette série, \
 Pour ce faire, il y'a un but à atteindre, plusieurs niveaux à gravir et des récompenses à chaque réussite d'un niveau. Comme tout jeu, tu auras aussi des pénalités lorsque tu échoues.\
 Dans leu jeu, ton objectif principal est la perte de poids. Tu es le personnage principal. Tes munitions sont soit un régime alimentaire et/ou un régime sportif. Je recommande fortement les deux ensemble. À chaque jour, tu devras évaluer ta progression.
 
