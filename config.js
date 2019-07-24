@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://www.didia.me',
-  title: 'Dans la tête de | Inside the mind of Didia Aristote Diasonama',
+  title: 'Les pensées de Didia Aristote Diasonama',
   subtitle:
     'I talk about software, education and sometimes politics. Mostly in french. | Je parle des logiciels, éducation et de fois la politique. De fois en anglais.',
   copyright: '© All rights reserved.',
