@@ -54,6 +54,8 @@ Il va de soi que tu auras besoin d'une balance pour mesurer ton poids chaque jou
 
 ![A balance and its accompagning app](/media/renpho.jpg "La balance Renpho")
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=didia08-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B01N1UX8RW&linkId=5977b381a2c16244a42b59986ff5b61f&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
 \
 J'utilise la balance Renpho. Cet appareil, que vous pouvez acheter sur Amazon, vient avec une application mobile connectée à la balance par Bluetooth. À travers l'application, vous pouvez enregistrer plusieurs profiles si vous êtes nombreux à la maison et aussi consulter une historique de vos données (Poids, BMI, taux de graisse, votre âge métabolique, etc…).
 
