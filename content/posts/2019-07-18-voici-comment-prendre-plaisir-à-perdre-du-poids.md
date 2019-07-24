@@ -71,7 +71,7 @@ Ceux qui, pour je ne sais quelle raison, utilisent encore un téléphone Android
 
 Le programme 4P n'est pas un régime alimentaire ou sportif à suivre pour perdre du poids. Il y'en a déjà des dizaines sur internet que tu peux adopter. Bien évidemment, les régimes alimentaires et sportifs font partie du programme et je t'en donnerai quelques exemples. Cependant, tu peux toujours choisir n'importe quel régime, l'essentiel est qu'il te convienne et que tu t'amuses avec. \
 \
-L'objectif du programme est de gamifier(transformer en un jeu) ton processus de perte de poids. Le jeu consistera en une guerre sans merci livré contre l'excès de poids dans ton corps. Il y aura un personnage principal, un objectif à atteindre, des étapes pour y arriver (différentes missions), des munitions, des récompenses ainsi que des pénalités.
+L'objectif du programme est de gamifier(transformer en un jeu) ton processus de perte de poids. Le jeu consistera en une guerre sans merci livré contre l'excès de poids dans ton corps. Il y aura un personnage principal, un objectif à atteindre, des étapes pour y arriver (différentes missions), des armes, des récompenses ainsi que des pénalités.
 
 **Personnage principal**\
 Dans le jeu, tu es le personnage principal.  Ton but est d'atteindre ton objectif principal tout en amusant (et en restant en vie 😈). Comme tout jeu, il y'aura des étapes difficiles mais réalisables. Tout dépendra de ta capacité à jouer le jeu.
