@@ -12,12 +12,18 @@ description: >-
 category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
+thumbnail: /media/mon_poids_du_2019-04-23_au_2019-07-24.png
 ---
 _Cet article est le troisième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
 Cher ami(e),
 
-Le 30 décembre 2018, j'avais 254 livres (115 Kg). C'est à ce moment que j'ai décidé que je devrais perdre du poids. J'ai donc recommencé à m'entrainer et éviter tout ce qui était sucré. C'est pendant ce temps que l'inspiration pour mettre en place le programme Prendre Plaisir à Perdre du Poids (4P) m'est venu. J'ai commencé officiellement à suivre le programme le 23 Avril 2019; ma balance indiquait ce jour là 247 livres (112,1 Kg).
+Le 30 décembre 2018, j'avais 254 livres (115 Kg). C'est à ce moment que j'ai décidé que je devrais perdre du poids. J'ai donc recommencé à m'entrainer et éviter tout ce qui était sucré. C'est pendant ce temps que l'inspiration pour mettre en place le programme Prendre Plaisir à Perdre du Poids (4P) m'est venu. 
+
+![Graphique descendant](/media/mon_poids_du_2019-04-23_au_2019-07-24.png "Graphique montrant ma perte de poids")
+
+\
+Le 23 Avril 2019, j'ai commencé officiellement à suivre et documenter le programme. Et ces résultats parlent d'eux mêmes.
 
 ## Avant toute chose,
 
@@ -25,22 +31,22 @@ Il y a 4 principes qui font que le programme 4P fonctionne. Ces 4 principes sont
 \
 Voici donc les 4 principes:
 
-1. **_Tu es la cause de ton gain de poids…_**\
+1. _**Tu es la cause de ton gain de poids…**_\
    Et il n'y a que toi qui peut être responsable de ta perte de poids. Je suis désolé de te le dire ainsi mais c'est la triste réalité que j'ai fini par réaliser. 
    ![Une personne te pointant du doigt.](/media/etty-fidele-k_xxdh4lnjm-unsplash.jpg "Tu es responsable de ta perte du poids.")
    \
    À moins que ton gain de poids soit dû à une maladie ou une condition comme la grossesse, tu peux te donner n'importe quelle raison que tu veux, au final tu seras ramené aux choix que tu avais eu à faire dans le passé. Tu peux te dire que tu n'avais pas vraiment de choix mais la réalité c'est qu'on a toujours un choix. Même lorsqu'on ne fait pas des choix, on choisit de ne pas faire des choix. \
    Voilà pourquoi le programme c'est **Prendre** plaisir… Le plaisir ne viendra pas du programme. Le programme te facilitera la tâche mais c'est toi qui dois prendre ce plaisir là.
-2. **_Tous les types de régimes aident à perdre du poids._**\
+2. _**Tous les types de régimes aident à perdre du poids.**_\
    Tu ne t'attendais probablement pas à celle là mais faut savoir que tous les types de régime qui existent fonctionnent très bien. Le programme 4P ne te proposera donc pas un régime particulier. Tant que ton régime te fait consommer moins que ce que tu dépenses régulièrement, le régime t'aidera à perdre du poids.\
    ![Un plat de burger](/media/robin-stickel-tzl1ucxg5es-unsplash.jpg "Tout régime mène à la perte de poids")
    \
    **Mais...**\
    Ce ne sont pas tous les régimes qui fonctionnent avec tout le monde. Chaque régime a ses avantages et inconvénients. Il est donc plus prudent de consulter son médecin en cas de doute.
    Le programme 4P recommandera juste de choisir un régime qui est le plus amusant pour toi. Le problème c'est que beaucoup essaient des régimes qu'ils détestent. Comment penses-tu avoir du Plaisir à perdre du poids si tu détestes ton régime où ton régime te fait plus de mal que de bien ?
-3. **_Le secret c'est de dépenser plus d'énergie que tu en consommes._**\
+3. _**Le secret c'est de dépenser plus d'énergie que tu en consommes.**_\
    C'est le seul principe universel de perte de poids. Tout se base sur ça. De manière très simpliste, tout ce que nous mangeons est transformé en nutriments et énergie par notre corps. Lorsqu'il y'a un excédent, notre corps conserve cette énergie en matière gras. Aussi longtemps que tu mangeras plus que ce que ton corps consomme normalement, tu continueras à grossir. La seule façon de maigrir, sans passer par la chirurgie, est de dépenser plus d'énergie que ce que tu consommes. Je dis bien, **c'est le seul moyen**.
-4. **_De petits coups, répétés souvent, abattent de grands arbres._**\
+4. _**De petits coups, répétés souvent, abattent de grands arbres.**_\
    Ton objectif de poids peut sembler trop idéaliste. Il y aura des journées où tu gagneras plutôt que perdre du poids. Mais la clé de la réussite ici est la persévérance. Si tu crois aux trois principes précédents, alors persévères et tu finiras par avoir des résultats.\
    Très souvent, nous voulons perdre du poids en un coup de bâton. Comment veux-tu perdre du poids que tu as accumulé en 9 mois pendant trois semaines ? 
    ![Les pieds d'une jeune femme montant des escaliers](/media/gesina-kunkel-mw-ly6dguv4-unsplash.jpg "Monter petit à petit.")
@@ -51,17 +57,15 @@ Voici donc les 4 principes:
 
 **Une balance**\
 Il va de soi que tu auras besoin d'une balance pour mesurer ton poids chaque jour. Les meilleurs balances sont celles qui peuvent fournir d'autres données telles que l'indice de masse musculaire, la quantité des graisse dans le corps, etc…
-
+<a href="https://www.amazon.ca/gp/product/B01N1UX8RW/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01N1UX8RW&linkCode=as2&tag=didia08-20&linkId=b108f82df48d98fdf3f0a30136edc48a" target="_blank">
 ![A balance and its accompagning app](/media/renpho.jpg "La balance Renpho")
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=didia08-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B01N1UX8RW&linkId=5977b381a2c16244a42b59986ff5b61f&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
-    </iframe>
+</a>
 \
-J'utilise la balance Renpho. Cet appareil, que vous pouvez acheter sur Amazon, vient avec une application mobile connectée à la balance par Bluetooth. À travers l'application, vous pouvez enregistrer plusieurs profiles si vous êtes nombreux à la maison et aussi consulter une historique de vos données (Poids, BMI, taux de graisse, votre âge métabolique, etc…).
+J'utilise la balance <a href="https://www.amazon.ca/gp/product/B01N1UX8RW/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01N1UX8RW&linkCode=as2&tag=didia08-20&linkId=b108f82df48d98fdf3f0a30136edc48a" target="_blank">Renpho</a>. Cet appareil, que <a href="https://www.amazon.ca/gp/product/B01N1UX8RW/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01N1UX8RW&linkCode=as2&tag=didia08-20&linkId=b108f82df48d98fdf3f0a30136edc48a" target="_blank">tu peux acheter sur Amazon</a>, vient avec une application mobile connectée à la balance par Bluetooth. L'application offre plusieurs informations sur ton profil de santé qui, à mon avis, en valent vraiment la peine.
 
 **Une application de suivi d'objectif du poids**\
-L'application qui vient avec la balance Renpho peut vous permettre de suivre votre poids. Toutefois une application appropriée pour suivi de perte de poids qui correspondra à la méthodologie du programme 4P est requis. Sur iPhone, vous pouvez utiliser l'application que j'utilise, Happy Scale.\
-Ceux qui, pour je ne sais quelle raison, utilisent encore un téléphone Android, vous pouvez utiliser l'application Libra qui est l'équivalent de Happy Scale.                                    
+L'application qui vient avec <a href="https://www.amazon.ca/gp/product/B01N1UX8RW/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01N1UX8RW&linkCode=as2&tag=didia08-20&linkId=b108f82df48d98fdf3f0a30136edc48a" target="_blank">la balance Renpho</a> peut te permettre de suivre ton poids. Toutefois une application appropriée pour suivi de perte de poids qui correspondra à la méthodologie du programme 4P est requise. Sur iPhone, tu peux utiliser l'application que j'utilise, <a href="https://apps.apple.com/ca/app/happy-scale/id532430574" target="_blank" rel="noreferrer nopener">Happy Scale</a>. Il y'a une version gratuite qui est amplement suffisante. Personnellement j'ai payé pour l'application car c'est vraiment bien fait et j'adore les graphes.\
+Ceux qui, pour je ne sais quelle raison, utilisent encore un téléphone Android 🤢, vous pouvez utiliser l'application <a href="https://play.google.com/store/apps/details?id=net.cachapa.libra&hl=en_CA" target="_blank" rel="noreferrer nopener">Libra</a> qui est l'équivalent de Happy Scale.                                    
 
 ## Finalement, c'est quoi ce programme 4P ?
 
@@ -97,12 +101,12 @@ Si tu perds moins que ça, tu devras améliorer l'intensité de ton régime alim
 Si tu en perds plus que ça, tu perds probablement plus que la graisse, c'est à dire soit de l'eau ou du muscle. Tu devrais réduire l'intensité de ton régime alimentaire ou continuer de même si ce n'est pas un problème pour toi.
 
 **Pénalités**\
-Normalement le weekend tu peux ne pas suivre ton régime alimentaire ou sportif. C'est ton choix. Cependant ton rythme de perte de poids ne devrait pas passer dans le rouge c'est à dire tu ne devrez pas gagner du poids. Si pendant la semaine ton rythme passe dans le rouge au moins une fois, tu devras observer ton régime alimentaire et sportif le weekend qui suit. Par exemple si ton rythme affiche **_+0.1_** le mardi, le samedi et dimanche qui suivent, tu devras continuer ton régime alimentaire et sportif. 
+Normalement le weekend tu peux ne pas suivre ton régime alimentaire ou sportif. C'est ton choix. Cependant ton rythme de perte de poids ne devrait pas passer dans le rouge c'est à dire tu ne devrez pas gagner du poids. Si pendant la semaine ton rythme passe dans le rouge au moins une fois, tu devras observer ton régime alimentaire et sportif le weekend qui suit. Par exemple si ton rythme affiche _**+0.1**_ le mardi, le samedi et dimanche qui suivent, tu devras continuer ton régime alimentaire et sportif. 
 
 ## **Pour conclure,**
 
 Choisir un bon régime alimentaire et sportif est très important car c'est ce qui te permettra de perdre du poids. Le régime alimentaire et sportif ensemble permettent à ce que tu dépenses plus que tu ne consommes. Beaucoup de régimes échouent parce que soit on nous ne choisissons pas le régime qui nous convient ou encore nous choisissons un régime qui ne nous procure pas le fun nécessaire pour continuer à le faire longtemps. 
 
-Dans le prochain article de la série [**_Prendre plaisir à perdre du poids_**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), nous parlerons justement de comment choisir un bon régime alimentaire et sportif et comment le mettre en place de façon progressive pour réussir le programme 4P.
+Dans le prochain article de la série [_**Prendre plaisir à perdre du poids**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), nous parlerons justement de comment choisir un bon régime alimentaire et sportif et comment le mettre en place de façon progressive pour réussir le programme 4P.
 
 À la prochaine ✌🏾
