@@ -84,7 +84,10 @@ Ton objectif principal choisi, Tu dois maintenant le diviser en petites étapes 
 Dans mon cas particulier, j'avais 48 livres (22 Kg) donc pour rester dans ma tranche, je devrais diviser par 20 pour avoir des étapes de 2.4 livres (1.2 Kg) chacune.
 
 **Les récompenses**\
-À chaque fois que tu réussis une étape, tu obtiendras une récompense. Au début du programme, tu choisis toi même tes récompenses. Tu dois choisir une récompense pour chaque étape. Dans mon cas, j'avais eu à choisir 20 récompenses. Comment choisir une réponse ? \
+À chaque fois que tu réussis une étape, tu obtiendras une récompense. Au début du programme, tu choisis toi même tes récompenses. Tu dois choisir une récompense pour chaque étape. Dans mon cas, j'avais eu à choisir 20 récompenses. Comment choisir une réponse ? 
+
+![Une liste de contrôle](/media/img_69a6d3ba662d-1.jpeg "Mes récompenses")
+
 \
 Penses à quelque chose que tu aimerez bien obtenir, quelque chose qui te motivera à réussir la mission pour l'avoir.\
 Attention, une fois que quelque chose est choisie comme récompense, tu devras t'en passer tout le long du programme. Tu n'obtiens des récompenses que lorsque tu réussis la mission y associée. \
