@@ -31,11 +31,10 @@ Voici donc les 4 principes:
    \
    À moins que ton gain de poids soit dû à une maladie ou une condition comme la grossesse, tu peux te donner n'importe quelle raison que tu veux, au final tu seras ramené aux choix que tu avais eu à faire dans le passé. Tu peux te dire que tu n'avais pas vraiment de choix mais la réalité c'est qu'on a toujours un choix. Même lorsqu'on ne fait pas des choix, on choisit de ne pas faire des choix. \
    Voilà pourquoi le programme c'est **Prendre** plaisir… Le plaisir ne viendra pas du programme. Le programme te facilitera la tâche mais c'est toi qui dois prendre ce plaisir là.
-2. **_Tous les types de régimes aident à perdre du poids._**
-   ![](/media/robin-stickel-tzl1ucxg5es-unsplash.jpg)
-   \
+2. **_Tous les types de régimes aident à perdre du poids._**\
    Tu ne t'attendais probablement pas à celle là mais faut savoir que tous les types de régime qui existent fonctionnent très bien. Le programme 4P ne te proposera donc pas un régime particulier. Tant que ton régime te fait consommer moins que ce que tu dépenses régulièrement, le régime t'aidera à perdre du poids.\
-
+   ![Un plat de burger](/media/robin-stickel-tzl1ucxg5es-unsplash.jpg "Tout régime mène à la perte de poids")
+   \
    **Mais...**\
    Ce ne sont pas tous les régimes qui fonctionnent avec tout le monde. Chaque régime a ses avantages et inconvénients. Il est donc plus prudent de consulter son médecin en cas de doute.
    Le programme 4P recommandera juste de choisir un régime qui est le plus amusant pour toi. Le problème c'est que beaucoup essaient des régimes qu'ils détestent. Comment penses-tu avoir du Plaisir à perdre du poids si tu détestes ton régime où ton régime te fait plus de mal que de bien ?
@@ -51,7 +50,11 @@ Voici donc les 4 principes:
 ## Les pré-requis du programme
 
 **Une balance**\
-Il va de soi que tu auras besoin d'une balance pour mesurer ton poids chaque jour. Les meilleurs balances sont celles qui peuvent fournir d'autres données telles que l'indice de masse musculaire, la quantité des graisse dans le corps, etc…\
+Il va de soi que tu auras besoin d'une balance pour mesurer ton poids chaque jour. Les meilleurs balances sont celles qui peuvent fournir d'autres données telles que l'indice de masse musculaire, la quantité des graisse dans le corps, etc…
+
+![A balance and its accompagning app](/media/renpho.jpg "La balance Renpho")
+
+\
 J'utilise la balance Renpho. Cet appareil, que vous pouvez acheter sur Amazon, vient avec une application mobile connectée à la balance par Bluetooth. À travers l'application, vous pouvez enregistrer plusieurs profiles si vous êtes nombreux à la maison et aussi consulter une historique de vos données (Poids, BMI, taux de graisse, votre âge métabolique, etc…).
 
 **Une application de suivi d'objectif du poids**\
