@@ -6,12 +6,17 @@ import Layout from '../components/Layout';
 import Page from '../components/Page';
 
 const CategoriesListTemplate = ({data}) => {
-  const {title, subtitle} = data.site.siteMetadata;
+  const {title, subtitle, url, image, imageWidth, imageHeight} = data.site.siteMetadata;
+  const metaImage = {
+    src: image,
+    width: imageWidth,
+    height: imageHeight
+  };
 
   const {group} = data.allMarkdownRemark;
 
   return (
-    <Layout title={`Categories - ${title}`} description={subtitle}>
+    <Layout title={`Categories - ${title}`} description={subtitle} siteUrl={url} metaImage={metaImage}>
       <Sidebar />
       <Page title="Categories">
         <ul>
@@ -32,8 +37,12 @@ export const query = graphql`
   query CategoriesListQuery {
     site {
       siteMetadata {
-        title
         subtitle
+        title
+        url
+        image
+        imageWidth
+        imageHeight
       }
     }
     allMarkdownRemark(filter: {frontmatter: {template: {eq: "post"}, draft: {ne: true}}}) {

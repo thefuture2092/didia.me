@@ -7,7 +7,20 @@ import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 
 const IndexTemplate = ({data, pageContext}) => {
-  const {title: siteTitle, subtitle: siteSubtitle} = data.site.siteMetadata;
+  const {
+    title: siteTitle,
+    subtitle: siteSubtitle,
+    url: siteUrl,
+    image,
+    imageWidth,
+    imageHeight
+  } = data.site.siteMetadata;
+
+  const metaImage = {
+    src: image,
+    width: imageWidth,
+    height: imageHeight
+  };
 
   const {currentPage, hasNextPage, hasPrevPage, prevPagePath, nextPagePath} = pageContext;
 
@@ -15,7 +28,7 @@ const IndexTemplate = ({data, pageContext}) => {
   const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
 
   return (
-    <Layout title={pageTitle} description={siteSubtitle}>
+    <Layout title={pageTitle} description={siteSubtitle} siteUrl={siteUrl} metaImage={metaImage}>
       <Sidebar />
       <Page>
         <Feed edges={edges} />
@@ -36,6 +49,10 @@ export const query = graphql`
       siteMetadata {
         title
         subtitle
+        url
+        image
+        imageWidth
+        imageHeight
       }
     }
     allMarkdownRemark(

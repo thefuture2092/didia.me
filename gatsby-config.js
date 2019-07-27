@@ -12,13 +12,16 @@ const netlifyCmsPaths = {
 
 module.exports = {
   siteMetadata: {
+    image: siteConfig.image,
     url: siteConfig.url,
     title: siteConfig.title,
     subtitle: siteConfig.subtitle,
     copyright: siteConfig.copyright,
     disqusShortname: siteConfig.disqusShortname,
     menu: siteConfig.menu,
-    author: siteConfig.author
+    author: siteConfig.author,
+    imageWidth: siteConfig.imageWidth,
+    imageHeight: siteConfig.imageHeight
   },
   plugins: [
     'gatsby-transformer-sharp',

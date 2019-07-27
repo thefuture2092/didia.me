@@ -7,7 +7,20 @@ import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 
 const TagTemplate = ({data, pageContext}) => {
-  const {title: siteTitle, subtitle: siteSubtitle} = data.site.siteMetadata;
+  const {
+    title: siteTitle,
+    subtitle: siteSubtitle,
+    url: siteUrl,
+    image,
+    imageWidth,
+    imageHeight
+  } = data.site.siteMetadata;
+
+  const metaImage = {
+    src: image,
+    width: imageWidth,
+    height: imageHeight
+  };
 
   const {tag, currentPage, prevPagePath, nextPagePath, hasPrevPage, hasNextPage} = pageContext;
 
@@ -18,7 +31,7 @@ const TagTemplate = ({data, pageContext}) => {
       : `All Posts tagged as "${tag}" - ${siteTitle}`;
 
   return (
-    <Layout title={pageTitle} description={siteSubtitle}>
+    <Layout title={pageTitle} description={siteSubtitle} metaImage={metaImage} siteUrl={siteUrl}>
       <Sidebar />
       <Page title={tag}>
         <Feed edges={edges} />
@@ -39,6 +52,10 @@ export const query = graphql`
       siteMetadata {
         title
         subtitle
+        url
+        image
+        imageWidth
+        imageHeight
       }
     }
     allMarkdownRemark(

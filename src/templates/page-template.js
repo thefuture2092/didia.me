@@ -5,7 +5,20 @@ import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
 
 const PageTemplate = ({data}) => {
-  const {title: siteTitle, subtitle: siteSubtitle} = data.site.siteMetadata;
+  const {
+    title: siteTitle,
+    subtitle: siteSubtitle,
+    url: siteUrl,
+    image,
+    imageWidth,
+    imageHeight
+  } = data.site.siteMetadata;
+
+  const metaImage = {
+    src: image,
+    width: imageWidth,
+    height: imageHeight
+  };
 
   const {title: pageTitle, description: pageDescription} = data.markdownRemark.frontmatter;
 
@@ -14,7 +27,7 @@ const PageTemplate = ({data}) => {
   const metaDescription = pageDescription !== null ? pageDescription : siteSubtitle;
 
   return (
-    <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription}>
+    <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} siteUrl={siteUrl} metaImage={metaImage}>
       <Sidebar />
       <Page title={pageTitle}>
         <div dangerouslySetInnerHTML={{__html: pageBody}} />
@@ -29,6 +42,10 @@ export const query = graphql`
       siteMetadata {
         title
         subtitle
+        url
+        image
+        imageWidth
+        imageHeight
       }
     }
     markdownRemark(fields: {slug: {eq: $slug}}) {

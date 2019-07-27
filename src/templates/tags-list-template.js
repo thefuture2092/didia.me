@@ -6,11 +6,17 @@ import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
 
 const TagsListTemplate = ({data}) => {
-  const {title, subtitle} = data.site.siteMetadata;
+  const {title, subtitle, url, image, imageWidth, imageHeight} = data.site.siteMetadata;
   const {group} = data.allMarkdownRemark;
 
+  const metaImage = {
+    src: image,
+    width: imageWidth,
+    height: imageHeight
+  };
+
   return (
-    <Layout title={`Tags - ${title}`} description={subtitle}>
+    <Layout title={`Tags - ${title}`} description={subtitle} metaImage={metaImage} siteUrl={url}>
       <Sidebar />
       <Page title="Tags">
         <ul>
@@ -33,6 +39,10 @@ export const query = graphql`
       siteMetadata {
         title
         subtitle
+        url
+        image
+        imageWidth
+        imageHeight
       }
     }
     allMarkdownRemark(filter: {frontmatter: {template: {eq: "post"}, draft: {ne: true}}}) {

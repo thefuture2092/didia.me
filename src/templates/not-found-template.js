@@ -5,13 +5,20 @@ import Layout from '../components/Layout';
 import Page from '../components/Page';
 
 const NotFoundTemplate = ({data}) => {
-  const {title, subtitle} = data.site.siteMetadata;
+  const {title, subtitle, url, image, imageWidth, imageHeight} = data.site.siteMetadata;
+
+  const metaImage = {
+    src: image,
+    width: imageWidth,
+    height: imageHeight
+  };
 
   return (
-    <Layout title={`Not Found - ${title}`} description={subtitle}>
+    <Layout title={`Not Found | Rien trouvé - ${title}`} description={subtitle} siteUrl={url} metaImage={metaImage}>
       <Sidebar />
-      <Page title="NOT FOUND">
+      <Page title="NOT FOUND | Rien trouvé">
         <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+        <p>Malheureusement, rien n&#39;existe à cet endroit 😢😢</p>
       </Page>
     </Layout>
   );
@@ -23,6 +30,9 @@ export const query = graphql`
       siteMetadata {
         title
         subtitle
+        image
+        imageWidth
+        imageHeight
       }
     }
   }

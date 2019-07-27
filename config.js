@@ -1,6 +1,9 @@
 'use strict';
 
 module.exports = {
+  image: '/cover.png',
+  imageWidth: '800',
+  imageHeight: '310',
   url: 'https://www.didia.me',
   title: 'Les pensées de Didia Aristote Diasonama',
   subtitle:
