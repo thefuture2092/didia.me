@@ -16,6 +16,15 @@ category: Productivité
 tags:
   - pomodoro;productivité;procrastination;distractions
 ---
+Cher ami,
+
+Si tu es comme moi, il t'arrive de fois que tu te mettes sur la tableau pour accomplir un petit travail ou lire sur un sujet, juste pour te retrouver entrain de commenter une photo d'un ami sur Facebook, regarder des épisodes des Friends sur Youtube ou encore espionner du monde sur Snapchat. Si tu es dans ce cas, la technique de Pomodoro dont je vais parler dans les prochaines lignes de cet article pourra t'être utile.
+
+En effet, quand je vivais seule, ma femme ne comprenait pas comment faire le ménage de mon appartement me prenait à peu près 7h 11h (de 9h à 16h). À vrai dire même moi, je ne comprenais pas en ce moment là. Pourtant c'était facile de savoir la cause. À chaque fois que je faisais le ménage, je mettais soit une série, soit un film ou un match de soccer. En plus de causer avec elle au téléphone (elle était en Russie en ce moment là). Je me rappelle même une fois avoir fait le ménage de ma chambre d'université durant 2 jours complets. C'était la fois où j'avais complété la première saison de Game of Thrones en entier.\
+Cela arrive même au travail. Avec toutes les messageries instantanées que nous avons aujourd'hui, en plus du bon vieux client email, il est facile d'être tout le temps interrompu et d'avoir du mal à compléter les tâches que l'on a à faire.
+
+Souvent pour lutter contre ces distractions et interruptions, nous devons faire appel à un sens élévé de discipline et de volonté. Or, faire tout le temps appel à sa volonté est fatigant. Voilà pourquoi il est plus facile de faire des choses qui ne demandent pas une grande force de volonté comme naviguer sur les réseaux sociaux, etc..\
+.\
 Le matin de mon examen d'analyse économique, je navigues sur Facebook après une nuit blanche quand je vois un ami qui publie une photo d'un tableau provenant du livre qu'il avait enfin réussi à comprendre et remplir. Le problème c'est que moi, ayant commencé ma préparation il y'a à peine trois jours, je n'avais jamais vu ce tableau dans le livre. En vérifiant, je me suis rendu compte que mon livre manquait 13 pages. Le tableau est évidemment revenu à l'examen pour 30% de la note globale. J'ai eu 57/100 à cet examen. La note de passage était de 60. C'est comme ça que j'ai échoué mon premier examen d'Analyse économique. 
 
 ## La procrastination: cette source de plaisir temporelle qui finit par nous hanter.
