@@ -35,3 +35,24 @@ La réalité est que nous avons besoin des distractions pour relaxer. Un peu de 
 C'est ainsi que j'avais décidé d'abandonner jusqu'à ce que je lise le livre A mind for Numbers de Barbara Oakley et que je découvre la technique du Pomodoro.
 
 ## En quoi consiste la technique du Pomodoro ?
+
+La technique du Pomodoro est une méthode de gestion de temps inventé par Francesco Cirillo dans la fin des années 80. Le but est de diviser le travail en intervalles de 25 minutes appelées pomodoro, séparées par des petites pauses, généralement de 5 minutes. Après 4 intervalles de travail, la pause qui s'en suit est quant à elle plus longue, généralement de 25 minutes. \
+Les temps de pause peuvent être utilisés pour consulter les emails ou sms ainsi que naviguer un peu sur le Web si possible. 
+
+**Pourquoi ça marche ?**\
+Cette technique fonctionne bien car nous n'éliminons pas nécessairement les distractions et les interruptions mais nous les controllons. Nous sommes moins disposés à ouvrir la notification Snapchat qui vient d'arriver tout de suite car nous savons que nous aurons un petit 5 minutes pour le faire bientôt. 
+
+L'autre avantage de cette technique est que le travail devient plus amusant car nous obtenons une satisfaction à chaque fois que nous complétons une séance de Pomodoro. Cette satisfaction nous garde motivé à faire plus des séances encore.
+
+## Est-ce vraiment efficace comme technique ?
+
+D'une part, ça fait maintenant trois mois que j'utilise le Pomodoro régulièrement comme technique de travail au boulot. J'ai découvert que cette technique me permet non seulement d'être plus productif dans ce que je fais mais elle me permet aussi de vite me rendre compte lorsqu'une solution que j'essaie d'appliquer ne mène à rien.
+
+En effet, chaque période de pause me permet de faire un état de lieu sur l'avancement de ce que je fais et remettre en question si le chemin dans lequel je suis engagé est vraiment efficace. Très souvent je me rends compte que ça fait 4 pomodoros que je me bats avec cette solution et ça ne donne pas de bons résultats et si j'essaie une autre avenue ?\
+Avant, en travaillant concentré pendant des longues heures, je me rendais compte souvent trop tard que la solution que je faisais n'était probablement pas la bonne. La technique du Pomodoro me permet ainsi de travailler itérativement.
+
+D'autre part, depuis la naissance de mon fils en mai, je trouve que j'ai des moins en moins du temps pour faire des projets personnels car il prend souvent une bonne partie de mon temps à la maison. Cependant depuis que j'utilise la technique du Pomodoro, j'ai déjà terminé de lire trois livres et je publie maintenant régulièrement sur mon blog. Ce que je ne faisais pas avant sa naissance, quand j'avais hypothétiquement plus de temps. Tout cela est dû au fait que maintenant, je peux prendre 25 minutes pour lire chaque jour. Ca parait peu en une journée mais en une semaine ça fait quand même 3h que je passes à lire. Je fais de même pour le blog. Plutôt que de passer 3h à écrire un article en une journée, je le fais au fil des jours en raison de 25 minutes par jour. Et à chaque fois que je reviens sur un article, j'ai l'impression d'avoir encore plus d'idées et d'améliorer.
+
+Ainsi la technique du Pomodoro m'a aidé non seulement à être plus productif mais aussi à vaincre la procastination que j'avais avant et à produire plus avec moins de temps. J'esperais que cela soit le cas pour vous aussi si vous décidez de l'essayer. Au début ça peut paraitre pas évident mais croyez moi au fil du temps on s'habitue et la productivité en bénéficie.
+
+À la prochaine ✌🏾
