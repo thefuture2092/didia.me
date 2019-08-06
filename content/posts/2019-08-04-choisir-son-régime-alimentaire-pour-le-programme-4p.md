@@ -28,4 +28,17 @@ Ainsi tu vois clairement que le régime facilite beaucoup la perte de poids et c
 
 ## Comment choisir son régime ?
 
-Il existe plusieurs sortes des régimes alimentaires mais tous ont pour ont pour objectif de limiter la quantité de calories que tu consommes par jour.
+Il existe plusieurs sortes des régimes alimentaires que vous pouvez adopter mais tous ont pour objectif de limiter la quantité de calories que nous consommons chaque jour. Je les regrouperai en trois catégories:
+
+1. **Le régime de contrôle**: J'appelle régime de contrôle, le régime qui consiste à limiter la quantité de calorie en examinant à la loupe ce que nous consommons. Avec ce régime, on choisit une limite de calorie que l'on veut par jour et on contrôle tout ce qu'on mange pour que le total en calorie ne dépasse pas notre limite. \
+   Bien que très efficace, je n'ai pas assez de discipline personnellement pour suivre ce régime. Et même si j'en avais, bonne chance à calculer la quantité de calorie contenue dans un repas africain.
+2. **Les régimes d'exclusion**: Ce sont des régimes qui excluent une catégorie de nourriture donné pour arriver à limiter la quantité de calorie. Parmi ces régimes, nous avons le véganisme qui exclut tout ce qui est consommation animale, il y'a le Paléo qui prône une consommation ressemblant à ce que nos ancêtres cultivateurs-chasseurs consommaient, il y'a le Low-carb qui réduit le plus possible les aliments contenant des glucides, etc…\
+   Bien qu'ayant leurs avantages ainsi qu'inconvénients comme tout régime, personnellement, je ne pense pas que j'arriverai à exclure quoi que ce soit. Je mange tout. Des animaux aux plantes en passant par les insectes, quand c'est mangeable, je mange. Et curieusement, la majeure partie de ces régimes excluent souvent les types de nourritures qui sont mes préférées donc c'est un No-no pour moi.
+3. **Le jeune intermittent: **Ce régime prône d'alterner entre des périodes où l'on mange et des périodes où l'on jeune plutôt que restreindre la quantité ou le type de nourritures que l'on consomme. Il existe plusieurs méthodes de jeune intermittent que j'ai regroupé en une seule dans le cadre de mon programme 4P, je vous l'expliquerai plus tard. Cependant pour beaucoup de critiques, le jeune intermittent n'est pas vraiment considéré comme un vrai régime puisqu'on ne réduit pas nécessairement la quantité de ce que l'on mange mais personnellement c'est le régime que j'ai trouvé le mieux placé pour moi et surtout que j'ai trouvé le plus efficace. Je continue de manger ce que je veux, tout en perdant du poids. Qui pouvait imaginer que ça aurait été possible 🤪?
+
+Alors comment devrais-tu choisir ton régime ? Cela dépend de ta personnalité. Qu'est-ce qui va te plaire le plus ? Et qu'est-ce qui sera plus simple pour toi. J'ai remarqué que souvent, ceux qui aiment cuisiner vont adopter le régime de contrôle car ils aiment déjà être au contrôle de ce qu'il consomme. Les gens qui sont végétariens vont souvent adopter le véganisme ainsi de suite.\
+Je te conseillerai donc d'analyser tous ces régimes et choisir ce qui ira le mieux avec ton style de vie.
+
+## L'adoption d'un régime dans le cadre du programme 4P
+
+Une fois votre régime choisi, il faut maintenant commencer à le suivre. Le programme 4P ne dicte pas le choix de régime mais intervient plus dans la manière d'adopter un régime.
