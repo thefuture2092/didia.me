@@ -17,6 +17,15 @@ _Cet article est le quatrième de la série [**Prendre plaisir à perdre du poid
 
 Cher ami(e),\
 \
-Avant, je pensais que je pouvais perdre du poids en faisant plus d'exercices seulement. Toutefois j'ai vite découvert que bien que possible, c'était extrêmement difficile. Dans les lignes qui suivent, je vous expliquerai pourquoi le régime alimentaire est important, comment choisir son régime alimentaire et vous parlerai du régime alimentaire que j'ai choisi pour le programme 4P.
+Avant, je pensais que je pouvais perdre du poids en faisant plus d'exercices seulement. Toutefois j'ai vite découvert que bien que possible, c'était extrêmement difficile. Dans les lignes qui suivent, je t'expliquerai pourquoi le régime alimentaire est important, comment choisir ton régime alimentaire et je te parlerai du régime alimentaire que j'ai choisi pour le programme 4P.
 
-En effet, il est possible de perdre du poids sans passer faire des régimes particuliers. Cependant, il faudra faire beaucoup plus d'efforts  physiques pour arriver à dépenser plus de calories que vous en consommez. Le problème c'est que lorsque vous vous entrainez beaucoup, vos muscles se construisent et votre métabolisme demande plus d'énergie pour fonctionner ainsi vous avez une envie grandissante de nourriture. Vous risquez donc au final de vous retrouver à manger beaucoup plus qu'avant sans un contrôle de votre régime alimentaire. Et au final ça deviendra de plus en plus difficile de dépenser plus que ce que vous consommez et ainsi perdre du poids. C'est donc pour cette raison que le programme 4P recommandé une combinaison du régime alimentaire et d'un régime sportif pour perdre du poids.
+## L'importance du régime alimentaire
+
+En effet, il est possible de perdre du poids sans adopter un régime alimentaire particulier. Cependant en choisissant de ne pas consommer moins, il faudra faire beaucoup plus d'efforts physiques pour arriver à dépenser plus que ce qu'on consomme.\
+Par exemple, si mon métabolisme a besoin de 1500 calories (cal) par jour pour fonctionner et que je consommes généralement 2000 cal, je devrais dépenser plus de 500 cal pour espérer perdre du poids. Personnellement ça me prends à peu près une heure au Gym pour dépenser 600 cal. Cela veut donc dire que je dois donc faire plus d'exercices pour perdre du poids. Ainsi sans régime alimentaire, je ne brûlerai que 100 cal par jour de graisse en une heure au gym.\
+Toutefois si j'adoptes un régime alimentaire qui limite ma consommation à 1400 cal par jour par exemple, je brûlerai le même quantité de graisse, 100 cal, et ce sans faire le moindre exercice. En faisant une heure de gym comme avant, je brûlerai 6 fois plus de graisse.\
+Ainsi tu vois clairement que le régime facilite beaucoup la perte de poids et c'est pour cette raison qu'elle est une arme importante pour le programme 4P
+
+## Comment choisir son régime ?
+
+Il existe plusieurs sortes des régimes alimentaires mais tous ont pour ont pour objectif de limiter la quantité de calories que tu consommes par jour.
