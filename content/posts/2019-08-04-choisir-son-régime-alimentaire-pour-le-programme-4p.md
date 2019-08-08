@@ -75,6 +75,10 @@ Actuellement je suis rendu personnellement au niveau 6.
 
 ## En conclusion,
 
-Vous avez vu dans cet article quels sont les différents régimes qui s'offrent à vous et comment les adopter. Je vous ai aussi montré comment j'ai découpé mon régime en plusieurs niveau
+Nous avons vu ensemble dans cet article les différents types de régime que nous pouvons adopter dans le cadre du programme 4P. Il est cependant très important de choisir le régime qui corresponde le mieux à notre personnalité. Plus le régime nous correspond, plus nous aurons du fun à le pratiquer.\
+Ensuite l'autre clé pour persévérer dans le régime est de l'adopter de façon progressive. Pour ce faire, nous subdivisons le programme en plusieurs niveaux qui augmente en difficulté jusqu'à adopter le programme complètement.\
+Dans le prochain article, je vous parlerai d'une autre arme à votre disposition pour le programme 4P, le régime sportif ou régime d'activités physiques.
+
+À la prochaine ✌🏾 
 
 ##
