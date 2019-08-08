@@ -19,6 +19,12 @@ Cher ami(e),\
 \
 Avant, je pensais que je pouvais perdre du poids en faisant plus d'exercices seulement. Toutefois j'ai vite découvert que bien que possible, c'était extrêmement difficile. Dans les lignes qui suivent, je t'expliquerai pourquoi le régime alimentaire est important, comment choisir ton régime alimentaire et je te parlerai du régime alimentaire que j'ai choisi pour le programme 4P.
 
+## Mais avant toute chose…
+
+![Images montrant graphique et nombre concernant la progression de la perte de poids](/media/pjimage.jpg "Progrès au 7 Aout 2019")
+
+Voici l'état de ma perte de poids au 7 Aout 2019. Mon poids affiche 100,3 Kg (221 livres). Mon rythme actuel de perte de poids est descendu en dessous de 0.4 kg par semaine, Ce qui implique que je devrais augmenter le niveau de mon régime alimentaire. Je suis rendu au niveau 6 maintenant. Tous les poids affichés sont en Kg et non en livres.
+
 ## L'importance du régime alimentaire
 
 En effet, il est possible de perdre du poids sans adopter un régime alimentaire particulier. Cependant en choisissant de ne pas consommer moins, il faudra faire beaucoup plus d'efforts physiques pour arriver à dépenser plus que ce qu'on consomme.\
