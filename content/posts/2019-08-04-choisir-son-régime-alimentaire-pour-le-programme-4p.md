@@ -75,6 +75,6 @@ Actuellement je suis rendu personnellement au niveau 6.
 
 ## En conclusion,
 
-Vous avez vu dans cet article quels sont les différents régimes qui s'offrent à vous et comment les adopter. J'esp
+Vous avez vu dans cet article quels sont les différents régimes qui s'offrent à vous et comment les adopter. Je vous ai aussi montré comment j'ai découpé mon régime en plusieurs niveau
 
 ##
