@@ -23,30 +23,34 @@ Avant, je pensais que je pouvais perdre du poids en faisant plus d'exercices seu
 
 ![Images montrant graphique et nombre concernant la progression de la perte de poids](/media/pjimage.jpg "Progrès au 7 Aout 2019")
 
-Voici l'état de ma perte de poids au 7 Aout 2019. Mon poids affiche 100,3 Kg (221 livres). Mon rythme actuel de perte de poids est descendu en dessous de 0.4 kg par semaine, Ce qui implique que je devrais augmenter le niveau de mon régime alimentaire. Je suis rendu au niveau 6 maintenant. Tous les poids affichés sont en Kg et non en livres.
+Voici l'état de ma perte de poids en date du mercredi 7 Août 2019. Mon poids affiche 100,3 Kg (221 livres). Mon rythme actuel de perte de poids est descendu en dessous de 0.4 kg par semaine, Ce qui implique que je devrais augmenter le niveau de mon régime alimentaire. J'ai donc monté le niveau de mon régime au niveau 6. Tu verras plus tard dans l'article qu'est-ce que cela implique.  Tous les poids affichés sont en Kg et non en livres.
 
 ## L'importance du régime alimentaire
 
-En effet, il est possible de perdre du poids sans adopter un régime alimentaire particulier. Cependant en choisissant de ne pas consommer moins, il faudra faire beaucoup plus d'efforts physiques pour arriver à dépenser plus que ce qu'on consomme.\
-Par exemple, si mon métabolisme a besoin de 1500 calories (cal) par jour pour fonctionner et que je consommes généralement 2000 cal, je devrais dépenser plus de 500 cal pour espérer perdre du poids. Personnellement ça me prends à peu près une heure au Gym pour dépenser 600 cal. Cela veut donc dire que je dois donc faire plus d'exercices pour perdre du poids. Ainsi sans régime alimentaire, je ne brûlerai que 100 cal par jour de graisse en une heure au gym.\
-Toutefois si j'adoptes un régime alimentaire qui limite ma consommation à 1400 cal par jour par exemple, je brûlerai le même quantité de graisse, 100 cal, et ce sans faire le moindre exercice. En faisant une heure de gym comme avant, je brûlerai 6 fois plus de graisse.\
-Ainsi tu vois clairement que le régime facilite beaucoup la perte de poids et c'est pour cette raison qu'elle est une arme importante pour le programme 4P
+En effet, il est possible de perdre du poids sans adopter un régime alimentaire particulier. Cependant, si tu choisis de ne pas adopter un régime alimentaire, tu devras faire beaucoup plus d'efforts physiques pour arriver à dépenser plus de calories que ce que tu consommes.
+
+Par exemple, si mon métabolisme a besoin de 1500 calories (cal) par jour pour fonctionner et que je consommes généralement 2000 cal, je devrais dépenser plus de 500 cal pour espérer perdre du poids. Personnellement ça me prends à peu près une heure au Gym pour dépenser 600 cal. Cela veut donc dire que je devrais m'entrainer plus longtemps pour perdre du poids puisque sans régime alimentaire, je ne brûlerai que 100 cal par jour de graisse en une heure au gym.
+
+Toutefois si j'adoptes un régime alimentaire qui limite ma consommation à 1400 cal par jour par exemple, je brûlerai le même quantité de graisse, 100 cal, et ce sans faire le moindre exercice. En faisant une heure de gym comme avant, je brûlerai 6 fois plus de graisse. Tu peux donc voir clairement que le régime facilite beaucoup la perte de poids et c'est pour cette raison qu'elle est une arme importante pour le programme 4P.
 
 ## Comment choisir son régime ?
 
 Il existe plusieurs sortes des régimes alimentaires que vous pouvez adopter mais tous ont pour objectif de limiter la quantité de calories que nous consommons chaque jour. Je les regrouperai en trois catégories:
 
-1. **Le régime de contrôle**: J'appelle régime de contrôle, le régime qui consiste à limiter la quantité de calorie en examinant à la loupe ce que nous consommons. Avec ce régime, on choisit une limite de calorie que l'on veut par jour et on contrôle tout ce qu'on mange pour que le total en calorie ne dépasse pas notre limite. 
+1. **Le régime de contrôle**: J'appelle régime de contrôle, le régime qui consiste à limiter la quantité de calorie en examinant à la loupe ce que nous consommons. Avec ce régime, on choisit une limite de calorie que l'on veut par jour et on contrôle tout ce qu'on mange pour que le total en calorie ne dépasse pas notre limite.
    ![Valeurs nutritives d'un produit random](/media/lble_industry_nutrition_label_table_information_im1_1503325839214_fra.jpg "Exemple de valeurs nutritives")
-   \
    Bien que très efficace, je n'ai pas assez de discipline personnellement pour suivre ce régime. Et même si j'en avais, bonne chance à calculer la quantité de calorie contenue dans un repas africain.
 2. **Les régimes d'exclusion**: Ce sont des régimes qui excluent une catégorie de nourriture donné pour arriver à limiter la quantité de calorie. Parmi ces régimes, nous avons le véganisme qui exclut tout ce qui est consommation animale, il y'a le Paléo qui prône une consommation ressemblant à ce que nos ancêtres cultivateurs-chasseurs consommaient, il y'a le Low-carb qui réduit le plus possible les aliments contenant des glucides, etc…
-   ![Un plat vegan](/media/anna-pelzer-igfigp5onv0-unsplash.jpg "Un plat vegan")
-   \
+
+![Un plat vegan](/media/anna-pelzer-igfigp5onv0-unsplash.jpg "Un plat vegan")
+
+1. \
    Bien qu'ayant leurs avantages ainsi qu'inconvénients comme tout régime, personnellement, je ne pense pas que j'arriverai à exclure quoi que ce soit. Je mange tout. Des animaux aux plantes en passant par les insectes, quand c'est mangeable, je mange. Et curieusement, la majeure partie de ces régimes excluent souvent les types de nourritures qui sont mes préférées donc c'est un No-no pour moi.
-3. **Le jeûne intermittent: **Ce régime prône d'alterner entre des périodes où l'on mange et des périodes où l'on jeune plutôt que restreindre la quantité ou le type de nourritures que l'on consomme. 
-   ![Un plat vide avec le dessin d'une personne triste sur le plas.](/media/thought-catalog-fnztlib52gu-unsplash.jpg "Un plat vide")
-   \
+2. **Le jeûne intermittent: **Ce régime prône d'alterner entre des périodes où l'on mange et des périodes où l'on jeune plutôt que restreindre la quantité ou le type de nourritures que l'on consomme. 
+
+![Un plat vide avec le dessin d'une personne triste sur le plas.](/media/thought-catalog-fnztlib52gu-unsplash.jpg "Un plat vide")
+
+1. \
    Il existe plusieurs méthodes de jeune intermittent que j'ai regroupé en une seule dans le cadre de mon programme 4P, je vous l'expliquerai plus tard. Cependant pour beaucoup de critiques, le jeune intermittent n'est pas vraiment considéré comme un vrai régime puisqu'on ne réduit pas nécessairement la quantité de ce que l'on mange mais personnellement c'est le régime que j'ai trouvé le mieux placé pour moi et surtout que j'ai trouvé le plus efficace. Je continue de manger ce que je veux, tout en perdant du poids. Qui pouvait imaginer que ça aurait été possible 🤪?
 
 Alors comment devrais-tu choisir ton régime ? Cela dépend de ta personnalité. Qu'est-ce qui va te plaire le plus ? Et qu'est-ce qui sera plus simple pour toi. J'ai remarqué que souvent, ceux qui aiment cuisiner vont adopter le régime de contrôle car ils aiment déjà être au contrôle de ce qu'il consomme. Les gens qui sont végétariens vont souvent adopter le véganisme ainsi de suite.\
@@ -88,9 +92,9 @@ Actuellement je suis rendu personnellement au niveau 6.
 
 ## En conclusion,
 
-Nous avons vu ensemble dans cet article les différents types de régime que nous pouvons adopter dans le cadre du programme 4P. Il est cependant très important de choisir le régime qui corresponde le mieux à notre personnalité. Plus le régime nous correspond, plus nous aurons du plaisir à le pratiquer.\
-Ensuite l'autre clé pour persévérer dans le régime est de l'adopter de façon progressive. Pour ce faire, nous subdivisons le programme en plusieurs niveaux qui augmente en difficulté jusqu'à adopter le programme complètement.\
-Dans le prochain article, je vous parlerai d'une autre arme à votre disposition pour le programme 4P, le régime sportif ou régime d'activités physiques.
+Nous avons vu ensemble dans cet article différents types de régime que nous pouvons adopter dans le cadre du programme 4P. Il est cependant très important de choisir le régime qui correspond le mieux à notre personnalité et à notre mode de vie. Plus le régime nous correspond, plus nous aurons du plaisir à le pratiquer.\
+Ensuite l'autre clé pour persévérer dans le régime est de l'adopter de façon progressive. Pour ce faire, nous subdivisons le programme en plusieurs niveaux qui augmentent en difficulté jusqu'à adopter le régime complètement.\
+Dans le prochain article, je vous parlerai d'une autre arme à votre disposition pour le programme 4P, l'activité physique.
 
 À la prochaine ✌🏾 
 
