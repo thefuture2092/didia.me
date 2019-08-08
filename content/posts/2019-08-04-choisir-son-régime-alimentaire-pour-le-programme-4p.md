@@ -56,7 +56,7 @@ Je te conseillerai donc d'analyser tous ces régimes et choisir ce qui ira le mi
 
 Une fois votre régime choisi, il faut maintenant le mettre en pratique. Le programme 4P ne dicte pas le choix de régime mais intervient plus dans la manière d'adopter un régime.
 
-En effet, je prone l'adoption progressif du régime pour donner à notre corps le temps de s'adapter mais aussi pour ne pas l'infliger une peine qui n'est pas nécessaire. Ainsi dit le régime est divisé en plusieurs étages et nous allons à l'étage supérieure si et seulement si c'est nécessaire. \
+En effet, je prône l'adoption progressif du régime pour donner à notre corps le temps de s'adapter mais aussi pour ne pas l'infliger une peine qui n'est pas nécessaire. Ainsi dit le régime est divisé en plusieurs étages et nous allons à l'étage supérieure si et seulement si c'est nécessaire. \
 Le programme 4P définit comme normale une perte de poids hebdomadaire située entre 1 livre (0.4 kg) et 2.2 livres. Lorsque notre perte de poids hebdomadaire devient inférieure à la normale, nous devrons passer au niveau supérieure du régime. Et lorsque la perte est supérieure à la normale, nous pouvons redescendre à un niveau inférieur du régime. Et comme vous l'aurez remarqué, tant que notre perte de poids se situe dans la zone normale, nous ne touchons pas au régime. De cette façon nous nous assurons de ne pas infliger une peine non nécessaire à notre corps.
 
 ## Mon choix de régime: Le jeûne intermittent
@@ -88,7 +88,7 @@ Actuellement je suis rendu personnellement au niveau 6.
 
 ## En conclusion,
 
-Nous avons vu ensemble dans cet article les différents types de régime que nous pouvons adopter dans le cadre du programme 4P. Il est cependant très important de choisir le régime qui corresponde le mieux à notre personnalité. Plus le régime nous correspond, plus nous aurons du fun à le pratiquer.\
+Nous avons vu ensemble dans cet article les différents types de régime que nous pouvons adopter dans le cadre du programme 4P. Il est cependant très important de choisir le régime qui corresponde le mieux à notre personnalité. Plus le régime nous correspond, plus nous aurons du plaisir à le pratiquer.\
 Ensuite l'autre clé pour persévérer dans le régime est de l'adopter de façon progressive. Pour ce faire, nous subdivisons le programme en plusieurs niveaux qui augmente en difficulté jusqu'à adopter le programme complètement.\
 Dans le prochain article, je vous parlerai d'une autre arme à votre disposition pour le programme 4P, le régime sportif ou régime d'activités physiques.
 
