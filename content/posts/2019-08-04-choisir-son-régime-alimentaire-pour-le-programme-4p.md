@@ -46,10 +46,35 @@ Une fois votre régime choisi, il faut maintenant le mettre en pratique. Le prog
 En effet, je prone l'adoption progressif du régime pour donner à notre corps le temps de s'adapter mais aussi pour ne pas l'infliger une peine qui n'est pas nécessaire. Ainsi dit le régime est divisé en plusieurs étages et nous allons à l'étage supérieure si et seulement si c'est nécessaire. \
 Le programme 4P définit comme normale une perte de poids hebdomadaire située entre 1 livre (0.4 kg) et 2.2 livres. Lorsque notre perte de poids hebdomadaire devient inférieure à la normale, nous devrons passer au niveau supérieure du régime. Et lorsque la perte est supérieure à la normale, nous pouvons redescendre à un niveau inférieur du régime. Et comme vous l'aurez remarqué, tant que notre perte de poids se situe dans la zone normale, nous ne touchons pas au régime. De cette façon nous nous assurons de ne pas infliger une peine non nécessaire à notre corps.
 
-## Mon choix de régime
+## Mon choix de régime: Le jeûne intermittent
 
-Pour vous donner un exemple concret de tout ce que j'ai dit ci haut, je vous présente le régime que j'ai choisi et comment je l'ai adopté dans le cadre du programme 4P.
+Pour mon programme 4P, j'ai choisi d'adopter le jeûne intermittent comme régime. Je me connais tellement bien que je sais que je n'ai aucune discipline personnelle pour adopter soit le régime de contrôle ou d'exclusion. J'ai adopté le jeûne intermittent parce que je peux manger tout ce que je veux. Aussi, en plus d'aider à perdre du poids, les avantages sur la santé dûs au jeûne intermittent ont été démontrés scientifiquement.
 
-En effet, me connaissant, je savais que je n'avais aucune discipline pour adopter soit le régime de contrôle ou d'exclusion. J'ai donc opté pour le jeûne intermittent.
+Il existe plusieurs types de jeûnes intermittent. Voici ce que j'utilise dans le programme 4P:
 
-Voici comment j'ai découpé en étape mon régime de jeûne intermittent:
+* **Le régime Warrior**: Consiste à manger des petites portions des fruits et légumes pendant la journée et un seul gros repas le soir. Ainsi vous jeûnez pendant la journée et vous avez une intervalle de 4 heures le soir pour manger.
+* **La méthode 16/8:** Consiste à éliminer le déjeuner et restreindre le manger à une période de 8 heures et jeuner pendant les 16 heures restantes. Par exemple vous pouvez manger entre 11h et 19h et jeuner le reste de temps.
+* **La méthode eat-stop-eat:** Consister à jeuner pendant 24h. Donc si vous mangez à 18h aujourd'hui, vous ne pouvez manger que demain à 18h.
+* **Le régime 5:2: **Consiste à limiter sa consommation à 500 - 600 calories pendant deux jours non consécutifs de la semaine.
+
+## **Mon adoption progressive du jeûne intermittent**
+
+Comme mentionné plus haut, l'une des clés du programme 4P est l'adoption progressive du régime. Pour ce faire, voici comment j'ai subdivisé en plusieurs niveaux mon régime de jeûne intermittent:
+
+* Niveau 1: La méthode 16/8 trois fois par semaine, soit Lundi, Mercredi, Vendredi. Le reste des jours je consomme normalement.
+* Niveau 2: La méthode 16/8 chaque jour sauf les weekends.
+* Niveau 3: La méthode 16/8 trois fois par semaine et le régime Warrior deux fois par semaine.
+* Niveau 4: Le régime Warrior trois fois par semaine et la méthode 16/8 deux fois par semaine.
+* Niveau 5: Le régime Warrior cinq fois par semaine.
+* Niveau 6: Le régime Warrior trois fois par semaine et la méthode eat-stop-eat pendant deux jours non consécutifs.
+* Niveau 7: La méthode eat-stop-eat trois fois par semaine et le régime Warrior deux fois par semaine.
+* Niveau 8: La méthode eat-stop-eat cing fois par semaine.
+* Niveau 9: La méthode eat-stop-eat trois fois par semaine et le régime 5:2 les autres journées.
+
+Actuellement je suis rendu personnellement au niveau 6. 
+
+## En conclusion,
+
+Vous avez vu dans cet article quels sont les différents régimes qui s'offrent à vous et comment les adopter. J'esp
+
+##
