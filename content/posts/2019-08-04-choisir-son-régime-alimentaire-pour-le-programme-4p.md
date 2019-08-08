@@ -74,7 +74,7 @@ Il existe plusieurs types de jeûnes intermittent. Voici ce que j'utilise dans l
 * **Le régime Warrior**: Consiste à manger des petites portions des fruits et légumes pendant la journée et un seul gros repas le soir. Ainsi vous jeûnez pendant la journée et vous avez une intervalle de 4 heures le soir pour manger.
 * **La méthode 16/8:** Consiste à éliminer le déjeuner et ne manger que pendant une période de 8 heures et jeûner pendant les 16 heures restantes. Par exemple vous pouvez manger entre 11h et 19h et jeûner le reste de temps.
 * **La méthode eat-stop-eat:** Consister à jeuner pendant 24h. Donc si vous mangez à 18h aujourd'hui, vous ne pouvez manger que demain à 18h.
-* **Le régime 5:2: **Consiste à limiter sa consommation à 500 - 600 calories pendant deux jours non consécutifs de la semaine. Pour vous donner une idée, cela consiste à ne manger que deux cheeseburgers de McDonalds pendant les deux jours.
+* **Le régime 5:2:** Consiste à limiter sa consommation à 500 - 600 calories pendant deux jours non consécutifs de la semaine. Pour vous donner une idée, cela consiste à ne manger que deux cheeseburgers de McDonalds pendant les deux jours.
 
 ## **Mon adoption progressive du jeûne intermittent**
 
