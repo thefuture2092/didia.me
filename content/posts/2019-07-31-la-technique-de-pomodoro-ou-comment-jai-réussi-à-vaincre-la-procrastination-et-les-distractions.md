@@ -1,24 +1,24 @@
 ---
 template: post
 title: >-
-  La technique de Pomodoro ou comment j'ai réussi à vaincre la procrastination
-  et les distractions.
+  La technique Pomodoro ou comment j'ai réussi à vaincre la procrastination et
+  les distractions.
 draft: true
 date: 2019-08-01T00:22:34.583Z
 description: >-
-  Avec toutes les distractions que l'âge de la technologie nous a amenées, je me
-  retrouvais souvent dans un cycle infernal de procrastination et des
-  distractions sans jamais réussir à accomplir tout ce que je voulais accomplir.
-  Cela a pris fin quand j'ai découvert le Pomodoro; Une technique de gestion de
-  temps super-efficace qui m'a permis de retrouver le niveau de productivité que
-  je désirai. 
+  Avec toutes les distractions que l'âge de la technologie nous a apportées, je
+  me retrouvais souvent dans un cycle infernal de procrastination et des
+  distractions sans jamais réussir à accomplir ce que je désirais accomplir.
+  Cela a pris fin quand j'ai découvert la technique Pomodoro; Une technique de
+  gestion de temps super-efficace qui m'a permis d'atteindre le niveau de
+  productivité auquel j'aspirais. 
 category: Productivité
 tags:
   - pomodoro;productivité;procrastination;distractions
 ---
 Cher ami,
 
-Si tu es comme moi, il t'arrive de fois que tu te mettes sur la tableau pour accomplir un petit travail ou lire sur un sujet, juste pour te retrouver entrain de commenter une photo d'un ami sur Facebook, regarder des épisodes des Friends sur Youtube ou encore espionner du monde sur Snapchat. Si tu es dans ce cas, la technique de Pomodoro dont je vais parler dans les prochaines lignes de cet article pourra t'être utile.
+Si tu es comme moi, il t'arrive de fois que tu te mettes sur la table pour accomplir un petit travail ou lire sur un sujet, juste pour te retrouver entrain de commenter une photo d'un ami sur Facebook, regarder des épisodes des Friends sur Youtube ou encore espionner du monde sur Snapchat. Si tu es dans ce cas, la technique de Pomodoro dont je vais parler dans les prochaines lignes de cet article pourra t'être utile.
 
 En effet, quand je vivais encore seul, ma femme ne comprenait pas comment je prenais à peu près 7h(de 9h à 16h) pour faire le ménage de mon appartement . À vrai dire, même moi je ne comprenais pas en ce moment là. Pourtant c'était facile de savoir la cause. À chaque fois que je faisais le ménage, je mettais soit une série, soit un film ou un match de soccer. En plus de causer avec elle au téléphone (elle était en Russie en ce moment là). Je me rappelle même une fois avoir fait le ménage de ma chambre d'université durant 2 jours complets. C'était la fois où j'avais complété la première saison de Game of Thrones en entier.\
 Cela arrive même au travail. Avec toutes les messageries instantanées que nous avons aujourd'hui, en plus du bon vieux client email, il est facile d'être tout le temps interrompu et d'avoir du mal à compléter les tâches que l'on a à faire.
