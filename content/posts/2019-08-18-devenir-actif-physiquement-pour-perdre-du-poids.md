@@ -23,6 +23,8 @@ L'importance de l'activité physique pour notre santé tant physique que mentale
 
 Voici l'état de ma perte de poids en date du mercredi 19 Août 2019. Mon poids affiche 99 Kg (218 livres). J'ai donc perdu 1,3 kg (3 livres) depuis [la dernière mise à jour](/posts/2019-08-04-choisir-son-régime-alimentaire-pour-le-programme-4p/) il y'a deux semaines. Vous vous souviendrez que la dernière fois, j'avais dû augmenter mon niveau de régime puisque mon rythme de perte de poids était en dessous de 0.4 kg par semaine. Cela a eu un effet positif et mon rythme actuel de perte de poids est remonté à  0.8 kg par semaine.
 
+## Qu'est-ce qui est considéré comme activité physique ?
 
+L'activité physique consiste 
 
 À la prochaine ✌🏾
