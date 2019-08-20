@@ -21,10 +21,16 @@ L'importance de l'activité physique pour notre santé tant physique que mentale
 
 ## Mais avant toute chose…
 
-Voici l'état de ma perte de poids en date du mercredi 19 Août 2019. Mon poids affiche 99 Kg (218 livres). J'ai donc perdu 1,3 kg (3 livres) depuis [la dernière mise à jour](/posts/2019-08-04-choisir-son-régime-alimentaire-pour-le-programme-4p/) il y'a deux semaines. Vous vous souviendrez que la dernière fois, j'avais dû augmenter mon niveau de régime puisque mon rythme de perte de poids était en dessous de 0.4 kg par semaine. Cela a eu un effet positif et mon rythme actuel de perte de poids est remonté à  0.8 kg par semaine.
+Voici l'état de ma perte de poids en date du mercredi 19 Août 2019. Mon poids affiche 99 Kg (218 livres). J'ai donc perdu 1,3 kg (3 livres) depuis [la dernière mise à jour](/posts/2019-08-04-choisir-son-régime-alimentaire-pour-le-programme-4p/) il y'a deux semaines. Tu te souviendras que la dernière fois, j'avais dû augmenter mon niveau de régime puisque mon rythme de perte de poids était en dessous de 0.4 kg par semaine. Cela a eu un effet positif et mon rythme actuel de perte de poids est remonté à  0.8 kg par semaine.
 
 ## Qu'est-ce qui est considéré comme activité physique ?
 
-Selon Wikipedia, l'activité physique regroupe à la fois l'exercice physique de la vie quotidienne (à la maison, les commissions, la marche, l'usage des escaliers), l'activité physique de loisir ainsi que la pratique sportive.
+Selon Wikipedia, l'activité physique regroupe à la fois l'exercice physique de la vie quotidienne (à la maison, les commissions, la marche, l'usage des escaliers), l'activité physique de loisir  ainsi que la pratique sportive.
+
+Il n'est donc pas obligatoire d'aller au Gym pour être actif physiquement. D'ailleurs je pense sincèrement que le meilleur moyen d'être actif est de pratiquer l'exercice physique passif c'est à dire l'exercice physique de la vie quotidienne.
+
+## Pourquoi pratiquer l'entrainement physique ?
+
+
 
 À la prochaine ✌🏾
