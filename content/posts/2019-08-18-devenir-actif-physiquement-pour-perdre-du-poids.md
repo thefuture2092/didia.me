@@ -17,6 +17,10 @@ _Cet article est le cinquième de la série [**Prendre plaisir à perdre du poid
 
 Cher ami(e),
 
+L'importance de l'activité physique pour notre santé tant physique que mentale n'est plus à démontrer. C'est pour cette raison que le programme 4P recommande l'activité physique comme la deuxième arme pour lutter contre la perte de poids. Mais que le quoi et comment de l'activité physique dans l'objectif de perdre du poids reste flou ? Faut-il absolument aller au Gym ou une simple marche est suffisante ? C'est de cela que nous parlerons dans les prochaines lignes.
+
+## Mais avant toute chose…
+
 
 
 À la prochaine ✌🏾
