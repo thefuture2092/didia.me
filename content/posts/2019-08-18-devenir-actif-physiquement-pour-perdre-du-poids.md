@@ -29,7 +29,15 @@ Selon Wikipedia, l'activité physique regroupe à la fois l'exercice physique de
 
 Il n'est donc pas obligatoire d'aller au Gym pour être actif physiquement. D'ailleurs je pense sincèrement que le meilleur moyen d'être actif est de pratiquer l'exercice physique passif c'est à dire l'exercice physique de la vie quotidienne.
 
-## Pourquoi pratiquer l'entrainement physique ?
+Toutefois, en plus de donner une forme magnifique à votre corps,  l'entrainement physique a pour mérite d'augmenter la composition musculaire du corps, ce qui peut avoir pour effet d'augmenter le taux métabolique de base du corps c'est à dire la quantité d'énergie que ton corps consomme au repos. Cela veut dire que plus vous vous entrainez, plus vous pourrez perdre plus d'énergie.
+
+## Comment pratiquer l'activité physique dans le cadre du programme 4P ?
+
+Comme pour le régime alimentaire, le programme 4P recommande une adoption progressive des activités physiques. Plutôt que de soumettre votre corps à une torture, laissez-lui le temps de s'adapter progressivement.
+
+Le programme 4P recommande de changer des programmes d'entrainement ou d'activités physiques à chaque 6 semaines. Cela permet d'ajouter de la variété à ce que vous faites et permet de garder les choses amusantes. De préférence, chaque niveau devrait être plus coriace que le precedent.
+
+## Quelques exemples des activités physiques ou programme d'entrainement.
 
 
 
