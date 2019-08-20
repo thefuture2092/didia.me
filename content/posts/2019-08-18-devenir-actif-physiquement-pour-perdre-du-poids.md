@@ -37,7 +37,7 @@ Comme pour le régime alimentaire, le programme 4P recommande une adoption progr
 
 Le programme 4P recommande de changer des programmes d'entrainement ou d'activités physiques à chaque 6 semaines. Cela permet d'ajouter de la variété à ce que vous faites et permet de garder les choses amusantes. De préférence, chaque niveau devrait être plus coriace que le precedent.
 
-## Quelques exemples des activités physiques ou programme d'entrainement.
+## Quelques exemples d'activités physiques ou programme d'entrainement.
 
 
 
