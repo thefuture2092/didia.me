@@ -25,6 +25,6 @@ Voici l'état de ma perte de poids en date du mercredi 19 Août 2019. Mon poids 
 
 ## Qu'est-ce qui est considéré comme activité physique ?
 
-L'activité physique consiste 
+Selon Wikipedia, l'activité physique regroupe à la fois l'exercice physique de la vie quotidienne (à la maison, les commissions, la marche, l'usage des escaliers), l'activité physique de loisir ainsi que la pratique sportive.
 
 À la prochaine ✌🏾
