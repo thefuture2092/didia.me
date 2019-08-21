@@ -12,6 +12,7 @@ description: >-
 category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
+thumbnail: /media/img_5077.jpg
 ---
 _Cet article est le cinquième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
@@ -21,15 +22,26 @@ L'importance de l'activité physique pour notre santé tant physique que mentale
 
 ## Mais avant toute chose…
 
-Voici l'état de ma perte de poids en date du mercredi 19 Août 2019. Mon poids affiche 99 Kg (218 livres). J'ai donc perdu 1,3 kg (3 livres) depuis [la dernière mise à jour](/posts/2019-08-04-choisir-son-régime-alimentaire-pour-le-programme-4p/) il y'a deux semaines. Tu te souviendras que la dernière fois, j'avais dû augmenter mon niveau de régime puisque mon rythme de perte de poids était en dessous de 0.4 kg par semaine. Cela a eu un effet positif et mon rythme actuel de perte de poids est remonté à  0.8 kg par semaine.
+Voici l'état de ma perte de poids en date du mardi 20 Août 2019. 
 
-## Qu'est-ce qui est considéré comme activité physique ?
+![meilleur poids sur les 10 derniers jours: 97.8 Kg, perte de poids total: 13.8 Kg](/media/perte-de-poids-20-aout-2019.jpg "État de la perte de poids en date du mardi 20 Août 2019")
 
-Selon Wikipedia, l'activité physique regroupe à la fois l'exercice physique de la vie quotidienne (à la maison, les commissions, la marche, l'usage des escaliers), l'activité physique de loisir  ainsi que la pratique sportive.
+\
+Mon poids affiche 98.3 Kg (218 livres). J'ai donc perdu 2 kg (4,4 livres) depuis [la dernière mise à jour](/posts/2019-08-04-choisir-son-régime-alimentaire-pour-le-programme-4p/) il y'a deux semaines. Tu te souviendras que la dernière fois, j'avais dû augmenter mon niveau de régime puisque mon rythme de perte de poids était en dessous de 0.4 kg par semaine. Cela a eu un effet positif et mon rythme actuel de perte de poids est remonté à  0.89 kg par semaine.
 
-Il n'est donc pas obligatoire d'aller au Gym pour être actif physiquement. D'ailleurs je pense sincèrement que le meilleur moyen d'être actif est de pratiquer l'exercice physique passif c'est à dire l'exercice physique de la vie quotidienne.
+Et en bonus, je viens de compléter l'étape 12 ce qui implique que j'ai débloqué ma recompense pour cette étape qui était un paquet de biscuit Pirates, mes préférés. 😋
 
-Toutefois, en plus de donner une forme magnifique à votre corps,  l'entrainement physique a pour mérite d'augmenter la composition musculaire du corps, ce qui peut avoir pour effet d'augmenter le taux métabolique de base du corps c'est à dire la quantité d'énergie que ton corps consomme au repos. Cela veut dire que plus vous vous entrainez, plus vous pourrez perdre plus d'énergie.
+![Aristote qui avale un biscuit en touchant le carton des biscuits pirates avec sa main droite](/media/ariste-mange-biscuits-pirate.jpg "Récompense étape 12: Carton de biscuits pirates")
+
+Revenons maintenant à l'activité physique. 😛 
+
+## Qu'est-ce qui est donc considéré comme activité physique ?
+
+Quand on parle d'activité physique dans le contexte de perte de poids, plusieurs personnes font souvent allusion à l'entrainement physique dans un gym. Et pourtant l'activité physique ne se resume pas seulement à cela. Selon Wikipedia, l'activité physique regroupe à la fois l'exercice physique de la vie quotidienne (à la maison, les commissions, la marche, l'usage des escaliers), l'activité physique de loisir ainsi que la pratique sportive.
+
+Il n'est donc pas obligatoire d'aller au Gym pour être actif physiquement. D'ailleurs je pense sincèrement que le meilleur moyen d'être actif est de changer notre style de vie pour introduire progressivement de l'exercice physique passif c'est à dire l'exercice physique de la vie quotidienne.
+
+Toutefois, cela ne veut pas dire que l'entrainement au gym n'est pas importante, bien au contraire. En plus de donner une forme plus "intéressante" à ton corps, l'entrainement physique a pour mérite d'augmenter la composition musculaire du corps, ce qui peut avoir pour effet d'augmenter le taux métabolique de base du corps c'est à dire la quantité d'énergie que ton corps consomme au repos. La conséquence directe pour la perte de poids c'est qu'en ayant plus des muscles, tu bruleras plus de graisse rapidement.
 
 ## Comment pratiquer l'activité physique dans le cadre du programme 4P ?
 
@@ -53,7 +65,7 @@ Voici en quoi consiste les trois premiers niveaux:
 
 ### Niveau 2: Jambes et poids libres
 
-### Niveau 3: Brûlure de la graisse corps entier
+### Niveau 3: Bruler la graisse du corps entier
 
 ## Conclusion
 
