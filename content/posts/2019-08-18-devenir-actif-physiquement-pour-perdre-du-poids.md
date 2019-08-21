@@ -51,8 +51,14 @@ Voici en quoi consiste les trois premiers niveaux:
 
 ### Niveau 1:  Perdre du poids et gagner du muscle
 
-### Niveau 2: James et poids libres
+### Niveau 2: Jambes et poids libres
 
 ### Niveau 3: Brûlure de la graisse corps entier
+
+## Conclusion
+
+Un style de vie actif est très important pour réussir sa perte de poids dans le cadre du programme 4P. Tu n'es pas obligé d'avoir un abonnement au gym pour faire de l'activité physique bien que cela aide beaucoup dans la construction des muscles. Une marche de 40 minutes chaque soir peut déjà être suffisante pour perdre du poids. L'essentiel c'est de dépenser des calories régulièrement.
+
+J'espère que tu as apprécié cette série d'article qui détaille le programme 4P. Dans les prochains articles, je te tiendrai au courant de l'évolution de ma perte de poids en espérant que cela te motivera aussi.
 
 À la prochaine ✌🏾
