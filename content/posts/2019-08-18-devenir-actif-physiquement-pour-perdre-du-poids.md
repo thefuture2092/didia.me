@@ -1,8 +1,8 @@
 ---
 template: post
 title: Devenir actif physiquement pour perdre du poids
-draft: true
-date: 2019-08-19T02:27:23.248Z
+draft: false
+date: 2019-08-21T21:00:00.000Z
 description: >-
   L'activité physique est la deuxième arme recommandée par le programme 4P pour
   lutter contre le surpoids. Bien que le programme 4P ne dicte pas quelle
@@ -65,11 +65,25 @@ Je m'entraines trois fois par semaine: lundi, mercredi et vendredi et le tout en
 
 Voici en quoi consiste les trois premiers niveaux:
 
-### Niveau 1:  Perdre du poids et gagner du muscle
+### Niveau 1:  Perdre la graisse et gagner du muscle
+
+Arriver à faire tous les exercices de ce niveau dans le 1 heure prévue pour l'entrainement n'a pas été facile. Cela m'a pris environ trois semaines. Ce qui était surtout difficile était le cardio avec le vélo.
+
+![Une liste des exercices de gym](/media/perte-graisse-gain-muscle.jpg "Exercices du niveau Perte de graisse et gain du muscle")
 
 ### Niveau 2: Jambes et poids libres
 
+Ici, puisque j'avais maitrisé le cardio, j'avais pris juste une semaine pour commencer à faire les exercices au complet en dessous d'une heure. C'était vraiment excitant. Et à la fin j'ai vraiment ressenti une évolution coté abdominaux et jambes.
+
+![Une liste des exercices de gym](/media/jambes-et-poids-libres.jpg "Exercices du niveau jambes et poids libres")
+
 ### Niveau 3: Bruler la graisse du corps entier
+
+C'est mon niveau en cours. J'ai fait à date une séance et je n'ai pas réussi à finir en moins d'une heure. Et c'est quand même difficile car j'ai augmenté la charge d'exercices pour tous les exercices qui étaient dans mon programme précédent et le deuxième exercice de squat me prend une éternité à finir. J'ai hate de vous parler de l'évolution dans deux semaines.
+
+![Une liste des exercices de gym](/media/brulure-graisse-complete.jpg "Exercices du niveau jambes et poids libres")
+
+J'attendrais probablement mon objectif de perte de poids avant d'atteindre le dernier niveau de mon programme d'entrainement. Toutefois chaque fois, je suis toujours excité lorsque je commence un nouveau niveau. Généralement au début d'un niveau, je ne suis pas très bon avec tous les exercices mais à la fin, ça fait toujours plaisir de constater le progrès réalisé.
 
 ## Conclusion
 
