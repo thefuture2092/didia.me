@@ -41,10 +41,18 @@ Le programme 4P recommande aussi d'adopter des activités physiques passives c'e
 
 ## L'entrainement physique
 
-Dans le but d'être plus actif, j'ai décidé de changer mon style de vie pour l'adapter à mon objectif de perte de poids. Ainsi j'essaie de faire au minimum 70 000 pas par semaine. Plutôt que de prendre une pause à midi au travail, je prends des petites pauses de 15 minutes à chaque 2h pour marcher et donc être en activité.
+Avant de commencer le programme 4P, j'étais déjà un habitué de l'entrainement au gym. Cependant à chaque fois que j'y allais, j'essayais toujours de faire plus que ce que mon corps était capable d'absorber et je finissais par me blesser.
 
-Avant de commencer le programme 4P, j'étais déjà un habitué de l'entrainement au gym. Cependant c'était mon unique activité physique. Toutefois à chaque fois que j'y allais, j'essayais toujours de faire plus que ce que mon corps était capable d'absorber et je finissais par me blesser.
+Avec le programme 4P, j'ai décidé de repartir à zero et de progresser petit à petit. J'utilise une application nommée Workout suivre mes programmes d'entrainement.
 
-Pour le programme 4P, j'ai décidé de repartir à zero et de progresser petit à petit. J'utilise une application nommée Workout pour établir mes programmes d'entrainement.
+Je m'entraines trois fois par semaine: lundi, mercredi et vendredi. J'ai une heure pour finir l'ensemble des exercices au programme. Je suis un programme dont l'objectif est de perdre du poids et gagner du muscle. Le programme est divisé en 7 niveaux. Chaque niveau dure 6 semaines. En ce moment, je suis au niveau 3.
+
+Voici en quoi consiste les trois premiers niveaux:
+
+### Niveau 1:  Perdre du poids et gagner du muscle
+
+### Niveau 2: James et poids libres
+
+### Niveau 3: Brûlure de la graisse corps entier
 
 À la prochaine ✌🏾
