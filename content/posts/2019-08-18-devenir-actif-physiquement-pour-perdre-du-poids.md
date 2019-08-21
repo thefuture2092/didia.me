@@ -6,9 +6,9 @@ date: 2019-08-21T21:00:00.000Z
 description: >-
   L'activité physique est la deuxième arme recommandée par le programme 4P pour
   lutter contre le surpoids. Bien que le programme 4P ne dicte pas quelle
-  activité physique pratiqué, cet article vous parlera de l'adoption progressive
+  activité physique pratiquer, cet article te parlera de l'adoption progressive
   des activités physiques ainsi que des exemples de types d'activités physiques
-  que vous pouvez faire.
+  que tu peux pratiquer.
 category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
@@ -18,7 +18,7 @@ _Cet article est le cinquième de la série [**Prendre plaisir à perdre du poid
 
 Cher ami(e),
 
-L'importance de l'activité physique pour notre santé tant physique que mentale n'est plus à démontrer. C'est pour cette raison que le programme 4P recommande l'activité physique comme la deuxième arme pour lutter contre la perte de poids. Mais que le quoi et comment de l'activité physique dans l'objectif de perdre du poids reste flou ? Faut-il absolument aller au Gym ou une simple marche est suffisante ? C'est de cela que nous parlerons dans les prochaines lignes.
+L'importance de l'activité physique pour notre santé tant physique que mentale n'est plus à démontrer. C'est pour cette raison que le programme 4P recommande l'activité physique comme la deuxième arme pour lutter contre le surpoids. Toutefois, il y a encore un flou lorsqu’il s’agit des activités physiques qui contribuent à la perte de poids. Faut-il absolument aller au Gym ou une simple marche est suffisante ? C'est de cela que nous parlerons dans les prochaines lignes.
 
 ## Mais avant toute chose…
 
