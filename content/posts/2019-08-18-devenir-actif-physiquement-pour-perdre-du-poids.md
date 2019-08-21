@@ -27,7 +27,7 @@ Voici l'état de ma perte de poids en date du mardi 20 Août 2019.
 ![meilleur poids sur les 10 derniers jours: 97.8 Kg, perte de poids total: 13.8 Kg](/media/perte-de-poids-20-aout-2019.jpg "État de la perte de poids en date du mardi 20 Août 2019")
 
 \
-Mon poids affiche 98.3 Kg (218 livres). J'ai donc perdu 2 kg (4,4 livres) depuis [la dernière mise à jour](/posts/2019-08-04-choisir-son-régime-alimentaire-pour-le-programme-4p/) il y'a deux semaines. Tu te souviendras que la dernière fois, j'avais dû augmenter mon niveau de régime puisque mon rythme de perte de poids était en dessous de 0.4 kg par semaine. Cela a eu un effet positif et mon rythme actuel de perte de poids est remonté à  0.89 kg par semaine.
+Mon poids affiche 98.3 Kg (216.7 livres). J'ai donc perdu 2 kg (4,4 livres) depuis [la dernière mise à jour](/posts/2019-08-04-choisir-son-régime-alimentaire-pour-le-programme-4p/) il y'a deux semaines. Tu te souviendras que la dernière fois, j'avais dû augmenter mon niveau de régime puisque mon rythme de perte de poids était en dessous de 0.4 kg par semaine. Cela a eu un effet positif et mon rythme actuel de perte de poids est remonté à  0.89 kg par semaine.
 
 Et en bonus, je viens de compléter l'étape 12 ce qui implique que j'ai débloqué ma recompense pour cette étape qui était un paquet de biscuit Pirates, mes préférés. 😋
 
