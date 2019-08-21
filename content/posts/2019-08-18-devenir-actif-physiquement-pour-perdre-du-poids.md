@@ -37,8 +37,14 @@ Comme pour le régime alimentaire, le programme 4P recommande une adoption progr
 
 Le programme 4P recommande de changer des programmes d'entrainement ou d'activités physiques à chaque 6 semaines. Cela permet d'ajouter de la variété à ce que vous faites et permet de garder les choses amusantes. De préférence, chaque niveau devrait être plus coriace que le precedent.
 
-## Quelques exemples d'activités physiques ou programme d'entrainement.
+Le programme 4P recommande aussi d'adopter des activités physiques passives c'est à dire des activités qui s'intègrent dans la vie quotidienne. Par exemple, j'ai adapté mon style de vie pour favoriser la marche à pieds. Ainsi au lieu de prendre une longue pause à midi au travail, je prends des petites pauses de 15 minutes à chaque 2h pour marcher et donc être en activité. En plus, depuis que j'ai commencé à faire ça, j'ai remarqué une nette augmentation de mon niveau de productivité au travail.
 
+## L'entrainement physique
 
+Dans le but d'être plus actif, j'ai décidé de changer mon style de vie pour l'adapter à mon objectif de perte de poids. Ainsi j'essaie de faire au minimum 70 000 pas par semaine. Plutôt que de prendre une pause à midi au travail, je prends des petites pauses de 15 minutes à chaque 2h pour marcher et donc être en activité.
+
+Avant de commencer le programme 4P, j'étais déjà un habitué de l'entrainement au gym. Cependant c'était mon unique activité physique. Toutefois à chaque fois que j'y allais, j'essayais toujours de faire plus que ce que mon corps était capable d'absorber et je finissais par me blesser.
+
+Pour le programme 4P, j'ai décidé de repartir à zero et de progresser petit à petit. J'utilise une application nommée Workout pour établir mes programmes d'entrainement.
 
 À la prochaine ✌🏾
