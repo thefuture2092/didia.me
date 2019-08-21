@@ -12,7 +12,7 @@ description: >-
 category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
-thumbnail: /media/img_5077.jpg
+thumbnail: /media/aristote-clin-doeil.jpg
 ---
 _Cet article est le cinquième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
@@ -45,19 +45,23 @@ Toutefois, cela ne veut pas dire que l'entrainement au gym n'est pas importante,
 
 ## Comment pratiquer l'activité physique dans le cadre du programme 4P ?
 
-Comme pour le régime alimentaire, le programme 4P recommande une adoption progressive des activités physiques. Plutôt que de soumettre votre corps à une torture, laissez-lui le temps de s'adapter progressivement.
+Pratiquer des activités physiques est une chose, les pratiquer correctement en est une autre. L'erreur que font souvent les personnes qui cherchent à perdre du poids, c'est de commencer à faire beaucoup d'activités physiques au premier coup ou même commencer à un niveau plus difficile pour soi. Ils finissent souvent par se décourager rapidement ou se blesser comme moi.\
+C'est donc pour cette raison que le programme 4P recommande une adoption progressive des activités physiques. Plutôt que de soumettre ton corps à une torture dès départ, laisses-lui le temps de s'adapter progressivement. Tu devrais commencer avec des intensités plus basses et ensuite augmenter au besoin en restant à l'écoute de ton corps.
 
-Le programme 4P recommande de changer des programmes d'entrainement ou d'activités physiques à chaque 6 semaines. Cela permet d'ajouter de la variété à ce que vous faites et permet de garder les choses amusantes. De préférence, chaque niveau devrait être plus coriace que le precedent.
+Une autre raison pourquoi les gens arrêtent de pratiquer des activités physiques est l'ennui de faire la même chose tout le temps. Pour lutter contre cela, le programme 4P recommande d'organiser vos programmes en niveaux, juste comme nous l'avons fait avec le régime alimentaire. L'organisation en niveaux devrait suivre la recommandation sur l'augmentation progressive de l'intensité. Ainsi à chaque niveau, vous adopterez un programme plus ardu que celui du niveau précédent. Cela permet d'ajouter de la variété à ce que vous faites et permet de garder les choses amusantes. De préférence, chaque niveau devrait être plus coriace que le précédent.
 
-Le programme 4P recommande aussi d'adopter des activités physiques passives c'est à dire des activités qui s'intègrent dans la vie quotidienne. Par exemple, j'ai adapté mon style de vie pour favoriser la marche à pieds. Ainsi au lieu de prendre une longue pause à midi au travail, je prends des petites pauses de 15 minutes à chaque 2h pour marcher et donc être en activité. En plus, depuis que j'ai commencé à faire ça, j'ai remarqué une nette augmentation de mon niveau de productivité au travail.
+![Une femme qui marche en touchant un petit enfant dans la main.](/media/krzysztof-kowalik-walking.jpg "Les activités physiques passives comme la marche sont toutes aussi importantes")
 
-## L'entrainement physique
+Enfin, je sais que trouver du temps pour à consacrer à l'activité physique active n'est pas toujours facile. D'ailleurs, même si l'on consacrait une heure par jour pour aller au gym, il reste que cela ne constitue que 4 % de notre temps pendant lequel nous brulons des calories. Que faisons nous pendant le reste du temps ?Se limiter à l'activité physique active pour perdre du temps, en plus d'être difficile compte tenu de la contrainte en temps, peut s'avérer de fois inefficace.\
+C'est donc pour cette raison que le programme 4P recommande d'adopter des activités physiques passives c'est à dire des activités qui s'intègrent dans la vie quotidienne. Par exemple, j'ai adapté mon style de vie pour favoriser la marche à pieds. Ainsi au lieu de prendre une longue pause à midi au travail, je prends des petites pauses de 15 minutes à chaque 2h pour marcher et donc être en activité. Et ce changement ne m'a pas seulement aidé à perdre du poids mais m'a permis à augmenter nettement ma productivité au travail. Car ce temps de pause me permet d'évaluer régulièrement ce que je fais et de laisser le mode diffus de mon cerveau m'aider à résoudre des problèmes qui demandent de la créativité.
 
-Avant de commencer le programme 4P, j'étais déjà un habitué de l'entrainement au gym. Cependant à chaque fois que j'y allais, j'essayais toujours de faire plus que ce que mon corps était capable d'absorber et je finissais par me blesser.
+## Mon programme d'entrainement physique
 
-Avec le programme 4P, j'ai décidé de repartir à zero et de progresser petit à petit. J'utilise une application nommée Workout suivre mes programmes d'entrainement.
+Avant de commencer le programme 4P, j'étais déjà un habitué de l'entrainement au gym. Cependant à chaque fois que j'y allais, j'essayais toujours de faire plus que ce que mon corps était capable d'absorber et je finissais par me blesser. Tout le temps!!!
 
-Je m'entraines trois fois par semaine: lundi, mercredi et vendredi. J'ai une heure pour finir l'ensemble des exercices au programme. Je suis un programme dont l'objectif est de perdre du poids et gagner du muscle. Le programme est divisé en 7 niveaux. Chaque niveau dure 6 semaines. En ce moment, je suis au niveau 3.
+Avec le programme 4P, j'ai décidé de repartir à zero et de progresser petit à petit. J'utilise une application nommée Workout pour suivre mes programmes d'entrainement.
+
+Je m'entraines trois fois par semaine: lundi, mercredi et vendredi et le tout en une heure au maximum. Je suis un programme dont l'objectif est de perdre du poids et gagner du muscle. Le programme est divisé en 7 niveaux. Chaque niveau dure 6 semaines. En ce moment, je suis au niveau 3.
 
 Voici en quoi consiste les trois premiers niveaux:
 
@@ -70,6 +74,8 @@ Voici en quoi consiste les trois premiers niveaux:
 ## Conclusion
 
 Un style de vie actif est très important pour réussir sa perte de poids dans le cadre du programme 4P. Tu n'es pas obligé d'avoir un abonnement au gym pour faire de l'activité physique bien que cela aide beaucoup dans la construction des muscles. Une marche de 40 minutes chaque soir peut déjà être suffisante pour perdre du poids. L'essentiel c'est de dépenser des calories régulièrement.
+
+![Aristote qui fait un clin d'oeil au gym alors qu'il est recouvert de transpiration.](/media/aristote-clin-doeil.jpg "Toujours le fun de s'entrainer au gym.")
 
 J'espère que tu as apprécié cette série d'article qui détaille le programme 4P. Dans les prochains articles, je te tiendrai au courant de l'évolution de ma perte de poids en espérant que cela te motivera aussi.
 
