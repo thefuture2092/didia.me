@@ -32,7 +32,7 @@
     "gatsby-plugin-netlify-cms": "^4.1.0",
     "gatsby-plugin-netlify-cms-paths": "^1.2.1",
     "gatsby-plugin-offline": "^2.1.1",
-    "gatsby-plugin-react-helmet": "^3.0.6",
+    "gatsby-plugin-react-helmet": "^3.1.6",
     "gatsby-plugin-sass": "^2.1.0",
     "gatsby-plugin-sharp": "^2.2.1",
     "gatsby-plugin-sitemap": "^2.2.0",
