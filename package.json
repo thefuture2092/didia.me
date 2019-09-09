@@ -71,7 +71,7 @@
     "browserslist": "^4.6.3",
     "concurrently": "^4.1.2",
     "eslint": "^5.16.0",
-    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-prettier": "^6.2.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jest": "^22.17.0",
     "eslint-plugin-mirego": "0.0.1",
