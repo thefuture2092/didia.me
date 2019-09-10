@@ -6039,9 +6039,9 @@ gatsby-cli@^2.7.2:
     ink "^2.0.5"
     ink-spinner "^3.0.1"
 
-gatsby-core-utils@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.7.tgz#0f41dd91da2f2acb59e102ad4c6a4cffeb176b05"
+gatsby-core-utils@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.8.tgz#e765a1338d65ff1de65238c7f0a9967e07da20fa"
 
 gatsby-graphiql-explorer@^0.2.0:
   version "0.2.0"
@@ -6273,17 +6273,17 @@ gatsby-remark-smartypants@^2.1.7:
     retext-smartypants "^3.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-source-filesystem@^2.1.21:
-  version "2.1.21"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.1.21.tgz#4d52383887bfa40c484523372f9629e92af6769a"
+gatsby-source-filesystem@^2.1.22:
+  version "2.1.22"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.1.22.tgz#fd182426198c387ee07e13c44ea0eec3e69879e5"
   dependencies:
-    "@babel/runtime" "^7.5.5"
+    "@babel/runtime" "^7.6.0"
     better-queue "^3.8.10"
     bluebird "^3.5.5"
     chokidar "3.0.2"
     file-type "^12.3.0"
     fs-extra "^8.1.0"
-    gatsby-core-utils "^1.0.7"
+    gatsby-core-utils "^1.0.8"
     got "^7.1.0"
     md5-file "^3.2.3"
     mime "^2.4.4"
