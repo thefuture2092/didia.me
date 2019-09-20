@@ -1447,9 +1447,9 @@
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
 
-"@types/reach__router@^1.2.4":
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/@types/reach__router/-/reach__router-1.2.4.tgz#44a701fdf15934880f6dfdef38ca49bc30e2d372"
+"@types/reach__router@^1.2.5":
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/@types/reach__router/-/reach__router-1.2.5.tgz#add874f43b9733175be2b19de59602b91cc90860"
   dependencies:
     "@types/history" "*"
     "@types/react" "*"
@@ -6077,12 +6077,12 @@ gatsby-graphiql-explorer@^0.2.0:
   dependencies:
     "@babel/runtime" "^7.0.0"
 
-gatsby-link@^2.2.0, gatsby-link@^2.2.13:
-  version "2.2.13"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.2.13.tgz#bead0947a9f1b990ccd850650cc516cbf8a7f434"
+gatsby-link@^2.2.0, gatsby-link@^2.2.15:
+  version "2.2.15"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.2.15.tgz#ef3fa6628f5738e45cfca03bb91b2cbb20df1eb7"
   dependencies:
     "@babel/runtime" "^7.6.0"
-    "@types/reach__router" "^1.2.4"
+    "@types/reach__router" "^1.2.5"
     prop-types "^15.7.2"
 
 gatsby-page-utils@^0.0.2:
