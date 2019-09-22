@@ -23,6 +23,22 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Image principale de l’article", name: "thumbnail", widget: "image", required: false}
 
+  - name: "books"
+    label: "Livres"
+    folder: "content/books"
+    create: true
+    slug: "{{year}}-{{month}}-{{slug}}"
+    fields:
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Début de lecture", name: "readingStart", widget: "date"}
+      - {label: "Fin de lecture", name: "readingEnd", widget: "date", required: false}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Catégorie", name: "category", widget: "string"}
+      - {label: "Contenu", name: "body", widget: "markdown", required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Image du livre", name: "thumbnail", widget: "image", required: false}
+
   - name: "pages"
     label: "Pages"
     folder: "content/pages"
