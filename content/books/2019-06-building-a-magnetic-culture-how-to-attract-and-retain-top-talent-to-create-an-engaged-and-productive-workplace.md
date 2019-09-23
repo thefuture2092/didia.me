@@ -1,4 +1,5 @@
 ---
+template: book
 title: >-
   Building A Magnetic Culture, How To Attract And Retain Top Talent To Create An
   Engaged And Productive Workplace

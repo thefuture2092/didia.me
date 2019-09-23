@@ -1,4 +1,5 @@
 ---
+template: book
 title: The 7 habits of highly effective people
 author: Stephen R. Covey
 draft: true

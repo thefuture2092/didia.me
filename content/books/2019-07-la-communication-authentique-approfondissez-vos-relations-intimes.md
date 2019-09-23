@@ -1,4 +1,5 @@
 ---
+template: book
 title: 'La communication authentique, approfondissez vos relations intimes.'
 author: Colette Portelance
 draft: true

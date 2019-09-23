@@ -1,4 +1,5 @@
 ---
+template: book
 title: 'A Mind for Numbers, How to Excel at Math and Science'
 author: Barbara Oakley
 draft: true

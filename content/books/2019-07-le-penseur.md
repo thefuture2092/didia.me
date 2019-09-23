@@ -1,4 +1,5 @@
 ---
+template: book
 title: Le Penseur
 author: Chris Bandundu Kapalay
 draft: true

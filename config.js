@@ -5,7 +5,7 @@ module.exports = {
   imageWidth: '800',
   imageHeight: '310',
   url: 'https://www.didia.me',
-  title: 'Les pensées de Didia Aristote Diasonama',
+  title: 'Les pensées de Didia Aristote',
   subtitle:
     'I talk about software, education and sometimes politics. Mostly in french. | Je parle des logiciels, éducation et de fois la politique. De fois en anglais.',
   copyright: '© All rights reserved.',
@@ -27,7 +27,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Didia Aristote Diasonama',
+    name: 'Didia Aristote',
     photo: '/photo.jpg',
     bio:
       'Husband, Father, Son, Brother. I make software for a living. Education and politics are some of my other areas of interests. I am currently a software developer at Mirego and a co-founder and general coordinator at RDC Etudes!',

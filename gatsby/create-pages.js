@@ -5,9 +5,10 @@ const _ = require('lodash');
 const createCategoriesPages = require('./pagination/create-categories-pages.js');
 const createTagsPages = require('./pagination/create-tags-pages.js');
 const createPostsPages = require('./pagination/create-posts-pages.js');
+const createBooksPages = require('./pagination/create-books-pages.js');
 
-const createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
+const createPages = async ({graphql, actions}) => {
+  const {createPage} = actions;
 
   // 404
   createPage({
@@ -27,12 +28,16 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/templates/categories-list-template.js')
   });
 
+  // Books list
+  createPage({
+    path: '/books',
+    component: path.resolve('./src/templates/books-list-template.js')
+  });
+
   // Posts and pages from markdown
   const result = await graphql(`
     {
-      allMarkdownRemark(
-        filter: { frontmatter: { draft: { ne: true } } }
-      ) {
+      allMarkdownRemark(filter: {frontmatter: {draft: {ne: true}}}) {
         edges {
           node {
             frontmatter {
@@ -47,20 +52,20 @@ const createPages = async ({ graphql, actions }) => {
     }
   `);
 
-  const { edges } = result.data.allMarkdownRemark;
+  const {edges} = result.data.allMarkdownRemark;
 
-  _.each(edges, (edge) => {
+  _.each(edges, edge => {
     if (_.get(edge, 'node.frontmatter.template') === 'page') {
       createPage({
         path: edge.node.fields.slug,
         component: path.resolve('./src/templates/page-template.js'),
-        context: { slug: edge.node.fields.slug }
+        context: {slug: edge.node.fields.slug}
       });
     } else if (_.get(edge, 'node.frontmatter.template') === 'post') {
       createPage({
         path: edge.node.fields.slug,
         component: path.resolve('./src/templates/post-template.js'),
-        context: { slug: edge.node.fields.slug }
+        context: {slug: edge.node.fields.slug}
       });
     }
   });
@@ -69,7 +74,7 @@ const createPages = async ({ graphql, actions }) => {
   await createTagsPages(graphql, actions);
   await createCategoriesPages(graphql, actions);
   await createPostsPages(graphql, actions);
+  await createBooksPages(graphql, actions);
 };
-
 
 module.exports = createPages;
