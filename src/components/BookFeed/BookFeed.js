@@ -49,12 +49,12 @@ const CurrentBook = ({edge}) => (
     <CardPrimaryContent className={styles['feed__item-content']}>
       <CardMedia wide imageUrl={edge.node.frontmatter.thumbnail.childImageSharp.fluid.src} />
       <div className={styles['feed__item-body']}>
-        <Subtitle2 className={styles['feed__item-subtitle']}>
-          <ReadingTime edge={edge} />
-        </Subtitle2>
         <Body2 className={styles['feed__item-description']}>
           {edge.node.frontmatter.description}
         </Body2>
+        <Subtitle2 className={styles['feed__item-subtitle']}>
+          <ReadingTime edge={edge} />
+        </Subtitle2>
       </div>
     </CardPrimaryContent>
     <BookActionButtons edge={edge}/>
@@ -72,12 +72,12 @@ const Book = ({edge}) => (
         <Subtitle2 className={classnames(styles['feed__item-subtitle'], styles['feed__item-subtitle--author'])}>
           Par {edge.node.frontmatter.author}
         </Subtitle2>
-        <Subtitle2 className={styles['feed__item-subtitle']}>
-          <ReadingTime edge={edge} />
-        </Subtitle2>
         <Body2 className={classnames(styles['feed__item-description'], styles['feed__item-description--horizontal'])}>
           {edge.node.frontmatter.description}
         </Body2>
+        <Subtitle2 className={styles['feed__item-subtitle']}>
+          <ReadingTime edge={edge} />
+        </Subtitle2>
       </div>
     </CardPrimaryContent>
     <BookActionButtons edge={edge} />
