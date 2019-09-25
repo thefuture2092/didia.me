@@ -1,7 +1,7 @@
 ---
 template: post
 title: 'Pendant trois ans, j''étais l''un des meilleurs danseurs de Québec ou presque.'
-draft: true
+draft: false
 date: 2019-09-24T02:41:58.211Z
 description: >-
   La danse et moi vivons une relation mitigée de Je t'aime, moi non plus depuis
