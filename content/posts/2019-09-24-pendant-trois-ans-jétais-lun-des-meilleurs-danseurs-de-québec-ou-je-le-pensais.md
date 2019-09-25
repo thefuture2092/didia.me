@@ -8,7 +8,7 @@ description: >-
   mon enfance. Toutefois pendant trois ans, Québec a eu le mérite de me faire
   croire que j'étais l'un des meilleurs danseurs de la province. Okay, j'exagère
   un peu mais cet article vous explique pourquoi.
-category: Vie
+category: N’importe quoi
 tags:
   - Vie
 thumbnail: /media/jens-johnsson-oatyhejmm9e-unsplash.jpg
