@@ -51,7 +51,9 @@ Je n'avais plus participé à aucune séance après ce jour là.
 
 En fin de compte, j'ai fini par réaliser que je n'allais probablement jamais être un aussi bon danseur que la plupart de mes frères africains, que je devrais probablement vivre avec le fait que je ne bougerai jamais ma hanche comme Innoss'B.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/lnOnChb7hh1OLZj6d9?video=0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div><div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/lnOnChb7hh1OLZj6d9?video=0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></div>
+
+
 
 Toutefois ce que le Québec m'a appris, c'est qu'on a pas vraiment besoin d'être un bon danseur pour danser! Ce qui compte c'est être chaud et bouger dans n'importe quelle direction.
 
