@@ -6436,11 +6436,11 @@ gatsby-remark-relative-images@^0.2.3:
     slash "^2.0.0"
     unist-util-select "^1.5.0"
 
-gatsby-remark-responsive-iframe@^2.2.17:
-  version "2.2.17"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-responsive-iframe/-/gatsby-remark-responsive-iframe-2.2.17.tgz#c8478c449940348bb9fc37af5590b8bf3fea0b79"
+gatsby-remark-responsive-iframe@^2.2.20:
+  version "2.2.20"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-responsive-iframe/-/gatsby-remark-responsive-iframe-2.2.20.tgz#4070a4460771492626d35c2cc5ea11250e3e3dd0"
   dependencies:
-    "@babel/runtime" "^7.6.0"
+    "@babel/runtime" "^7.6.2"
     bluebird "^3.5.5"
     cheerio "^1.0.0-rc.3"
     lodash "^4.17.15"
