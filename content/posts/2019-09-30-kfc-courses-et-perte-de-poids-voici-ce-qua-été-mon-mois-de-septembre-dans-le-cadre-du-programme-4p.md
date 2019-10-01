@@ -17,3 +17,13 @@ thumbnail: /media/img_5153-collage.jpg
 _Cet article est le sixième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
 Cher ami(e),
+
+
+
+
+
+## Mais avant toute chose…
+
+Voici l'état de ma perte de poids en date du 30 Septembre 2019.
+
+![Affichage du meilleur poids: 94.4 Kg; Poids aujourd'hui: 94.8 Kg](/media/pjimage-1-.jpg "Etat de la perte du poids en date du 30 Septembre 2019")
