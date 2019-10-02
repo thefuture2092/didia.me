@@ -49,6 +49,8 @@ En début Septembre, j'ai établi un plan pour commencer justement à m'y prépa
 
 Ce plan m’a fait découvert une autre facette de la course que je ne connaissais pas. En fait, j'ai remarqué que non seulement elle me permet de relaxer, la course me permet aussi d'observer le paysage et d'être reconnaissant au créateur de l'Univers. Je suis donc tombé amoureux de cette activité et j'ai décidé de mettre à jour mon plan d'entrainement pour y intégrer la course de façon régulière.
 
-Ainsi, je vais au Gym, lundi, mercredi et vendredi puis je cours mardi, jeudi et samedi.  Mardi et jeudi sont des petites courses et samedi, la grande course.
+Ainsi, je vais au Gym, lundi, mercredi et vendredi puis je cours mardi, jeudi et samedi. Mardi et jeudi sont des petites courses et samedi, la grande course.
+
+Cette augment
 
 ##
