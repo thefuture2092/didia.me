@@ -51,6 +51,8 @@ Ce plan m’a fait découvert une autre facette de la course que je ne connaissa
 
 Ainsi, je vais au Gym, lundi, mercredi et vendredi puis je cours mardi, jeudi et samedi. Mardi et jeudi sont des petites courses et samedi, la grande course.
 
-Cette augment
+Cette augmentation de mes activités physiques m’ont permis de continuer à perdre du poids malgré la quantité de malbouffes que j’ai consommées au début du mois.
 
-##
+## Que nous réserve l’avenir ?
+
+Aujourd’hui j’ai déjà perdu 78.2 % du poids total que j’avais à perdre. À l’atteinte de mon objectif, je compte écrire un livre pour partager mon expérience avec d’autres et peut-être les motiver aussi à réprendre leur santé en main. Je compte aussi reprendre avec le crossfit régulier, en espérant que ma perte de poids me permette de faire moins pression sur mon hanche.
