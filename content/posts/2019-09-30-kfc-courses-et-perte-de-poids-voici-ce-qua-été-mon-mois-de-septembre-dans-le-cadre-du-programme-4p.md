@@ -14,8 +14,6 @@ tags:
   - Prendre plaisir à perdre du poids
 thumbnail: /media/img_5153-collage.jpg
 ---
-__
-
 _Cet article est le sixième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
 Cher ami(e),
