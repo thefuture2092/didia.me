@@ -6321,11 +6321,11 @@ gatsby-plugin-netlify-cms@^4.1.23:
     netlify-identity-widget "^1.5.5"
     webpack "^4.41.0"
 
-gatsby-plugin-netlify@^2.1.18:
-  version "2.1.18"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify/-/gatsby-plugin-netlify-2.1.18.tgz#a9ce7c1cdba32badaa14b6b5090ecbf1c5266b62"
+gatsby-plugin-netlify@^2.1.19:
+  version "2.1.19"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify/-/gatsby-plugin-netlify-2.1.19.tgz#95fb643f5e127d3a5c21392ae41a2b219f91f134"
   dependencies:
-    "@babel/runtime" "^7.6.2"
+    "@babel/runtime" "^7.6.3"
     fs-extra "^8.1.0"
     kebab-hash "^0.1.2"
     lodash "^4.17.15"
