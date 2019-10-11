@@ -1575,9 +1575,9 @@
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
 
-"@types/reach__router@^1.2.5":
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/@types/reach__router/-/reach__router-1.2.5.tgz#add874f43b9733175be2b19de59602b91cc90860"
+"@types/reach__router@^1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@types/reach__router/-/reach__router-1.2.6.tgz#b14cf1adbd1a365d204bbf6605cd9dd7b8816c87"
   dependencies:
     "@types/history" "*"
     "@types/react" "*"
@@ -6248,12 +6248,12 @@ gatsby-image@^2.2.27:
     object-fit-images "^3.2.4"
     prop-types "^15.7.2"
 
-gatsby-link@^2.2.0, gatsby-link@^2.2.19:
-  version "2.2.19"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.2.19.tgz#982b86cd902b5da3d62aa98b5549449d6cd9d4d3"
+gatsby-link@^2.2.0, gatsby-link@^2.2.20:
+  version "2.2.20"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-2.2.20.tgz#fe04e507053e8762dc91736172ee3cee17a64b89"
   dependencies:
     "@babel/runtime" "^7.6.3"
-    "@types/reach__router" "^1.2.5"
+    "@types/reach__router" "^1.2.6"
     prop-types "^15.7.2"
 
 gatsby-page-utils@^0.0.2:
