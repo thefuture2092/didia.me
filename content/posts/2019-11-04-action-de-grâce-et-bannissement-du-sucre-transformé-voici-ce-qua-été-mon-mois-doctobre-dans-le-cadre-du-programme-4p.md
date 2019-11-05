@@ -41,3 +41,5 @@ Mon poids en date du 01 novembre 2019 est de 92 Kg (203 livres).  Ce qui corresp
 Pour le long weekend d'action de grâce, j'avais décidé de mettre une pause au programme 4P pour le passer en famille. Ça n'allait pas être intéressant de voir les autres manger sans pouvoir les accompagner et partager le repas avec eux avant 18h.
 
 Toutefois, comme d'habitude avec moi, j'ai abusé des sucreries. En effet, ma femme avait fait des beignes comme elle seule sait comment faire. Ces beignes étaient tellement bonnes que j'en ai mangé pas moins de 34 samedi et dimanche. Bon on s'attend que la taille des beignes ressemblent plus à des plus gros timbits qu'à des Krispy Cream. Cependant j'ignorais que la quantité de sucre que je prenais allait avoir autant d'impact.
+
+Pendant ce weekend, ma balance est allée jusqu'à indiquer 96.6 Kg. Je ne pouvais pas comprendre que seulement ces beignes (Et le manque d'entrainement) auraient pu occasionner une telle remontée.
