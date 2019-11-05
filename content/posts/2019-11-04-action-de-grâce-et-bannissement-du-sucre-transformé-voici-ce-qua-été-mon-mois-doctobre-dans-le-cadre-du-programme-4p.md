@@ -40,8 +40,12 @@ Mon poids en date du 01 novembre 2019 est de 92 Kg (203 livres).  Ce qui corresp
 
 Pour le long weekend d'action de grâce, j'avais décidé de mettre une pause au programme 4P pour le passer en famille. Ça n'allait pas être intéressant de voir les autres manger sans pouvoir les accompagner et partager le repas avec eux avant 18h.
 
-Toutefois, comme d'habitude avec moi, j'ai abusé des sucreries. En effet, ma femme avait fait des beignes comme elle seule sait comment faire. Ces beignes étaient tellement bonnes que j'en ai mangé pas moins de 34 samedi et dimanche. Bon on s'attend que la taille des beignes ressemblent plus à des plus gros timbits qu'à des Krispy Cream. Cependant j'ignorais que la quantité de sucre que je prenais allait avoir autant d'impact.
+Toutefois, comme d'habitude avec moi, j'ai abusé des sucreries. En effet, ma femme avait fait des beignes comme elle seule a le secret. Ces beignes étaient tellement bonnes que j'en ai mangé pas moins de 34 durant le long weekend et ce accompagné du beurre d'arachide et d'un litre des boissons gazeuses. 
 
-Pendant ce weekend, ma balance est allée jusqu'à indiquer 96.6 Kg. Je ne pouvais pas comprendre que seulement ces beignes (Et le manque d'entrainement) auraient pu occasionner une telle remontée. Si trois jours seulement sans s'entrainer pouvait me faire gagner 3 Kg, comment arriverais-je à gérer mon poids. Je ne peux pas de façon réaliste continuer à faire le régime tout le reste de ma vie. Toutes ces questions m'ont traversé l'esprit après cette augmentation rapide de poids.
+![Les beignes et beurres d'arachide](/media/7b7c053d-1d58-42a3-ab3f-b107458dbb55.jpg "Les beignes préparées par Parousia")
+
+Bien évidemment, le lundi suivant le long weekend, ma balance affichait 96.6 Kg. Pour la première fois, mon rythme de perte de poids était passé dans le rouge, ce qui signifie que j'avais pris du poids plutôt que perdre. Par conséquent, je devrais durcir mon régime 
 
 ## Le sucre raffiné: Le pire ennemi de la perte du poids
+
+Actuellement, j'ai attend le niveau le plus élevé du régime alimentaire que je fais. C'est à dire le jeune intermittent presque chaque jour. Il n'y avait plus de niveau supérieur de régime vers lequel je pouvais monter.
