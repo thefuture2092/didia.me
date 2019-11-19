@@ -16,7 +16,7 @@
     "test:coverage": "jest --coverage --config ./tests/jest-config.js",
     "test:watch": "jest --watch --config ./tests/jest-config.js"
   },
-  "repository": "https://github.com/thefuture2092/didia.me",
+  "repository": "https://github.com/didia/didia.me",
   "author": "Aristote Diasonama <thefuture2092@gmail.com>",
   "dependencies": {
     "@material/react-button": "^0.15.0",
