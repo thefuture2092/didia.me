@@ -34,7 +34,7 @@ module.exports = {
     contacts: {
       email: 'aristotediasonama@yahoo.fr',
       linkedin: 'diasonama',
-      twitter: 'thefuture2092',
+      twitter: 'didia_aristote',
       github: 'didia',
       rss: 'https://www.didia.me/rss.xml'
     }
