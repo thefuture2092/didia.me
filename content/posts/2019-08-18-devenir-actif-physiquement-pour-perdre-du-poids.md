@@ -16,6 +16,8 @@ thumbnail: /media/aristote-clin-doeil.jpg
 ---
 _Cet article est le cinquième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
+Article précédent ☞ [**Choisir son régime alimentaire pour le programme 4P**](<Choisir son régime alimentaire pour le programme 4P>)
+
 Cher ami(e),
 
 L'importance de l'activité physique pour notre santé tant physique que mentale n'est plus à démontrer. C'est pour cette raison que le programme 4P recommande l'activité physique comme la deuxième arme pour lutter contre le surpoids. Toutefois, il y a encore un flou lorsqu’il s’agit des activités physiques qui contribuent à la perte de poids. Faut-il absolument aller au Gym ou une simple marche est suffisante ? C'est de cela que nous parlerons dans les prochaines lignes.
@@ -94,3 +96,5 @@ Un style de vie actif est très important pour réussir sa perte de poids dans l
 J'espère que tu as apprécié cette série d'article qui détaille le programme 4P. Dans les prochains articles, je te tiendrai au courant de l'évolution de ma perte de poids en espérant que cela te motivera aussi.
 
 À la prochaine ✌🏾
+
+Prochain article ☞ [**KFC, courses et perte de poids: Voici ce qu'a été mon mois de septembre dans le cadre du programme 4P**](<KFC, courses et perte de poids: Voici ce qu'a été mon mois de septembre dans le cadre du programme 4P>)

@@ -16,6 +16,8 @@ thumbnail: /media/img_5153-collage.jpg
 ---
 _Cet article est le sixième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
+Article précédent ☞ [**Devenir actif physiquement pour perdre du poids**](<Devenir actif physiquement pour perdre du poids>)
+
 Cher ami(e),
 
 Le mois de Septembre a été un mois rempli en ce qui concerne le programme 4P. J'ai non seulement débloqué trois récompenses mais j'ai aussi commencé à pratiquer la course à pieds comme activité physique. 
@@ -60,3 +62,5 @@ Aujourd’hui il ne me reste que 4.8 Kg (10.6 livres) à perdre pour atteindre
 Enfin, je veux probablement devoir mettre en place un autre programme, Prendre plaisir à rester en forme, pour garder les acquis du programme 4P. On verra. Pour l'instant je suis juste excité de passer définitivement de "obèse" à  "en surpoids" 😉
 
 À la prochaine ✌🏾
+
+Prochain article ☞ [**Action de grâce et bannissement du sucre raffiné: Voici ce qu'a été mon mois d'octobre dans le cadre du programme 4P**](<Action de grâce et bannissement du sucre raffiné: Voici ce qu'a été mon mois d'octobre dans le cadre du programme 4P>)

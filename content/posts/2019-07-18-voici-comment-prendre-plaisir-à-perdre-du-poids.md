@@ -16,6 +16,8 @@ thumbnail: /media/mon_poids_du_2019-04-23_au_2019-07-24.png
 ---
 _Cet article est le troisième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
+Article précédent ☞ [**Ce que j'ai appris en essayant de perdre du poids sans succès pendant 6 ans.**](<Ce que j'ai appris en essayant de perdre du poids sans succès pendant 6 ans.>)
+
 Cher ami(e),
 
 Le 30 décembre 2018, j'avais 254 livres (115 Kg). C'est à ce moment que j'ai décidé que je devrais perdre du poids. J'ai donc recommencé à m'entrainer et éviter tout ce qui était sucré. C'est pendant ce temps que l'inspiration pour mettre en place le programme Prendre Plaisir à Perdre du Poids (4P) m'est venue. 
@@ -119,3 +121,5 @@ Choisir un bon régime alimentaire et sportif est très important car c'est ce q
 Dans le prochain article de la série [_**Prendre plaisir à perdre du poids**_](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), nous parlerons justement de comment choisir un bon régime alimentaire et sportif et comment le mettre en place de façon progressive pour réussir le programme 4P.
 
 À la prochaine ✌🏾
+
+Prochain article ☞ [**Choisir son régime alimentaire pour le programme 4P**](<Choisir son régime alimentaire pour le programme 4P>)

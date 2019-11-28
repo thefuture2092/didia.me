@@ -15,6 +15,8 @@ thumbnail: /media/brenda-godinez-_zn_7fzol1w-unsplash.jpg
 ---
 _Cet article est le quatrième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
+Article précédent ☞ [**Voici comment Prendre Plaisir à Perdre du Poids!**](<Voici comment Prendre Plaisir à Perdre du Poids!>)
+
 Cher ami(e),\
 \
 Avant, je pensais que je pouvais perdre du poids en faisant plus d'exercices seulement. Toutefois j'ai vite découvert que bien que possible, c'était extrêmement difficile. Dans les lignes qui suivent, je t'expliquerai pourquoi le régime alimentaire est important, comment choisir ton régime alimentaire et je te parlerai du régime alimentaire que j'ai choisi pour le programme 4P.
@@ -101,4 +103,4 @@ Dans le prochain article, je te parlerai d'une autre arme que le programme 4P me
 
 À la prochaine ✌🏾 
 
-##
+Prochain article ☞ [**Devenir actif physiquement pour perdre du poids**](<Devenir actif physiquement pour perdre du poids>)

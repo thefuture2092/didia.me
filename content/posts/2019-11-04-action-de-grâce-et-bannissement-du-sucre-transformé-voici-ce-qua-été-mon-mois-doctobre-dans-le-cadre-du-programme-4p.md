@@ -16,6 +16,8 @@ thumbnail: /media/img_5281-collage.jpg
 ---
 _Cet article est le septième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
+Article précédent ☞ [**KFC, courses et perte de poids: Voici ce qu'a été mon mois de septembre dans le cadre du programme 4P**](<KFC, courses et perte de poids: Voici ce qu'a été mon mois de septembre dans le cadre du programme 4P>)
+
 Cher ami(e),
 
 Dès le début, le mois d'octobre était supposé être le pénultième à l'atteinte de mon object. À la fin du mois de septembre, il me restait 4.8 Kg (10.6 livres) à perdre avant l'atteinte de mon objectif de 90 Kg (198 livres). À mon rythme de perte de poids, je devrais normalement atteindre l'objectif le 12 novembre 2019. Toutefois c'était sans compter sur le long weekend d'Action de grâce du 11 au 14 octobre.

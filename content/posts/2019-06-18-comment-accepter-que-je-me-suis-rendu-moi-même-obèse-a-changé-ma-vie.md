@@ -57,3 +57,5 @@ Le résultat était non équivoque. Pour une taille de 175 cm et une masse de 98
 C'est donc cette expérience humiliante qui a fini par me faire réaliser que j'avais vraiment grossi et que ça ne devrait pas rester comme ça. Je devrais reprendre la situation au contrôle. Je devais revenir comme j'étais avant avec mes 6 packs et surtout capable au moins de rester ne fût-ce que 15 minutes sur un terrain de soccer. Mais comment m'y prendre avec cet amour déclaré que j'ai pour les KFC, McDonalds et tout ? Recommencer à cuisiner régulièrement ? C'est ce dont je vous parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
+
+Prochain article ☞ [**Ce que j'ai appris en essayant de perdre du poids sans succès pendant 6 ans.**](<Ce que j'ai appris en essayant de perdre du poids sans succès pendant 6 ans.>)

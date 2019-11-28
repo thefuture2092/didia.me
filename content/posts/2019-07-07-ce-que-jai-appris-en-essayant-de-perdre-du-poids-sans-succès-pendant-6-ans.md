@@ -14,6 +14,8 @@ thumbnail: /media/10661722_961171013898005_2997289113553107312_o.jpg
 ---
 _Cet article est le deuxième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d'essais, j'ai enfin réussi à mettre au point un programme qui m'aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d'autres._
 
+Article précédent ☞ [**Comment je suis devenu obèse en moins de 9 mois au Canada.**](<Comment je suis devenu obèse en moins de 9 mois au Canada.>)
+
 Cher ami(e),
 
 Après [avoir accepté que j'avais effectivement pris du poids et que j'étais devenu obèse](/comment-je-suis-devenu-obese), je voulais rapidement redevenir en forme. Alors pendant 6 ans, j'ai essayé plusieurs astuces pour maigrir, je me suis donné à fond pour réduire mon poids. Quelle ne fût ma surprise lorsqu'en début d'année 2019, ma balance indiquait 254 livres (115 Kg) 😱!! C'était comme si le ciel m'était tombé dessus. Tu t'imagines ça ? Donc après 6 ans d'efforts continus, plutôt que perdre du poids, j'en avais gagné 38 livres (17 Kg) ? Qu'est-ce qui n'avait donc pas marché ? C'est ce que nous allons voir ensemble dans les lignes qui vont suivre.
@@ -96,3 +98,5 @@ J'étais choqué et triste. C'était comme si après tous ces efforts de perte d
 J'étais choqué. Mais je savais que j'étais le seul responsable de ce qui m'arrivait. J'avais arrêté de prendre soin de moi-même. Pour certaines personnes, "être en forme" vient naturellement. Pour d'autres comme moi, il faut constamment y travailler et veiller. Je devrais donc repartir de l'avant. Toutefois ça aurait été idiot de repartir avec les mêmes solutions qui n'ont pas marché pendant six ans. Je devais donc faire une introspection et mettre en place quelque chose, un programme qui allait adresser tout ce qui n'avait pas marché pendant les 6 dernières années. Je pense avoir finalement réussi à le faire et c'est ce dont je te parlerai dans le prochain article de cette série [**_Prendre plaisir à perdre du poids._**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/)
 
 À la prochaine ✌🏾
+
+Prochain article ☞ [**Voici comment Prendre Plaisir à Perdre du Poids!**](<Voici comment Prendre Plaisir à Perdre du Poids!>)
