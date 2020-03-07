@@ -24,7 +24,7 @@ One way to do it is to start by the latest commit with the bug and walk backward
 
 > Because your commits are stored in a sorted tree, you can use binary search to find a buggy commit way faster than the linear approach ⚡️
 
-Another way is to use a binary search algorithm to find the buggy commit. I think this is the best way because it is much faster than the linear one. To do it you need to first identify two commits, one good commit and one bad commit. And then check the commit in the middle to check if it's a good or bad one. If it's good commit, then all commits before it are good and you need to check only the remaining commits after it. If it's a bad commit then the remaining commits after it are also bad and you need to check only commits before it. And by doing that you have eliminated half of your initial commits that you don't need to check. Pretty cool right 😎? Repeat this process until you find the first bad commit.
+Another way is to use a binary search algorithm to find the buggy commit. I think this is the best way because it is much faster than the linear one. To do it you need to first identify two commits, one good commit and one bad commit. And then check the commit in the middle to check if it’s a good or bad one. If it’s good commit, then all commits before it are good and you need to check only the remaining commits after it. If it’s a bad commit then the remaining commits after it are also bad and you need to check only commits before it. And by doing that you have eliminated half of your initial commits that you don’t need to check. Pretty cool right 😎? Repeat this process until you find the first bad commit.
 
 > Revision control system like git or mercurial have built-in commands to help you find a buggy commit without doing it manually yourself. 💚
 
@@ -42,16 +42,16 @@ $ ./test_import_feature.sh
 ❌Assertion failed: Important feature is not working
 ```
 
-You actually don't need a test script per se, your bug could be a visual one, so your test would likely be just checking if it looks good.\
+You actually don’t need a test script per se, your bug could be a visual one, so your test would likely be just checking if it looks good.\
 \
-Now that we have a test for our important feature, let's find the guilty commit together.\
+Now that we have a test for our important feature, let’s find the guilty commit together.\
 First we kneed to tell git that we are going to start bisecting the code.
 
 ```bash
 $ git bisect start
 ```
 
-Now we need to give the algorithm both a known good commit and a known bad commit. For the bad commit, it's easy just pick the latest commit. For the good commit, usually you can pick the latest working commit you know was working. In our case we know that our latest working version was _v1.0.0_(commit _3f29f2c_). 
+Now we need to give the algorithm both a known good commit and a known bad commit. For the bad commit, it’s easy just pick the latest commit. For the good commit, usually you can pick the latest working commit you know was working. In our case we know that our latest working version was _v1.0.0_(commit _3f29f2c_). 
 
 ```bash
 $ git bisect bad HEAD
@@ -59,28 +59,28 @@ $ git bisect good 3f29f2c
 Bisecting: 100 revisions left to test after this (roughly 7 steps)[dfeb81250bc4d622d61b21611918d93ffc2e5342] Fix lint
 ```
 
-There was 201 commits since our latest working commit. Now after specifying the bad and good commit, _git_ tells us that we are left with 100 revisions to test and that we have roughly 7 more steps to do before finding our guilty commit. And it also checkout a commit for us to test if it's good or bad. Let's run our test again to find out.
+There was 201 commits since our latest working commit. Now after specifying the bad and good commit, _git_ tells us that we are left with 100 revisions to test and that we have roughly 7 more steps to do before finding our guilty commit. And it also checkout a commit for us to test if it’s good or bad. Let’s run our test again to find out.
 
 ```bash
 $ ./test_import_feature.sh
 ❌Assertion failed: Important feature is not working
 ```
 
-Oups 🙊still failing. Now we know this commit is bad. Let's tell git.
+Oups 🙊still failing. Now we know this commit is bad. Let’s tell git.
 
 ```bash
 $ git bisect bad
 Bisecting: 49 revisions left to test after this (roughly 6 steps)[4f88051ecb530874facdf78335a33d279fd7937e] Fix build jobs
 ```
 
-Now git send us to another commit. Let's run the test again to see if it's bad or good.
+Now git send us to another commit. Let’s run the test again to see if it’s bad or good.
 
 ```bash
 $ ./test_import_feature.sh
 ✅Test passed: Important feature is working 🎉
 ```
 
-Oh yeah, now it's working! We have ourself a good commit. So we will keep doing the same step over and over until we found the bad commit.
+Oh yeah, now it’s working! We have ourself a good commit. So we will keep doing the same step over and over until we found the bad commit.
 
 ```bash
 $ git bisect good
@@ -132,6 +132,6 @@ This commit is 118 commits away from our latest commit and 83 commits away from 
 
 Dear friend, I hope this post has added a great tool to your already rich toolbox and now you can indeed find buggy commit faster than The Flash ⚡. 
 
-If you have something you want to add about this post or just share an opinion, drop me a line in the comments section, I will be happy to read it. And if you learnt something new today, don't forget to share this post as it may help someone else too.
+If you have something you want to add about this post or just share an opinion, drop me a line in the comments section, I will be happy to read it. And if you learnt something new today, don’t forget to share this post as it may help someone else too.
 
 Until next time, peace ✌🏾

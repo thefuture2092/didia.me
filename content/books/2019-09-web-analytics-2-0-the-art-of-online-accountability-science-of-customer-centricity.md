@@ -8,10 +8,10 @@ draft: false
 readingStart: 2019-09-16T16:44:57.776Z
 readingEnd: ''
 description: >-
-  Dans ce livre, l'auteur explique que se limiter à la collection des données
+  Dans ce livre, l’auteur explique que se limiter à la collection des données
   web ne suffit pas. Il faut savoir interpréter ce données et agir dessus. Il
-  présente des stratégies spécifiques et des modèles d'exécution permettant
-  d'exploiter toute la puissance des données web.
+  présente des stratégies spécifiques et des modèles d’exécution permettant
+  d’exploiter toute la puissance des données web.
 category: Informatique
 tags:
   - web analytics

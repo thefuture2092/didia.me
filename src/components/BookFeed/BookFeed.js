@@ -7,7 +7,6 @@ import classnames from 'classnames';
 import styles from './BookFeed.module.scss';
 
 const BookActionButtons = ({edge}) => {
-  console.log(edge.node);
   if (!edge.node.html && !edge.node.frontmatter.amazonLink) return <></>;
   return (
     <CardActions>

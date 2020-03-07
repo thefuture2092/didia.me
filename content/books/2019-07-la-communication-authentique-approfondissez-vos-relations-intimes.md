@@ -6,7 +6,7 @@ draft: true
 readingStart: 2019-07-31T15:18:01.540Z
 readingEnd: 2019-08-16T15:18:01.574Z
 description: >-
-  Dans ce livre, l'auteur explique l'importance de la communication authentique
+  Dans ce livre, l’auteur explique l’importance de la communication authentique
   pour développer et maintenir des relations durables et satisfaisantes.
 category: Développement personnel
 tags:
