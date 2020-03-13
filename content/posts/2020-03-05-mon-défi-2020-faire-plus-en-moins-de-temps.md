@@ -35,4 +35,8 @@ Pour ce faire, j’ai commencé par regrouper les différentes activités de ma 
 - Activités sociales: Tout ce qui concerne mes relations avec les autres, qui me permet de faire partie de la société. Ma famille, mes amis et connaissances, ma communauté, mon travail, etc…
 - Activités intellectuelles: Tout ce qui me permet d’acquérir plus de connaissances, de développer mes capacités intellectuelles et de contribuer ensuite au développement des capacités des autres.
 
-Puis en analysant, je me suis rendu compte que ce n’était pas vraiment que je n’avais plus assez de temps pour mes activités, c’est juste que j’avais souvent privilégié certaines activités d’une catégorie en négligeant celles d’autres catégories qu’au final je n’étais plus capable d’avoir cette équilibre 
+Puis en analysant, je me suis rendu compte que ce n’était pas vraiment que je n’avais plus assez de temps pour mes activités, c’est juste que j’avais souvent privilégié certaines activités d’une catégorie en négligeant celles d’autres catégories qu’au final je n’étais plus capable d’avoir cette équilibre qui me rendait heureux. Toutes ces 4 catégories sont aussi importantes et s’influencent mutuellement pour donner ce sens à mes actions.
+
+D’où négliger des catégories d’activités n’était pas une option. Il fallait donc trouver comment entrer les activités de chaque catégorie dans le même nombre d’heures par jour que j’avais avant d’avoir des nouvelles activités. D’où le défi de faire plus d’activités en moins de temps.
+
+Dans les prochains jours, je vous partagerai les initiatives que j’ai prise et que je prendrai au courant de l’année pour relevé le défi. Je vous partagerai aussi le résultat au fil de l’année. L’objectif est d’accomplir plus dans toutes les catégories d’activités que ce que j’ai accompli en 2019.
