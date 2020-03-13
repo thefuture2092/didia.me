@@ -16,11 +16,10 @@ tags:
 thumbnail: /media/gabriel-gabriel-nwdomdkk-6u-unsplash.jpg
 ---
 
-"Le temps est comme un oiseau qui s'envole, lorsque tu le perds des yeux, tu ne peux plus le rattraper" disait la soeur préfet au Complexe Scolaire Cardinal pour nous rappeler l’importance de reviser nos notes tout au long de l’année scolaire. Jamais cette phrase n’aurait été aussi proche de la réalité qu’aujourd’hui.
+"Le temps est comme un oiseau qui s'envole, lorsque tu le perds des yeux, tu ne peux plus le rattraper" disait la préfète de mon école secondaire, le Complexe Scolaire Cardinal Malula, pour nous rappeler l’importance d’utiliser notre temps à bon escient. Jamais cette phrase n’aurait été aussi proche de la réalité qu’aujourd’hui.
 
-En effet, plusieurs choses dans ma vie ont pris une seconde place depuis ce fameux 7 mai 2019. Soudain, il y avait une activité plus importante qui avait fait irruption dans ma vie: Prendre soin de et passer du temps avec mon fils.
-Du jour au lendemain, je ne pouvais plus me permettre de passer 24h d’affilé à regarder Game of Thrones ou encore à jouer à Fifa.
-Il était devenu difficile de suivre des cours sur Coursera, tout en travaillant sur des projets personnels pour améliorer mon apprentissage. Il était devenu compliqué de participer à des rencontres, des meetups ou juste garder contact avec plusieurs de mes connaissances. En resumé, ce jour m’avait affecté plus que je n'aurais pu l’imaginer.
+En effet, plusieurs choses dans ma vie ont pris une seconde place en 2019. Du jour au lendemain, je ne pouvais plus me permettre de passer 24h d’affilé à regarder Game of Thrones ou encore à jouer à Fifa. Il était devenu difficile de suivre des cours sur Coursera, tout en travaillant sur des projets personnels pour améliorer mes connaissances. Je n’arrivais plus à rester à contact régulier avec ma famille élargie, mes connaissance ou amis. Participer à des rencontres de la communauté ou des meetups était devenu un luxe.
+Bien que tout allait parfaitement bien dans ma vie personnelle et professionnelle, je n’arrivais pas à me défaire de cette impression de stagner, de ne pas évoluer et de ne pas me développer.
 
 Étant une personne qui prêche la proactivité à qui veut l’entendre, il était hors de question que que j’accepte ce qui arrivait comme le nouveau normal. Il fallait trouver une solution. J’étais convaincu de l’existence d’une solution gagnant-gagnant.
 
@@ -39,4 +38,8 @@ Puis en analysant, je me suis rendu compte que ce n’était pas vraiment que je
 
 D’où négliger des catégories d’activités n’était pas une option. Il fallait donc trouver comment entrer les activités de chaque catégorie dans le même nombre d’heures par jour que j’avais avant d’avoir des nouvelles activités. D’où le défi de faire plus d’activités en moins de temps.
 
-Dans les prochains jours, je vous partagerai les initiatives que j’ai prise et que je prendrai au courant de l’année pour relevé le défi. Je vous partagerai aussi le résultat au fil de l’année. L’objectif est d’accomplir plus dans toutes les catégories d’activités que ce que j’ai accompli en 2019.
+Dans les prochains jours, je vous partagerai les initiatives que j’ai prise et que je prendrai au courant de l’année pour relever le défi. Je vous partagerai aussi le résultat au fil de l’année. L’objectif est d’accomplir plus dans toutes les catégories d’activités comparé à ce que j’ai accompli en 2019.
+
+Dans le prochain article, je vous partagerai les bases du défi. C’est à dire ma situation initiale au 1er Janvier 2020 ainsi que comment nous allons nous y prendre pour mesurer les progrès effectués.
+
+À bientôt!
