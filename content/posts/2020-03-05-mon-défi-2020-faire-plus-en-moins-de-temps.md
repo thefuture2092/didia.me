@@ -13,15 +13,21 @@ category: Faire plus en moins de temps
 tags:
   - Faire plus en moins de temps
   - Productivité
-thumbnail: /media/gabriel-gabriel-nwdomdkk-6u-unsplash.jpg
+thumbnail: /media/tim-mossholder-p3ek4smx_kc-unsplash.jpg
 ---
-"Le temps est comme un oiseau qui s'envole; Lorsque tu le perds des yeux, tu ne peux plus le rattraper!" disait la préfète de mon école secondaire, le Complexe Scolaire Cardinal Malula, pour nous rappeler l’importance d’utiliser notre temps à bon escient. Jamais cette phrase n’aurait été aussi proche de la réalité qu’aujourd’hui.
+![Un oiseau volant au crépuscule du soleil](/media/tim-mossholder-p3ek4smx_kc-unsplash.jpg "Un oiseau qui s’envole")
+
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@timmossholder?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Tim Mossholder"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Tim Mossholder</span></a>
+
+> Le temps est comme un oiseau; Lorsque tu ne le saisis pas, il s’envole!
+
+C’était la citation préférée la préfète de mon école secondaire, le Complexe Scolaire Cardinal Malula, pour nous rappeler l’importance d’utiliser notre temps à bon escient. Jamais cette phrase n’aurait été aussi proche de la réalité qu’aujourd’hui.
 
 ## Les choses ont changé en mai 2019
 
 En effet, la naissance de mon fils Michael en mai 2019 a entrainé plusieurs changements importantes dans ma vie. Des nouvelles activités, de plus en plus importantes les unes que les autres, ont fait leur apparition dans mon quotidien. \
 \
-Du jour au lendemain, je ne pouvais plus me permettre de passer 24h d’affilé à regarder Game of Thrones et en enchainer un autre à jouer à Fifa. Il était devenu difficile de suivre des cours sur Coursera, tout en travaillant sur des projets personnels pour améliorer mes connaissances. Je n’arrivais plus à rester en contact régulier avec ma famille élargie, mes connaissances et amis. Participer à des rencontres dans ma communauté, des meetups ou des conférences était devenu tout un luxe.\
+Du jour au lendemain, je ne pouvais plus me permettre de passer 24h d’affilé à regarder Game of Thrones ou jouer à Fifa. Il était devenu difficile de suivre des cours en ligne, tout en travaillant sur des projets personnels pour améliorer mes connaissances. Je n’arrivais plus à rester en contact régulier avec ma famille élargie, mes connaissances et amis. Participer à des rencontres dans ma communauté, des meetups ou des conférences était devenu tout un luxe.\
 \
 Aussi radicaux qu'ils pouvaient paraître, ces changements n’étaient pourtant pas une surprise pour moi. Beaucoup d’amis parents nous avaient déjà prévenu des changements qui allaient avoir lieu dans nos vies avec l’arrivée d’un enfant.\
 Nous savions déjà que nous aurions à sacrifier certaines de nos activités, que bébé Michael allait maintenant dicter notre horaire quotidien. 
@@ -30,12 +36,12 @@ Mentalement, j’étais prêt pour ces changements! Enfin je pensais être prêt
 
 ## Le besoin d’un nouveau changement
 
-En effet, bien que tout allait très bien dans ma vie personnelle et professionnelle, je n’arrivais pas à me défaire de cette impression de stagner, de ne pas évoluer et de ne pas me développer. Il était donc hors de question que je continue d’accepter ce qui arrivait comme mon nouveau normal. Il fallait bien que je trouve une solution. Il devrait bien exister une solution gagnante-gagnante. Une solution qui m’aurait permis de continuer à évoluer et à me développer personnellement tout en exerçant pleinement mon nouveau rôle de père qui m’apporte tant de satisfaction.
+En effet, bien que tout allait très bien dans ma vie personnelle et professionnelle, je n’arrivais pas à me défaire de cette impression de stagner, de ne pas évoluer, de ne pas me développer. Il était donc hors de question que je continue d’accepter ce qui arrivait comme mon nouveau normal. Il fallait bien que je trouve une solution. Il devrait bien exister une solution gagnante-gagnante. Une solution qui m’aurait permis de continuer à évoluer et à me développer personnellement tout en exerçant pleinement mon nouveau rôle de père qui m’apporte tant de satisfaction.
 
-Toutefois, avant de commencer à penser à cette solution, il fallait que je réussisse à identifier clairement c’était quoi le problème. Ce n’est pas que je n’appréciais pas tout le temps que je passais avec mon petit gars. En fait, j’adorais tout ça! Pour moi c’est un miracle de l’observer grandir tous les jours. \
+Toutefois, avant de commencer à penser à cette solution, il fallait que je réussisse à identifier clairement quel était le problème. Ce n’est pas que je n’appréciais pas tout le temps que je passais avec mon petit gars. En fait, j’adorais tout ça! Pour moi c’est un miracle de l’observer grandir tous les jours. \
 Pourquoi avais-je alors cette impression de stagner bien que tout allait très bien personnellement et professionnellement. Que demander de plus qu’être marié à la meilleure femme du monde et d’être le père du plus beau petit garçon que j’ai rencontré ? 
 
-Pour arriver à une réponse, j’ai procédé à un inventaire de mes différentes activités pour identifier celles que j’avais arrêté de faire. Je me disait que c’est peut-être là où se cachait la réponse à ma situation. 
+Pour arriver à une réponse, j’ai procédé à un inventaire de mes différentes activités afin identifier celles que j’avais arrêté de faire. Je me disais que c’est peut-être là où se cachait la réponse à ma situation. 
 
 ## Qu’est-ce qui a réellement changé en mai 2019 ?
 
