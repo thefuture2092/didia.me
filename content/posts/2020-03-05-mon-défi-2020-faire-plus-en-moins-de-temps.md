@@ -18,7 +18,6 @@ thumbnail: /media/tim-mossholder-p3ek4smx_kc-unsplash.jpg
 
 
 ![Un oiseau volant au crépuscule du soleil](/media/tim-mossholder-p3ek4smx_kc-unsplash.jpg "Un oiseau qui s’envole")
-\
 
 > Le temps est comme un oiseau; Lorsque tu ne le saisis pas, il s’envole!
 
