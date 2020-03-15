@@ -26,7 +26,7 @@ Du jour au lendemain, je ne pouvais plus me permettre de passer 24h d’affilé 
 Aussi radicaux qu'ils pouvaient paraître, ces changements n’étaient pourtant pas une surprise pour moi. Beaucoup d’amis parents nous avaient déjà prévenu des changements qui allaient avoir lieu dans nos vies avec l’arrivée d’un enfant.\
 Nous savions déjà que nous aurions à sacrifier certaines de nos activités, que bébé Michael allait maintenant dicter notre horaire quotidien. 
 
-Mentalement, j’étais prêt pour ces changements! Enfin je pensais être prêt jusqu’au jour je n’en pouvais plus.
+Mentalement, j’étais prêt pour ces changements! Enfin je pensais être prêt jusqu’au jour où je n’en pouvais plus.
 
 ## Le besoin d’un nouveau changement
 
@@ -58,7 +58,7 @@ La première solution à la quelle j’ai pensée était de recommencer à faire
 
 En effet, bien que l’arrivée de Michael en 2019 a apporté son lot de nouvelles activités dans ma vie, elle n’a malheureusement pas apporté quelques heures supplémentaires par jour. Ainsi mon nombre d’activités a augmenté mais mon nombre d’heures pour le faire est resté à 24h. D’où je n’avais juste plus assez de temps pour faire toutes les activités que je voulais faire.
 
-Cependant, étant une personne qui prêche la proactivité à qui veut l’entendre, il était hors de question que que je n’accepte ce qui arrivait comme mon nouveau normal. Il fallait trouver une solution. J’étais convaincu de l’existence d’une solution gagnant-gagnant.
+Cependant, étant une personne qui prêche la proactivité à qui veut l’entendre, il était hors de question que je n’accepte ce qui arrivait comme mon nouveau normal. Il fallait trouver une solution. J’étais convaincu de l’existence d’une solution gagnant-gagnant.
 
 Négliger ou abandonner certaines catégories d’activités n’était toutefois pas une option. Il fallait donc que je trouve comment entrer les activités de chaque catégorie dans le même nombre d’heures par jour que j’avais avant d’avoir des nouvelles activités. \
 \
