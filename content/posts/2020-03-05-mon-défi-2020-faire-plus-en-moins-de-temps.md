@@ -50,12 +50,12 @@ En décembre 2019, j’ai donc procédé à un inventaire de mes différentes ac
 * **Activités sociales**: Tout ce qui concerne mes relations avec les autres, qui me permet de faire partie de la société. Ma famille, mes amis et connaissances, ma communauté, mon travail, etc…
 * **Activités intellectuelles**: Tout ce qui me permet d’acquérir plus de connaissances, de développer mes capacités intellectuelles et de contribuer ensuite au développement des capacités des autres.
 
-En faisant cet exercice, j’ai réalisé d’une part qu’il y’avait plusieurs activités dans chaque catégorie que j’avais complement arrêté de faire ou ne faisait plus souvent. Par exemple, j’avais complètement arrêté de participer aux meetups et conférences, je n’étais plus en contact avec beaucoup de mes amis, je ne suivais plus des cours en ligne, je ne faisais plus autant attention à mes principes et valeurs, à l’exercice de ma foi, etc…\
+En faisant cet exercice, j’ai réalisé d’une part qu’il y’avait plusieurs activités dans chaque catégorie que j’avais complètement arrêté de faire ou ne faisait plus souvent. Par exemple, j’avais complètement arrêté de participer aux meetups et conférences, je n’étais plus en contact avec beaucoup de mes amis, je ne suivais plus des cours en ligne, je ne faisais plus autant attention à mes principes et valeurs, à l’exercice de ma foi, etc…\
 Je me suis rendu compte aussi que certaines catégories comme les activités spirituelles et intellectuelles ont été plus affectées que les autres.\
 \
 D’autre part, le nombre d’activités sociales avait augmenté considérablement. Cependant, c’étaient des nouvelles activités concernant mon nouveau rôle de père. Plusieurs autres activités de cette catégorie que j’exerçait avant ont aussi disparu.
 
-En fin de compte, cet exercice m’a finalement permis de clairement établir un lien de cause à effet entre ces changements dans mon spectre d’activités et l’impression que j’avais de faire du surplace. Il ne me restait plus qu’à trouver une solution…
+En fin de compte, cet exercice m’a finalement permis d’établir clairement un lien de cause à effet entre ces changements dans mon spectre d’activités et l’impression que j’avais de faire du surplace. Il ne me restait plus qu’à trouver une solution…
 
 ## Mon défi 2020: Faire plus en moins de temps!
 
