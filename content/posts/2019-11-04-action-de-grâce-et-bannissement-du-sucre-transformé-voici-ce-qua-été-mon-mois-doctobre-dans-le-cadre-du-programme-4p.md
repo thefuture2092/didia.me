@@ -69,3 +69,5 @@ Si vous voulez suivre ce countdown, je vous invite à vous abonner à mon compte
 <a href="https://twitter.com/thefuture2092?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thefuture2092</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 À la prochaine ✌🏾
+
+Prochain article ☞ [Objectif de perte de poids atteint: J’ai officiellement atteint la barre de 90 Kg!](/posts/objectif-de-perte-de-poids-atteint-j-ai-officiellement-atteint-la-barre-de-90-kg)
