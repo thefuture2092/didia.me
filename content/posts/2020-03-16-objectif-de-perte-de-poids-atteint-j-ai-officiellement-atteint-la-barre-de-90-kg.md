@@ -3,7 +3,7 @@ template: post
 title: "Objectif de perte de poids atteint: J’ai officiellement atteint la barre de 90\_Kg!"
 slug: >-
   objectif-de-perte-de-poids-atteint-j-ai-officiellement-atteint-la-barre-de-90-kg
-draft: true
+draft: false
 date: 2019-11-28T00:25:12.222Z
 description: >-
   Après exactement 330 jours, mon objectif de l’année a été atteint! J’ai enfin
