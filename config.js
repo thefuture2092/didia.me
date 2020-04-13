@@ -30,7 +30,7 @@ module.exports = {
     name: 'Didia Aristote',
     photo: '/photo.jpg',
     bio:
-      'Husband, Father, Son, Brother. I make software for a living. Education and politics are some of my other areas of interests. I am currently a software developer at Mirego and a co-founder and general coordinator at RDC Etudes!',
+      'Husband, Father, Son, Brother. I make software for a living. Education and politics are some of my other areas of interests. I am currently a software developer at Mirego and a co-founder and CEO at RDC Etudes!',
     contacts: {
       email: 'aristotediasonama@yahoo.fr',
       linkedin: 'diasonama',

@@ -6,6 +6,7 @@ import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
 import styles from './Post.module.scss';
+import Newsletter from '../Newsletter';
 
 const Post = ({post}) => {
   const {tags, title, date} = post.frontmatter;
@@ -27,6 +28,10 @@ const Post = ({post}) => {
         <Meta date={date} />
         <Tags tags={tags} tagSlugs={tagSlugs} />
         <Author />
+      </div>
+
+      <div className={styles['post__newsletter']}>
+        <Newsletter />
       </div>
 
       <div className={styles['post__comments']}>
