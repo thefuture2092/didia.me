@@ -17,6 +17,7 @@ collections:
     folder: "content/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort: date:desc
     fields:
       - {label: "Template", name: "template", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
@@ -34,6 +35,7 @@ collections:
     folder: "content/books"
     create: true
     slug: "{{year}}-{{month}}-{{slug}}"
+    sort: date:desc
     fields:
       - {label: "Template", name: "template", widget: "hidden", default: "book"}
       - {label: "Titre", name: "title", widget: "string"}
@@ -53,6 +55,7 @@ collections:
     folder: "content/pages"
     create: true
     slug: "{{slug}}"
+    sort: date:desc
     fields:
       - {label: "Template", name: "template", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
