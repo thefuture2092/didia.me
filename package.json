@@ -4,7 +4,7 @@
   "description": "The blog at http://www.didia.me",
   "main": "n/a",
   "scripts": {
-    "develop": "npm run clean && gatsby develop",
+    "start": "npm run clean && gatsby develop",
     "build": "npm run clean && gatsby build",
     "deploy": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
     "clean": "rimraf .cache public",
@@ -55,7 +55,7 @@
     "moment": "^2.23.0",
     "netlify-cms": "^2.10.16",
     "netlify-cms-app": "^2.12.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "normalize-scss": "^7.0.1",
     "prismjs": "^1.19.0",
     "react": "^16.13.1",
