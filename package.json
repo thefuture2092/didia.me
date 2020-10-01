@@ -88,7 +88,7 @@
     "jest": "^25.5.3",
     "jest-cli": "^26.0.1",
     "lost": "^8.3.1",
-    "postcss-pxtorem": "^4.0.1",
+    "postcss-pxtorem": "^5.1.1",
     "prettier": "^2.0.5",
     "react-test-renderer": "^16.13.0",
     "rimraf": "^3.0.1",
