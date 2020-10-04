@@ -50,7 +50,7 @@
     "gatsby-transformer-remark": "^2.8.37",
     "gatsby-transformer-sharp": "^2.5.3",
     "invariant": "^2.2.4",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "lodash.assign": "^4.2.0",
     "moment": "^2.26.0",
     "netlify-cms": "^2.10.61",
