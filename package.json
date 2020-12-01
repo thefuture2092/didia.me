@@ -92,7 +92,7 @@
     "prettier": "^2.1.2",
     "react-test-renderer": "^16.13.0",
     "rimraf": "^3.0.1",
-    "stylelint": "^13.7.2",
+    "stylelint": "^13.8.0",
     "stylelint-config-recommended-scss": "^4.2.0",
     "stylelint-scss": "^3.18.0"
   }
