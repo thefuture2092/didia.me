@@ -18,5 +18,6 @@ tags:
   - Info Product
   - Business
   - Funnels
+thumbnail: /media/expert-secrets.jpg
 ---
-What I found the most interesting about this book
+
