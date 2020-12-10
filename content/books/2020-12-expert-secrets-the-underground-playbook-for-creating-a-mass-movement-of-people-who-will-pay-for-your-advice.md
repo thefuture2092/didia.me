@@ -8,8 +8,8 @@ draft: true
 readingStart: 2020-08-21T04:00:00.000Z
 readingEnd: ''
 description: >-
-  In this book, the author explains how to create a business by selling your
-  knowledge to others.
+  My goal in reading this book is to discover how I could effectively begin
+  selling what I know to help other people.
 category: Entrepreunership
 amazonLink: >-
   https://www.audible.ca/fr_CA/pd/Expert-Secrets-Livre-Audio/B07DM5BC5G?ref=a_library_t_c5_libItem_&pf_rd_p=a00014e8-d2ee-472f-a5f3-837e4e395ee4&pf_rd_r=Z0YRAHV5JW5SA12FTGQ8
@@ -19,4 +19,4 @@ tags:
   - Business
   - Funnels
 ---
-
+What I found the most interesting about this book
