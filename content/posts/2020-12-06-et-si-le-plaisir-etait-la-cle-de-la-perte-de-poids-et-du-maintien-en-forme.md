@@ -11,11 +11,13 @@ category: Prendre plaisir à perdre du poids
 tags:
   - Prendre plaisir à perdre du poids
 ---
-Aujourd'hui, tout le monde sait qu'une pratique régulière d'activités physiques et une bonne hygiène alimentaire sont nécessaires pour perdre du poids et se maintenir en forme. Cela explique l'existence des milliers de programmes d'entrainement, de régimes alimentaires et des milliers de livres qui expliquent comment s'y prendre. 
+Aujourd'hui, tout le monde sait qu'une pratique régulière d'activités physiques et une bonne hygiène alimentaire sont nécessaires pour perdre du poids ou se maintenir en forme. Cela explique l'existence des milliers de programmes d'entrainement, de régimes alimentaires et des milliers de livres qui expliquent comment s'y prendre. 
 
-Cependant, force est de constater que malgré cette multitude de ressources, l'obésité ne cesse de croître dans le monde. Et de ceux qui essaient quand-même de reprendre en main leur santé, l'université de Michigan renseigne qu'environ 90% finissent par regagner tout le poids qu'ils ont perdu et même plus. Comment expliquer ce phénomène ? Pourquoi avons-nous toujours tant du mal à perdre du poids et à nous maintenir en forme ?
+Cependant, force est de constater que malgré cette multitude de ressources, l'obésité ne cesse de croître dans le monde. L'université de Michigan aux États-Unis renseigne que seul 10% des personnes qui tentent de se remettre en forme en perdant du poids réussissent à le faire à long terme. 
 
-En effet, je me suis posée cette question pour la première fois en Janvier 2019. En ce moment là, je venais de réaliser qu'après avoir passé plus de 5 ans à essayer de perdre du poids, j'en avais plutôt gagné 15 kg. J'étais désabusé. 
+Comment expliquer ce phénomène ? Pourquoi n'arrivons-nous pas à nous maintenir en forme malgré toutes les ressources disponibles pour le faire ? Qu'est-ce qui fait que nous n'arrivons toujours pas à maintenir une pratique régulière d'activités physiques ou une bonne hygiène alimentaire ? Y'a-t-il un ingrédient manquant ? Si oui, laquelle ? C'est à toutes ces questions que j'essaierai de répondre dans les prochaines lignes.
+
+En effet, je me suis intéressé à la perte de poids pour la première en juin 2013. À cette époque là, je venais tout juste de passer mes premiers mois au Québec et mon premier hiver en tant qu'étudiant international à l'Université Laval. En l'espace de seulement 9 mois au Canada, je réussis à réaliser l'exploit malheureux de gagner   En ce moment là, je venais de réaliser qu'après avoir passé plus de 5 ans à essayer de perdre du poids, j'en avais plutôt gagné 15 kg. J'étais désabusé. 
 
 Pourtant, il n'y avait absolument rien que je n'avais pas tenté. De l'été 2013 à l'hiver 2018, je m'entrainais 5 à 6 fois par semaine en passant en moyenne deux heures au gym. J'alternais des régimes alimentaires de plus en plus extrêmes les uns que les autres allant de la consommation exclusive du Soylent comme repas principal au régime des Sandwichs Subway. Mais malgré tout cela, je ne réussissais toujours pas à perdre du poids. Oui je pouvais perdre quelques kilos ci et là, mais comme remarqué par l'université de Michigan, je finissais toujours par regagner complètement tout ce que je perdais.
 
