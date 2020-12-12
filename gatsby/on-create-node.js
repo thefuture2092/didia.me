@@ -8,10 +8,11 @@ const onCreateNode = ({node, actions, getNode}) => {
 
   if (node.internal.type === 'MarkdownRemark') {
     if (typeof node.frontmatter.slug !== 'undefined') {
+      const slug = node.frontmatter.slug[0] === '/' ? node.frontmatter.slug : `/${node.frontmatter.slug}`;
       createNodeField({
         node,
         name: 'slug',
-        value: node.frontmatter.slug
+        value: slug
       });
     } else {
       const value = createFilePath({node, getNode});
@@ -23,7 +24,7 @@ const onCreateNode = ({node, actions, getNode}) => {
     }
 
     if (node.frontmatter.tags) {
-      const tagSlugs = node.frontmatter.tags.map(tag => `/tag/${_.kebabCase(tag)}/`);
+      const tagSlugs = node.frontmatter.tags.map((tag) => `/tag/${_.kebabCase(tag)}/`);
       createNodeField({node, name: 'tagSlugs', value: tagSlugs});
     }
 
