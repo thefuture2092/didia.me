@@ -17,7 +17,19 @@ Cependant, force est de constater que malgré cette multitude de ressources, l'o
 
 Comment expliquer ce phénomène ? Pourquoi n'arrivons-nous pas à nous maintenir en forme malgré toutes les ressources disponibles pour le faire ? Qu'est-ce qui fait que nous n'arrivons toujours pas à maintenir une pratique régulière d'activités physiques ou une bonne hygiène alimentaire ? Y'a-t-il un ingrédient manquant ? Si oui, laquelle ? C'est à toutes ces questions que j'essaierai de répondre dans les prochaines lignes.
 
-En effet, je me suis intéressé à la perte de poids pour la première en juin 2013. À cette époque là, je venais tout juste de passer mes premiers mois au Québec et mon premier hiver en tant qu'étudiant international à l'Université Laval. En l'espace de seulement 9 mois au Canada, je réussis à réaliser l'exploit malheureux de gagner   En ce moment là, je venais de réaliser qu'après avoir passé plus de 5 ans à essayer de perdre du poids, j'en avais plutôt gagné 15 kg. J'étais désabusé. 
+En effet, c'est en juin 2013 que je me suis intéressé pour la première fois à la perte de poids. À cette époque là, je venais tout juste de passer mon premier hiver au Québec en tant qu'étudiant international à l'Université Laval. En l'espace de seulement 9 mois au Canada, j'avais réussi l'exploit malheureux de passer 154 livres(70 Kg) à 216 livres (98 Kg). Pour la première fois de ma vie adulte, j'étais devenu obèse. 
+
+C'est donc cette réalisation que j'étais devenu obèse qui me lança dans ce périple timultueux qu'est la perte de poids. Je ne voulais plus être la personne incapable de tenir deux minutes dans un match de football sur un terrain aménagé pour les moins de 9 ans! Je ne voulais plus que les gens évitent de s'asseoir à coté de moi à l'autobus de peur de se sentir inconfortable. J'étais décidé à perdre du poids et je me suis donc lancé.
+
+Comme la majorité des ceux qui essaient de perdre du poids, je m'étais tourné vers Internet pour apprendre comment perdre du poids le plus rapidement possible. Les recommandations pour perdre du poids sur le site des organismes reconnus étaient tout le temps le même: L'exercice et le régime.
+
+Pendant les 5 prochaines qui s'en suivirent, je tentai bien que mal de suivre les recommandations! J'augmentai le temps que je passais au gym tout en essayant plusieurs régimes pour controler mon alimentation.
+
+Malheureusement, les résultats ne furent jamais au rendez-vous. Je pouvais réussir à perdre quelques kilos ci et là mais je finissais toujours par les récupérer plus tard. À chaque fois que j'adoptais un nouveau régime, je n'arrivais presque jamais à le conserver pendant plus de 3 mois. Et une fois, le régime abandonné, je récupérais tout le poids que le régime m'avait aidé à perdre et même plus. Réalisant cela, je tentais de nouveau de perdre du poids en adoptant un nouveau régime et le cercle vicieux se relançait.
+
+J'ai ainsi continué à vivre ce cercle vicieux jusqu'à ce qu'en janvier 2018 je décide d'arrêter d'essayer de perdre du poids, lassé par mes échecs répétés. 
+
+
 
 Pourtant, il n'y avait absolument rien que je n'avais pas tenté. De l'été 2013 à l'hiver 2018, je m'entrainais 5 à 6 fois par semaine en passant en moyenne deux heures au gym. J'alternais des régimes alimentaires de plus en plus extrêmes les uns que les autres allant de la consommation exclusive du Soylent comme repas principal au régime des Sandwichs Subway. Mais malgré tout cela, je ne réussissais toujours pas à perdre du poids. Oui je pouvais perdre quelques kilos ci et là, mais comme remarqué par l'université de Michigan, je finissais toujours par regagner complètement tout ce que je perdais.
 
