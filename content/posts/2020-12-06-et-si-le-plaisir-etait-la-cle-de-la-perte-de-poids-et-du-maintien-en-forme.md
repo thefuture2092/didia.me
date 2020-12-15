@@ -13,13 +13,21 @@ tags:
 ---
 Aujourd'hui, tout le monde sait qu'une pratique régulière d'activités physiques et une bonne hygiène alimentaire sont nécessaires pour perdre du poids ou se maintenir en forme. Cela explique l'existence des milliers de programmes d'entrainement, de régimes alimentaires et des milliers de livres qui expliquent comment s'y prendre. 
 
-Cependant, force est de constater que malgré cette multitude de ressources, l'obésité ne cesse de croître dans le monde. L'université de Michigan aux États-Unis renseigne que seul 10% des personnes qui tentent de se remettre en forme en perdant du poids réussissent à le faire à long terme. 
+Cependant, force est de constater que malgré cette multitude de ressources, l'obésité ne cesse de croître dans le monde. Selon Statistique Canada, 26,8 % des Canadiens de 18 ans et plus ont déclaré un poids le classant dans la catégorie des personnes obèses tandis qu'un autre 36,3 % ont été classés dans la catégorie des personnes en surpoids. Cela représente donc 63,1 % des canadiens s'exposent aujourd'hui à des risques accrus pour la santé comparé à 61,9 % en 2015.
 
-Comment expliquer ce phénomène ? Pourquoi n'arrivons-nous pas à nous maintenir en forme malgré toutes les ressources disponibles pour le faire ? Qu'est-ce qui fait que nous n'arrivons toujours pas à maintenir une pratique régulière d'activités physiques ou une bonne hygiène alimentaire ? Y'a-t-il un ingrédient manquant ? Si oui, laquelle ? C'est à toutes ces questions que j'essaierai de répondre dans les prochaines lignes.
+Comment expliquer que nous n'arrivons toujours pas à nous maintenir en forme malgré toutes les ressources qui nous sont disponibles ? Est-ce la difficulté de suivre les recommandations de pratique régulière d'activités physiques et de bonne hygiène alimentaire ? Y'a-t-il un ingrédient manquant pouvant rendre les choses "moins difficiles" ? Si oui, laquelle ? C'est à toutes ces questions que je tenterai de répondre dans les prochaines lignes de cet article.
 
-En effet, c'est en juin 2013 que je me suis intéressé pour la première fois à la perte de poids. À cette époque là, je venais tout juste de passer mon premier hiver au Québec en tant qu'étudiant international à l'Université Laval. En l'espace de seulement 9 mois au Canada, j'avais réussi l'exploit malheureux de passer 154 livres(70 Kg) à 216 livres (98 Kg). Pour la première fois de ma vie adulte, j'étais devenu obèse. 
+En effet, c'est en juin 2013 que je me suis intéressé pour la première fois à la perte de poids. À cette époque là, je venais tout juste de passer mon premier hiver au Québec en tant qu'étudiant international à l'Université Laval. En l'espace de seulement 9 mois au Canada, j'avais réussi l'exploit malheureux de passer de 154 lb (70 kg) à 216 lb (98 kg). Pour la première fois de ma vie adulte, j'étais devenu obèse.
 
-C'est donc cette réalisation que j'étais devenu obèse qui me lança dans ce périple timultueux qu'est la perte de poids. Je ne voulais plus être la personne incapable de tenir deux minutes dans un match de football sur un terrain aménagé pour les moins de 9 ans! Je ne voulais plus que les gens évitent de s'asseoir à coté de moi à l'autobus de peur de se sentir inconfortable. J'étais décidé à perdre du poids et je me suis donc lancé.
+Pour la première fois de ma vie, j'étais incapable de courir deux minutes dans un terrain de football aménagé pour les moins de 9 ans! Pour la première fois, je réalisai que les gens évitaient de s'asseoir à mes cotés dans l'autobus non pas parce que j'étais noir mais plutôt parce que je ne le laissai tout simplement pas assez de place pour être confortable.
+
+Devant ces faits, je n'avais pas d'autres choix que perdre du poids. Je devais absolument revenir le plus rapidement possible à mon poids initial de 70 kg. C'est donc ainsi que débuta mon voyage dans ce périple tumultueux qu'est la perte de poids. 
+
+Comme la majorité de ceux qui essaient de perdre du poids aujourd'hui, je me tournai instantanément vers Internet pour savoir comment perdre le plus de poids le plus rapidement possible. Après plusieurs lectures, je choisis d'augmenter ma dépense de Calories en augmentant mes nombres de visite au gym universitaire. C'était cela mon premier plan pour perdre du poids: S'entrainer 2 h au gym 5 à 6 fois par semaine.
+
+Mon plan fonctionna initialement à merveille. Les quelques kilos que je perdis pendant les premières semaines du plan me mirent extrêmement en confiance. J'étais sur la bonne voie. Mais très vite, le doute s'installa. Au bout de quelques mois, la perte de poids que j'observai au début disparait. Je doublai d'effort sans jamais réussir à réproduire les pertes que j'avais initialement. Ce n'était plus du tout amusant. Frustré, je décidai d'aller consulter un coach pour savoir ce qui se passait.
+
+Le coach me fit rap
 
 Comme la majorité des ceux qui essaient de perdre du poids, je m'étais tourné vers Internet pour apprendre comment perdre du poids le plus rapidement possible. Les recommandations pour perdre du poids sur le site des organismes reconnus étaient tout le temps le même: L'exercice et le régime.
 
@@ -28,8 +36,6 @@ Pendant les 5 prochaines qui s'en suivirent, je tentai bien que mal de suivre le
 Malheureusement, les résultats ne furent jamais au rendez-vous. Je pouvais réussir à perdre quelques kilos ci et là mais je finissais toujours par les récupérer plus tard. À chaque fois que j'adoptais un nouveau régime, je n'arrivais presque jamais à le conserver pendant plus de 3 mois. Et une fois, le régime abandonné, je récupérais tout le poids que le régime m'avait aidé à perdre et même plus. Réalisant cela, je tentais de nouveau de perdre du poids en adoptant un nouveau régime et le cercle vicieux se relançait.
 
 J'ai ainsi continué à vivre ce cercle vicieux jusqu'à ce qu'en janvier 2018 je décide d'arrêter d'essayer de perdre du poids, lassé par mes échecs répétés. 
-
-
 
 Pourtant, il n'y avait absolument rien que je n'avais pas tenté. De l'été 2013 à l'hiver 2018, je m'entrainais 5 à 6 fois par semaine en passant en moyenne deux heures au gym. J'alternais des régimes alimentaires de plus en plus extrêmes les uns que les autres allant de la consommation exclusive du Soylent comme repas principal au régime des Sandwichs Subway. Mais malgré tout cela, je ne réussissais toujours pas à perdre du poids. Oui je pouvais perdre quelques kilos ci et là, mais comme remarqué par l'université de Michigan, je finissais toujours par regagner complètement tout ce que je perdais.
 
