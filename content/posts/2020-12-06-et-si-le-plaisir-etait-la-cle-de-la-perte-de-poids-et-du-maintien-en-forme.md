@@ -27,6 +27,8 @@ Comme la majorité de ceux qui essaient de perdre du poids, je me tournai instan
 
 Mon plan fonctionna initialement à merveille. Les quelques kilos que je perdis pendant les premières semaines du plan me mirent extrêmement en confiance. J'étais convaincu d'être sur la bonne voie. Mais hélas, au bout de deux ou trois mois, la tendance s'inversa complètement. Je ne perdais plus du poids, j'en gagnais. Pourtant, je continuai de suivre mon nouveau programme d'activités physiques à la lettre. Je passais toujours 2 h au gym 6 fois par semaine. Qu'est-ce qui pouvait expliquer ce retournement dramatique de situation ?
 
+Comme je ne n'arrivais pas à m'expliquer la situation, je décidai de consulter un coach de fitness professionnel pour m'aider à démystifier ce mystère.
+
 
 
 Le coach me fit rap
