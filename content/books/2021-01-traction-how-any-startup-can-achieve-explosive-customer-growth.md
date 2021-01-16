@@ -2,7 +2,7 @@
 template: book
 title: 'Traction: How Any Startup Can Achieve Explosive Customer Growth'
 author: 'Gabriel Weinberg, Justin Mares'
-draft: true
+draft: false
 readingStart: 2020-06-27T10:18:00.020Z
 readingEnd: 2020-12-31T11:18:00.032Z
 description: >-
