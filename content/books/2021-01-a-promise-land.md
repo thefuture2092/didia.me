@@ -2,7 +2,7 @@
 template: book
 title: A promise land
 author: Barack Obama
-draft: true
+draft: false
 readingStart: 2021-01-13T03:19:19.674Z
 readingEnd: ''
 description: >-
