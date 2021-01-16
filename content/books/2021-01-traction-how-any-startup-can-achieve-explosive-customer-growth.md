@@ -20,10 +20,10 @@ tags:
   - Justin Mares
 thumbnail: /media/traction-gabriel-weinberg.jpg
 ---
-By reading this book, I discovered 19 acquisition channels I can use to acquire customers for my book or business. Prior to reading this book, I relied almost entirely on social media marketing. But this book did a good job of calling me out on my own biaises against all the other channels.
+By reading this book, I discovered 19 acquisition channels I can use to acquire new customers for my current and future business ventures. Prior to reading this book, I relied almost entirely on social media marketing. But this book did a good job of calling me out on the biaises I didn't know I had against all the other channels. From now on, I will try to consciously explore acquisition channels I am not familiar with.
 
-The framework, bullseyes, presented in this book is a good technique for testing the waters with the other channels I didn't know or didn't even think about.
+For that, the framework bullseyes, presented in this book will be a good help. Bullseye is a three-step framework that help you figure out which channel and then witch strategy within the chosen channel will work your business at the moment.
 
-I don't think most of the channels presented in this book will be useful in developing countries but I am willing to give it a try.
+From the book, I learned that searching for acquisition channel is something that should be done constantly because channels which work today for your business will certainly get saturated at some point and will stop working.
 
-Nevertheless, I am sold on using Bullseye going forward as my framework for testing and choosing traction channels and strategies for my business ventures.
+After reading this book, I feel more equipped to get my side business growing. Although I don't think most of the channels presented will be useful in developing countries, I am willing to put my biaises aside, give Bullseye a shot and see where it will lead me.
