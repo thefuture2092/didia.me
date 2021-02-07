@@ -2,7 +2,7 @@
 template: book
 title: ' Trust: Creating the Foundation for Entrepreneurship in Developing Countries'
 author: Tarun Khanna
-draft: true
+draft: false
 readingStart: 2020-12-02T10:50:56.273Z
 readingEnd: 2020-12-12T10:50:56.293Z
 description: >-
