@@ -4,7 +4,7 @@ title: >-
   Expert Secrets: The Underground Playbook for Creating a Mass Movement of
   People Who Will Pay for Your Advice
 author: Russel Brunson
-draft: true
+draft: false
 readingStart: 2020-08-21T04:00:00.000Z
 readingEnd: ''
 description: >-
