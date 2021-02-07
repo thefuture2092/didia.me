@@ -17,5 +17,6 @@ amazonLink: >-
   https://www.audible.ca/fr_CA/pd/Trust-Livre-Audio/B07DP3QNMD?ref=a_library_t_c5_libItem_&pf_rd_p=a00014e8-d2ee-472f-a5f3-837e4e395ee4&pf_rd_r=6V0VZNJYNMZJAZ3FR4CW
 tags:
   - Entrepreneurship
+thumbnail: /media/trust.jpg
 ---
 
