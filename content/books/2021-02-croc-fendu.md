@@ -2,7 +2,7 @@
 template: book
 title: Croc Fendu
 author: Tanya Kagaq
-draft: true
+draft: false
 readingStart: 2020-09-24T13:07:37.297Z
 readingEnd: 2020-12-31T14:07:37.313Z
 description: >-
