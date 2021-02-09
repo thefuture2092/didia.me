@@ -19,12 +19,14 @@ tags:
   - Christopher Vogler
 thumbnail: /media/the-heros-two-journeys.jpg
 ---
-I learn about this book in on Russel Brunson's experts secrets books. He talked about how this workshop taught him how to tell not just good by great stories. After listening to this book, I can clearly see why.
+I learned about this book while reading one of Russel Brunson's expert secrets books. He said that  this workshop of Michael Hauge and Christopher Vogler taught him how to tell not just good but great stories. After listening to this book, I can clearly see why.
 
-In this book, the authors talk about what makes a story interesting. They say that almost every movies in Hollywood has a hero who follows a outer journey that is readily visible by users. The outer journey almost consist of a goal someone want to achieve.
+In this book, the authors talk about what makes a story interesting to listeners or viewers: the presence of the outer journey and inner journey of the hero.
 
-But in addition to the outer goal, a hero also have a more private, inner journey that is only revealed to the users at the end of the movie. The inner journey consist of the transformation the hero undergo while following his outer journey.
+They say that almost every movies in Hollywood has a hero who follows an outer journey that is readily visible to him and users. The outer journey consist of achieving the goal the hero has set to accomplish in the beginning of the movie. This goal is revealed early in the movie.
 
-Although the outer journey is important to get people to follow the story, the inner journey is what truly matters and makes a story great.
+But in parallel to the outer journey, a hero should always have a more private, inner journey of transformation. This one is only revealed to him at the end of the movie. It is not readily visible to listeners or viewers.
 
-After listening to this book, I feel like I have gained additional knowledge on how to tell stories. And when I watch an Hollywood movie, I can almost see exactly what the authors have said about how story are structured. This will help become great at telling stories about myself, my business ventures and products.
+Although the outer journey is important to get people to follow the story, it is the inner journey that makes a story great. The inner journey is always more important than the outer journey in that it reveals what really mattered to the hero. It reveals the hero's true motives, his true characters. 
+
+After listening to this book, I feel like I have gained great knowledge on how to tell stories. When I watch an Hollywood movie now, I always recognized the structure talked about in this book. This will help become great at telling stories about myself, my business ventures and my products.
