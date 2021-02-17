@@ -1,19 +1,24 @@
 ---
 template: post
-title: Voici les objectifs que je me suis donnés pour me maintenir en forme en 2021.
+title: >-
+  Comment se maintenir en forme quand on manque de temps ou de motivation ?
+  Voici mon expérience.
 draft: true
 date: 2021-02-10T12:22:44.232Z
 description: >-
-  Comment se maintenir en forme après deux ans à perdre du poids ? Dans cet
-  article, je vous présente les objectifs d'activités physiques que je me suis
-  donné pour me maintenir en forme en 2021.
+  Après avoir atteint mon objectif de perte de poids en novembre 2019, mon plus
+  grand challenge fut de me maintenir en forme pour ne plus rechuter. 15 mois
+  après, il semble que j'ai réussi à le faire. Cet article vous parle de comment
+  je me suis pris.
 category: Programme 4P
 tags:
   - Programme 4P
   - Se maintenir en forme
   - santé
 ---
-Bien que cela peut parfois paraître facile, se maintenir en forme après une perte de poids intensive n'est pas du tout une mince affaire. Comme je l'avais mentionné dans mon livre Programme 4P: Comment prendre plaisir à perdre du poids et à se maintenir en forme, plus de 90% de personnes qui perdent du poids finissent par regagner tout ce qu'elles ont perdu après un an. Cela est dû au fait que nous avons tendance à revenir à nos anciennes habitudes de vie une fois notre perte de poids terminée, les mêmes habitudes qui étaient à la base de notre gain de poids initial. Ce qui est tout à fait normal car honnêtement, aucune personne saine d'esprit ne voudra continuer à maintenir les mêmes restrictions extrêmes ou la cadence d'activités physiques adoptées pour perdre du poids une fois son objectif de poids atteint. Nous nous retrouvons donc là en présence d'un vrai dileme: Nous ne pouvons pas revenir à nos anciennes habitudes au risque de regagner tout le poids perdu et nous ne pouvons pas  non plus continuer à maintenir les régimes et la cadence des activités pour perdre du poids car probablement trop extrême pour la vie normale. Que faire donc ?
+Bien que cela peut parfois paraître facile, se maintenir en forme après une perte de poids intensive n'est pas une mince affaire. Comme mentionné dans mon livre Programme 4P: Comment prendre plaisir à perdre du poids et à se maintenir en forme, plus de 90% de personnes qui perdent du poids finissent par regagner tout le poids perdu après un an. Cela est dû au fait que nous avons tendance à revenir à nos anciennes habitudes de vie une fois notre perte de poids terminée, les mêmes habitudes qui étaient à la base de notre gain de poids initial. Ce qui est tout à fait normal car, honnêtement, aucune personne saine d'esprit ne voudra continuer à maintenir les mêmes restrictions extrêmes ou la cadence d'activités physiques adoptées pour perdre du poids une fois son objectif de poids atteint. Nous nous retrouvons donc là en présence d'un vrai dilemme: Nous ne devons pas revenir à nos anciennes habitudes de peur de regagner tout le poids perdu mais nous ne pouvons pas non plus continuer à maintenir les régimes et la cadence des activités que nous avions adoptés pour perdre du poids car ils sont rendus probablement trop extrême pour la vie normale ? Que faire donc ?
+
+En effet, 
 
 La réponse à cette question peut paraître cliché de ma part mais c'est exactement ce que j'ai utilisé jusqu'à présent et je continue d'utiliser: Le Programme 4P.
 
