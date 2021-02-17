@@ -6,10 +6,11 @@ title: >-
 draft: true
 date: 2021-02-10T12:22:44.232Z
 description: >-
-  Après avoir atteint mon objectif de perte de poids en novembre 2019, mon plus
-  grand challenge fut de me maintenir en forme pour ne plus rechuter. 15 mois
-  après, il semble que j'ai réussi à le faire. Cet article vous parle de comment
-  je me suis pris.
+  Après avoir discuté avec des dizaines de professionnels, j'ai découvert que
+  les deux plus grands freins à leur maintien en forme est le manque de temps et
+  de motivation. Dans cet article, je partage comment j'ai réussi à passe à
+  travers ces deux freins majeurs pour continuer à maintenir en forme plus de 15
+  mois après avoir atteint mon objectif de perte de poids.
 category: Programme 4P
 tags:
   - Programme 4P
