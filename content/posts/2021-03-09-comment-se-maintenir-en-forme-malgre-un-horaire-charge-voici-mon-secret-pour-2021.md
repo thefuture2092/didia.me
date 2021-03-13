@@ -8,7 +8,8 @@ date: 2021-03-09T11:19:14.241Z
 description: >-
   Après une perte de poids, le plus grand challenge qui nous attend est souvent
   de se maintenir en forme. Dans cet article, je vous présente le plan que j'ai
-  mis en place au début de l'année pour y arriver.
+  mis en place au début de l'année pour conserver ma perte de poids et me
+  maintenir en forme.
 category: Programme 4P
 tags:
   - Programme 4P
