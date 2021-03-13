@@ -16,26 +16,26 @@ tags:
   - Perte de Poids
   - Santé
 ---
-Après avoir perdu du poids en 2019 et 2020, mon objectif principal au début de l'année 2021 était bien évidemment de me maintenir en forme. Je savais que cela n'allait pas être facile. Je venais tout juste de passer les 3 derniers mois de 2020 à me battre contre le phénomène Yo-Yo qui menaçait maintenant de renvoyer mon poids au dessus de 90 kg. Il me fallait donc mettre en place un plan solide pour m'assurer que cela ne se reproduise plus en 2021.
+Après avoir perdu du poids en 2019 et 2020, mon objectif principal au début de l'année 2021 était bien évidemment de me maintenir en forme. Je savais que cela n'allait pas être facile. Je venais tout juste de passer les 3 derniers mois de l'année précédente à me battre contre le phénomène Yo-Yo qui menaçait maintenant de renvoyer mon poids au dessus de 200 livres (90 kg) pour la première fois depuis plus d'un an. Il fallait donc trouver une solution pour que cela n'arrive pas.
 
-Pour y arriver, je ne suis pas allé plus loin que relire mon propre livre, _**Programme 4P: Comment prendre plaisir à perdre du poids et à se maintenir en forme.**_  En effet, en mettant en place le Programme 4P pour la perte du poids, j'avais réalisé que le même programme pouvait être utiliser pour se maintenir en forme.
+Heureusement pour moi, ma solution ne se trouvait pas si loin. En effet, en mettant en place le **_Programme 4P_** qui m'avait permis de perdre du poids lors des deux années précédentes, j'avais réalisé que ce même programme pouvait aussi me permettre de me maintenir en forme.
 
-C'est ainsi qu'au début d'année 2021, j'ai utilisé le Programme 4P pour bâtir mon plan de maintien en forme pour l'année. Ce plan consistait en deux principales étapes:
+C'est ainsi qu'au début de l'année 2021, j'ai ai utilisé le _**Programme 4P**_ pour bâtir mon plan de maintien en forme pour l'année. Ce plan se résumait en deux principales étapes:
 
 1. Se fixer des "objectifs santés" que j'allais poursuivre pendant l'année 2021
-2. Intégrer la poursuite ces objectifs santés dans ma horaire déjà très chargé.
+2. Intégrer la poursuite ces objectifs dans mon calendrier déjà très chargé.
 
 ## Se fixer des objectifs santés
 
-Selon le deuxième P du programme 4P, le principe de la perte de poids définitive, si l'on veut conserver sa perte de poids à long terme, il faut adopter une technique de contrôle calorie (TRC) et des activités physiques que nous sommes prêts à conserver même après l'atteinte de notre objectif de poids.
+Le deuxième P du **Programme 4P**, le principe de perte de poids définitive, stipule que si l'on veut conserver sa perte de poids à long terme, il faut adopter une technique de contrôle calorie (TRC) et des activités physiques que nous sommes prêts à conserver même après l'atteinte de notre objectif de perte de poids.
 
-C'est exactement ce que j'avais fait pendant ma période de perte de poids. Je m'étais assurer des activités que j'allais pouvoir continuer même après la perte de poids. Ainsi quand j'ai terminé mon programme de poids en septembre 2021, j'ai continué à pratiquer le jeûne intermittent qui était ma TRC ainsi que la course et le circuit 4P qui étaient mes activités physiques de perte de poids.
+C'est exactement ce que je fis durant ma période de perte de poids. Je m'étais assuré d'opter pour des activités que j'allais avoir du plaisir à continuer de pratiquer même après ma période de perte de mois. Ainsi, quand j'ai terminé mon programme de poids en septembre 2021, j'ai continué à pratiquer le jeûne intermittent qui était ma TRC ainsi que la course et le circuit 4P qui étaient mes activités physiques de perte de poids.
 
-Cependant, je n'avais plus d'objectifs clairs à atteindre comme ce fut le cas pendant ma perte de poids. Ce manque d'objectif finit par engendre un relâchement de ma part ce qui me mena tout droit vers le phénomène Yo-Yo.
+Cependant, je n'avais pas anticipé combien le fait de ne plus avoir des objectifs clairs à atteindre comme ce fut le cas pour la perte de poids allait m'affecter. En effet, quelques semaines seulement après la fin de ma période de perte de poids, je n'étais plus aussi discipliné qu'avant dans la pratique de mes activités physiques. Il y'avait un relâchement évident de ma part causé par le manque d'objectif, ce qui me mena tout droit vers une reprise progressive du poids perdu. Ainsi en trois mois, de septembre à janvier 2021, mon poids qui avait atteint 84.3 kg à son plus bas est remonté jusqu'à atteindre 88.6 kg
 
-C'est donc pour cette raison que je décidai au début de l'année de me fixer des objectifs clairs pour chacune des activités physiques que je pratiquais. Ces "objectifs santé" devraient me permettre de garder le cap d'activités physiques pendant toute l'année.
+C'est donc pour cette raison que je décidai au début de l'année de me fixer des objectifs clairs pour chacune des activités physiques que je pratiquais. Ces "objectifs santé" devraient me permettre de garder le cap d'activités physiques pendant toute l'année et d'éviter des longues périodes de relâchement.
 
-Sans plus tarder, voici les objectifs que je me suis donnés pour l'année 2021 pour chacune de mes activités physiques:
+Sans plus tarder, voici les objectifs que je m'étais donnés pour chacune de mes activités physiques en 2021:
 
 * Course: Atteindre un total de **1 000 km**
 * Bouger: Atteindre un total de **3 650 000 pas**
@@ -43,7 +43,7 @@ Sans plus tarder, voici les objectifs que je me suis donnés pour l'année 2021 
 
 Après avoir choisi mes objectifs, il ne me restait plus qu'à trouver du temps pour les poursuivre.
 
-## Intégrer la poursuite des objectifs santé dans mon horaire
+## Intégrer la poursuite des objectifs santé dans mon calendrier
 
 Pour intégrer la poursuite des objectifs santé dans mon horaire, je m'étais inspiré de ce qui avait déjà fonctionné pour moi lors de ma perte de poids. En effet, j'avais réussi à réserver une heure par jour pour mes activités physiques. Mon plan était donc de maintenir la donne et de ne rien changer.
 
