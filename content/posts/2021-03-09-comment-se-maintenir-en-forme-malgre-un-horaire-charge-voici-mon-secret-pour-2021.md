@@ -31,25 +31,31 @@ Le deuxième P du **Programme 4P**, le principe de perte de poids définitive, s
 
 C'est exactement ce que j'avais fait durant ma période de perte de poids. Je m'étais assuré d'opter pour des activités que j'allais avoir du plaisir à continuer de pratiquer même après ma période de perte de mois. Ainsi, quand j'ai terminé mon programme de poids en septembre 2021, j'ai continué à pratiquer le jeûne intermittent qui était ma TRC ainsi que la course et le circuit 4P qui étaient mes activités physiques pour dépenser plus de calories. Cependant, je n'avais pas anticipé comment le fait de ne plus avoir des objectifs clairs à atteindre comme ce fut le cas pour la perte de poids m'affecterait. 
 
-En effet, quelques semaines seulement après la fin de mon programme de perte de poids, je n'étais plus aussi discipliné qu'avant dans la pratique de mes activités physiques. Il y'avait un relâchement évident de ma part causé par le manque d'objectif, ce qui me mena tout droit vers une reprise progressive du poids perdu. Ainsi en trois mois, de septembre à janvier 2021, mon poids qui avait atteint 84.3 kg à son plus bas est remonté jusqu'à atteindre 88.6 kg
+En effet, quelques semaines seulement après la fin de mon programme de perte de poids, j'avais perdu la discipline que j'avais dans la pratique de mes activités physiques. L'absence d'objectifs clairs à atteindre avait entrainé un relâchement évident de ma part, ce qui me mena tout droit vers une reprise progressive du poids perdu. Ainsi en trois mois, de septembre à janvier 2021, mon poids qui avait atteint 186 lb (84.3 kg) à son plus bas était remonté à 195 lb (88.6 kg).
 
-C'est donc pour cette raison que je décidai au début de l'année de me fixer des objectifs clairs pour chacune des activités physiques que je pratiquais. Ces "objectifs santé" devraient me permettre de garder le cap d'activités physiques pendant toute l'année et d'éviter des longues périodes de relâchement.
+C'est donc pour cette raison que j'avais décidé de me fixer des objectifs clairs pour chacune des activités physiques que je pratiquais. Ces "objectifs santé" devraient me permettre de rester concentré dans la pratique de mes activités.
 
-Sans plus tarder, voici les objectifs que je m'étais donnés pour chacune de mes activités physiques en 2021:
+## Quels sont ces objectifs ?
+
+Pendant mon programme de perte de poids, j'avais adopté deux activités physiques principales: La course et Le Circuit 4P. La course me permettait de travailler mon cardio mais elle était avant tout une occasion pour moi d'écouter mes livres audio. Quant au Circuit 4P, ça me permettait de travailler d'autres parties de mon corps que le coeur et les jambes.
+
+Au delà de ces deux activités principales, il y'avait aussi d'autres activités comme la marche en famille ainsi que des séances de danse avec mon fils Michael-Aristote. Toutes ces activités avaient pour but de me permettre de bouger, de dépenser des calories.
+
+Voici donc les objectifs que je m'étais donnés pour chacune de ces activités physiques en 2021:
 
 * Course: Atteindre un total de **1 000 km**
-* Bouger: Atteindre un total de **3 650 000 pas**
+* Marche, Danse et toute autre activité: Atteindre un total de **3 650 000 pas**
 * Circuit 4P: Être en mesure de faire **100 pompes (push ups)** de suite sans interruption.
 
-Après avoir choisi mes objectifs, il ne me restait plus qu'à trouver du temps pour les poursuivre.
+Une fois les objectifs choisis, il ne me restait plus qu'à trouver du temps et de la discipline pour les intégrer dans mon calendrier déjà très chargé pour 2021.
 
 ## Intégrer la poursuite des objectifs santé dans mon calendrier
 
-Pour intégrer la poursuite des objectifs santé dans mon horaire, je m'étais inspiré de ce qui avait déjà fonctionné pour moi lors de ma perte de poids. En effet, j'avais réussi à réserver une heure par jour pour mes activités physiques. Mon plan était donc de maintenir la donne et de ne rien changer.
+Pour intégrer la poursuite des objectifs santé dans mon calendrier, je m'étais une fois de plus inspiré de ce qui avait déjà fonctionné pour moi lors de ma perte de poids. En effet, j'avais déjà réussi à réserver une heure par jour pour mes activités physiques pendant que je perdais du poids. Mon plan était donc de maintenir la donne mais d'y mettre un peu plus de discipline cette fois ci.
 
-Bien que ça peut paraître intense, une heure par jour ne représente que 6% de mon temps éveillé. En plus de cela, mon temps d'activité physique me sert aussi de temps pour écouter mes livres audio. C'est donc 6% du temps éveillé que j'investis dans la lecture et dans ma santé.
+Bien que ça peut paraître intense, une heure par jour ne représente que 6% de mon temps d'éveil. En plus de cela, mon temps d'activité physique me sert aussi de temps pour écouter mes livres audio ou passer du temps en famille. C'est donc 6% du temps éveillé que j'investis dans ma santé physique, mentale, intellectuelle et sociale. Comme les anglais disent, c'est un "non-brainer".
 
-Voici donc comment j'ai reparti mes activités physiques pour la semaine:
+Pour moi, la discipline dans la poursuite de mes objectifs santé devaient se concrétiser en me fixant des objectifs clairs d'activités physiques à réaliser pour chaque journée de la semaine. C'est ainsi que j'avais mis au point un calendrier qui se présentait comme suit:
 
 * Lundi: Course de 10 km
 * Mardi: Circuit 4P
@@ -59,7 +65,7 @@ Voici donc comment j'ai reparti mes activités physiques pour la semaine:
 * Samedi: Marche / Danse avec mon fils
 * Dimanche: Marche / Danse avec mon fils
 
-Ainsi donc, les journées des courses, soit lundi et jeudi, me permettent d'avancer mon objectif de course. Les journées du Circuit 4P sont les journées où je tente d'augmenter de 1 le nombre de pompes que je suis capable de faire sans interruption. Les autres journées, je le passe soit à marcher ou à danser avec ma famille et ça me permet de continuer d'avancer mon objectif de pas.
+Ainsi donc, les journées des courses, soit lundi et jeudi, me permettent d'avancer mon objectif de course. Les journées du Circuit 4P sont des journées pendant lesquelles je tente d'augmenter de 1 le nombre de pompes que je suis capable de faire sans interruption. Les autres journées, je le passe soit à marcher ou à danser avec ma famille et ça me permet d'avancer mon objectif de nombre de pas.
 
 Pour atteindre chacun de ces objectifs à la fin de l'année, je dois m'assurer de courir 20 km en moyenne par semaine, 10 000 pas par jour et augmenter de 1 pompe tous les 4 jours.
 
@@ -71,14 +77,12 @@ Après trois mois de 2021, je suis quand-même fier que je suis sur un bon chemi
 * **764 546 pas** sur 3 650 000 pas
 * **47 pompes** sans interruption sur 100. (J'ai commencé l'année à 20)
 
-Travailler chaque jour sur ces trois objectifs m'a permis de maintenir mon poids en 2021 comme vous pouvez l'observer via l'image ci-dessous. En 70 jours de 2021, mon poids est resté presque constant avec une perte de seulement **0.8 kg**.
-
-Pour être honnête, j'aimerais ça perdre encore du poids jusqu'à atteindre 75 kg un jour mais pour l'instant mon objectif avoué est de maintenir en forme et j'espère que cela va continuer ainsi.
+Travailler chaque jour sur ces trois objectifs m'a permis de maintenir mon poids en 2021 comme vous pouvez l'observer via l'image ci-dessous. En 70 jours de 2021, mon poids est resté presque constant avec une perte de seulement 1.8 lb (0.8 kg).
 
 ## Conclusion
 
-Se mettre des objectifs de santé peut être une source de motivation intéressante pour se maintenir en forme. Se maintenir en forme ne demande pas non plus beaucoup du temps de votre calendrier. Selon votre nombre d'heures actives, mettre une heure par jour à travailler sur ses objectifs santé ne consommera certainement pas plus de 10% de votre temps. En plus de cela, vous pouvez choisir des activités physiques qui peuvent se faire en même temps que d'autres activités pour optimiser le temps. Par exemple, j'ai des amis qui se sont achetés des vélos stationnaires pendant la pandémie pour faire du Netflix and Vélo pour se maintenir en forme. Aucun impact dans leurs calendriers mais tellement des bénéfices à venir pour leur santé tant physique que mental.
+Se mettre des objectifs de santé peut être une source de motivation intéressante pour se maintenir en forme. Se maintenir en forme ne demande pas beaucoup du temps de notre calendrier. Par exemple, mettre une heure par jour à travailler sur ses objectifs santé ne consommera certainement pas plus de 10% de votre temps. En plus de cela, vous pouvez choisir des activités physiques qui peuvent se faire en même temps que d'autres activités pour optimiser votre temps. J'ai des amis qui se sont achetés des vélos stationnaires pendant la pandémie pour faire du Netflix and Vélo pour se maintenir en forme et ça marche très bien. Ils sont à mesure aujourd'hui de continuer à suivre leurs films tout en travaillant sur leur santé et cela sans aucun impact sur leurs calendriers. N'est-ce pas magnifique ?
 
-Et lorsqu'à ces activités physiques s'ajoute une belle technique de restriction de calorie, le résultat est un plaisir absolu comme c'est le cas pour moi en ce moment. Si vous aussi, vous êtes intéressé à savoir comment mieux choisir vos activités physiques et vos techniques de restriction calories pour que vous trouvez ou retrouvez du plaisir à vous maintenir en forme, je vous recommande de vous procurer mon livre,  Programme 4P: Comment prendre plaisir à perdre du poids et à se maintenir en forme, qui partage en détails comment j'ai réussi à le faire. Vous pouvez l'acheter sur Gumroad ou sur Amazon.
+Si vous avez du mal à trouver la motivation, la discipline ou du plaisir à vous maintenir en forme ou perdre du poids, je vous suggère fortement de vous procurer mon livre, **Programme 4P: Comment prendre plaisir à perdre du poids et à se maintenir en forme**, dans lequel comment je vous partage mon expérience personnelle avec le Programme 4P qui m'a permis de passer de 254 lb (115 kg) à 186 lb (84.3 kg) et de continuer à avoir du plaisir à me maintenir en forme aujourd'hui. Vous pouvez l'acheter sur Gumroad ou sur Amazon.
 
 À bientôt!
