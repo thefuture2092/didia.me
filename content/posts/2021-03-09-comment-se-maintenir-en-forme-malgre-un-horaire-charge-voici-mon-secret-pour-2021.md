@@ -3,7 +3,7 @@ template: post
 title: >-
   Comment se maintenir en forme malgré un calendrier chargé ? Voici mon secret
   pour 2021.
-draft: true
+draft: false
 date: 2021-03-09T11:19:14.241Z
 description: >-
   Après une perte de poids, le plus grand challenge qui nous attend est souvent
@@ -84,8 +84,8 @@ Travailler chaque jour sur ces trois objectifs m'a permis de maintenir mon poids
 
 ## Conclusion
 
-Se mettre des objectifs de santé peut être une source de motivation intéressante pour se maintenir en forme. Se maintenir en forme ne demande pas beaucoup du temps de notre calendrier. Par exemple, mettre une heure par jour à travailler sur ses objectifs santé ne consommera certainement pas plus de 10% de votre temps. En plus de cela, vous pouvez choisir des activités physiques qui peuvent se faire en même temps que d'autres activités pour optimiser votre temps. J'ai des amis qui se sont achetés des vélos stationnaires pendant la pandémie pour faire du Netflix and Vélo pour se maintenir en forme et ça marche très bien. Ils sont à mesure aujourd'hui de continuer à suivre leurs films tout en travaillant sur leur santé et cela sans aucun impact sur leurs calendriers. N'est-ce pas magnifique ?
+Se mettre des objectifs de santé peut être une source de motivation intéressante pour se maintenir en forme. Se maintenir en forme ne demande pas beaucoup du temps de notre calendrier. Par exemple, mettre une heure par jour à travailler sur ses objectifs santé ne consommera certainement pas plus de 10% de votre temps. En plus de cela, vous pouvez choisir des activités physiques qui peuvent se faire en même temps que d'autres activités pour optimiser votre temps. J'ai des amis qui se sont acheté des vélos stationnaires pendant la pandémie pour faire du "Netflix and Vélo" pour se maintenir en forme et ça marche très bien. Ils sont à mesure aujourd'hui de continuer à suivre leurs films tout en travaillant sur leur santé et cela sans aucun impact sur leurs calendriers. N'est-ce pas magnifique ?
 
-Si vous avez du mal à trouver la motivation, la discipline ou du plaisir à vous maintenir en forme ou perdre du poids, je vous suggère fortement de vous procurer mon livre, **Programme 4P: Comment prendre plaisir à perdre du poids et à se maintenir en forme**, dans lequel comment je vous partage mon expérience personnelle avec le Programme 4P qui m'a permis de passer de 254 lb (115 kg) à 186 lb (84.3 kg) et de continuer à avoir du plaisir à me maintenir en forme aujourd'hui. Vous pouvez l'acheter sur Gumroad ou sur Amazon.
+Si vous avez du mal à trouver la motivation, la discipline ou du plaisir à vous maintenir en forme ou perdre du poids, je vous suggère fortement de vous procurer mon livre, **Programme 4P: Comment prendre plaisir à perdre du poids et à se maintenir en forme**, à travers lequel je vous partage mon expérience personnelle avec le Programme 4P qui m'a permis de passer de 254 lb (115 kg) à 186 lb (84.3 kg) et de continuer à avoir du plaisir à me maintenir en forme aujourd'hui. Vous pouvez l'acheter sur <a href="https://gumroad.com/l/iBoEp" target="_blank" rel="noopener">Gumroad</a> ou sur <a href="https://www.amazon.ca/Programme-4P-Comment-prendre-maintenir-ebook/dp/B08QFXVTRJ" target="_blank" rel="noopener">Amazon</a>.
 
 À bientôt!
