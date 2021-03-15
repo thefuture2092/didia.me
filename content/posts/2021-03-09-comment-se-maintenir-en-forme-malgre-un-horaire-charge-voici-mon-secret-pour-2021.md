@@ -8,30 +8,30 @@ date: 2021-03-09T11:19:14.241Z
 description: >-
   Après une perte de poids, le plus grand challenge qui nous attend est souvent
   de se maintenir en forme. Dans cet article, je vous présente le plan que j'ai
-  mis en place au début de l'année pour conserver ma perte de poids et me
-  maintenir en forme.
+  mis en place au début de l'année pour conserver ma perte de poids de deux
+  dernières années et me maintenir en forme.
 category: Programme 4P
 tags:
   - Programme 4P
   - Perte de Poids
   - Santé
 ---
-Après avoir perdu du poids en 2019 et 2020, mon objectif principal au début de l'année 2021 était bien évidemment de me maintenir en forme. Je savais que cela n'allait pas être facile. Je venais tout juste de passer les 3 derniers mois de l'année précédente à me battre contre le phénomène Yo-Yo qui menaçait maintenant de renvoyer mon poids au dessus de 200 livres (90 kg) pour la première fois depuis plus d'un an. Il fallait donc trouver une solution pour que cela n'arrive pas.
+Après avoir perdu du poids en 2019 et 2020, mon objectif principal au début de l'année 2021 était bien évidemment de me maintenir en forme. Je savais que cela n'allait pas être facile. Je venais tout juste de passer les 3 derniers mois de l'année précédente à me battre contre le phénomène Yo-Yo qui menaçait maintenant de renvoyer mon poids au dessus de 200 livres (90 kg) pour la première fois depuis plus d'un an. Il fallait donc trouver une solution pour empêcher que cela ne se reproduise.
 
-Heureusement pour moi, ma solution ne se trouvait pas si loin. En effet, en mettant en place le **_Programme 4P_** qui m'avait permis de perdre du poids lors des deux années précédentes, j'avais réalisé que ce même programme pouvait aussi me permettre de me maintenir en forme.
+Heureusement pour moi, ma solution ne se trouvait pas si loin. En effet, en mettant en place le _**Programme 4P**_ qui m'avait permis de perdre du poids, j'avais réalisé que ce même programme pouvait aussi me permettre de me maintenir en forme.
 
-C'est ainsi qu'au début de l'année 2021, j'ai ai utilisé le _**Programme 4P**_ pour bâtir mon plan de maintien en forme pour l'année. Ce plan se résumait en deux principales étapes:
+C'est ainsi qu'au début de l'année 2021, j'ai ai utilisé le **_Programme 4P_** pour bâtir mon plan de maintien en forme pour toute l'année. Ce plan se résumait en deux principales étapes:
 
-1. Se fixer des "objectifs santés" que j'allais poursuivre pendant l'année 2021
+1. Se fixer des "objectifs santés" pour l'année 2021
 2. Intégrer la poursuite ces objectifs dans mon calendrier déjà très chargé.
 
-## Se fixer des objectifs santés
+## Pourquoi se fixer des objectifs santé ?
 
 Le deuxième P du **Programme 4P**, le principe de perte de poids définitive, stipule que si l'on veut conserver sa perte de poids à long terme, il faut adopter une technique de contrôle calorie (TRC) et des activités physiques que nous sommes prêts à conserver même après l'atteinte de notre objectif de perte de poids.
 
-C'est exactement ce que je fis durant ma période de perte de poids. Je m'étais assuré d'opter pour des activités que j'allais avoir du plaisir à continuer de pratiquer même après ma période de perte de mois. Ainsi, quand j'ai terminé mon programme de poids en septembre 2021, j'ai continué à pratiquer le jeûne intermittent qui était ma TRC ainsi que la course et le circuit 4P qui étaient mes activités physiques de perte de poids.
+C'est exactement ce que j'avais fait durant ma période de perte de poids. Je m'étais assuré d'opter pour des activités que j'allais avoir du plaisir à continuer de pratiquer même après ma période de perte de mois. Ainsi, quand j'ai terminé mon programme de poids en septembre 2021, j'ai continué à pratiquer le jeûne intermittent qui était ma TRC ainsi que la course et le circuit 4P qui étaient mes activités physiques pour dépenser plus de calories. Cependant, je n'avais pas anticipé comment le fait de ne plus avoir des objectifs clairs à atteindre comme ce fut le cas pour la perte de poids m'affecterait. 
 
-Cependant, je n'avais pas anticipé combien le fait de ne plus avoir des objectifs clairs à atteindre comme ce fut le cas pour la perte de poids allait m'affecter. En effet, quelques semaines seulement après la fin de ma période de perte de poids, je n'étais plus aussi discipliné qu'avant dans la pratique de mes activités physiques. Il y'avait un relâchement évident de ma part causé par le manque d'objectif, ce qui me mena tout droit vers une reprise progressive du poids perdu. Ainsi en trois mois, de septembre à janvier 2021, mon poids qui avait atteint 84.3 kg à son plus bas est remonté jusqu'à atteindre 88.6 kg
+En effet, quelques semaines seulement après la fin de ma période de perte de poids, je n'étais plus aussi discipliné qu'avant dans la pratique de mes activités physiques. Il y'avait un relâchement évident de ma part causé par le manque d'objectif, ce qui me mena tout droit vers une reprise progressive du poids perdu. Ainsi en trois mois, de septembre à janvier 2021, mon poids qui avait atteint 84.3 kg à son plus bas est remonté jusqu'à atteindre 88.6 kg
 
 C'est donc pour cette raison que je décidai au début de l'année de me fixer des objectifs clairs pour chacune des activités physiques que je pratiquais. Ces "objectifs santé" devraient me permettre de garder le cap d'activités physiques pendant toute l'année et d'éviter des longues périodes de relâchement.
 
