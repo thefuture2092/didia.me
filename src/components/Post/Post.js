@@ -5,6 +5,7 @@ import Comments from './Comments';
 import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
+import CallToAction from './CallToAction';
 import styles from './Post.module.scss';
 
 const Post = ({post}) => {
@@ -24,6 +25,7 @@ const Post = ({post}) => {
       </div>
 
       <div className={styles['post__footer']}>
+        <CallToAction />
         <Meta date={date} />
         <Tags tags={tags} tagSlugs={tagSlugs} />
         <Author />
