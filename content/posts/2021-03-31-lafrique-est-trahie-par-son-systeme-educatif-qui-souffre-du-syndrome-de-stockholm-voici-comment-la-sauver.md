@@ -20,4 +20,4 @@ tags:
   - Afrique
   - solutionneurs de problèmes
 ---
-En République Démocratique du Congo, dans le cours de civisme, on apprend que l’objectif de l'enseignement secondaire est de former des cadres moyens utiles à la société. Cependant, après la fin de mon école secondaire, j
+À l'aube de l'année 1960, plusieurs pays africains accédaient finalement à l'indépendance après des longues et dures années de combat pour leur autodétermination. C'était enfin l'occasion pour eux de reprendre en main leur destin en main et de déterminer l'avenir qu'ils voulaient pour leurs enfants. Cependant, force est de constater que plus de 60 ans après les indépendances, la majorité des pays africains pour ne pas dire la quasi totalité de ces pays n’ont pas réussi à créer des conditions idéales pour leurs peuples.
