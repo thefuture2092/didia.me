@@ -34,7 +34,7 @@ For the first time in my work lifetime, I would go on for more than 3 months wit
 
 \- The new opportunity
 
-
+"Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to" Lao Tzu
 
 \- The plan
 
