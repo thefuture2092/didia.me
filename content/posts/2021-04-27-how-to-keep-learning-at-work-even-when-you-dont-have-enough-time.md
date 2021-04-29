@@ -16,7 +16,7 @@ tags:
   - engineering management
   - learning
 ---
-I have always been someone who love learning. I thought myself to code and wrote my first website before attending my first programming class at school. While at school, I was always trying to learn more than what the teacher usually gave us. I would go on to read from multiple sources, search the internet, trying to find additional material that would give me an edge over the rest of my classmates. 
+I have always been someone who love learning. I thought myself to code and built my first website before attending my first programming class at school. While at school, I was always trying to learn more than what the teacher usually gave us. I would go on to read from multiple sources, search the internet, trying to find additional material that would give me an edge over the rest of my classmates. 
 
 After finishing school, I brought that same love for learning at work. For me, learning was not just something I did because I loved it, it was not a passion, it was a necessity. Hence, I could not understand when people with more experience told me they did not have time to learn a new technology or work on side projects to hone their skills. I could not understand it. I always thought that as professionals, it was our duties to spend that extra time to keep learning, just like professional athletes spend time practising at the gym. 
 
