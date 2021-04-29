@@ -24,13 +24,17 @@ Back in 2017, when I was still new in the job market and my girlfriend was still
 
 \- The wall
 
-But in September 2017, my girlfriend and I got married and one year later, she was done with school in Russia and moved in with me in Canada. From then on, things started changing for me. First to go were the late nights at the office. As expected, I could not do them anymore with a wife at home. 
+But in September 2017, my girlfriend and I got married and one year later, she was done with school in Russia and moved in with me in Canada. From then on, things started changing for me. 
 
-In September 2017, my girlfriend and I got married and in august 2018, we started living together. From then on, things started changing for me. First, 
+First to go were the late nights at the office. Obviously with my wife at home, I could not do them anymore. Nevertheless, I still have the time to keep learning after my wife would go to bed. Yes, it was not the same amount of time anymore but it was more than enough to work on side projects.
 
+Then in May 2019, we welcomed a third member in our small family. The arrival of our  son would create even more changes than I initially expected. It was now very hard to find time to keep learning at home after work, even on the weekends. All my side projects were put to rest. Suddenly, I could understand now why my experienced colleagues had difficulties working on side projects or learning after work: They had a life.
 
+For the first time in my work lifetime, I would go on for more than 3 months without learning something new outside of what I was working on at the office. Well, I did learn a lot about parenting during those times but professionally, I stalled. I did not like that feeling one bit. At that stage of my career, stalling was not an option. I had still so much to learn and grow that I had to find a way. So I went back to some colleagues with family and more experience to find out how they do it.
 
 \- The new opportunity
+
+
 
 \- The plan
 
