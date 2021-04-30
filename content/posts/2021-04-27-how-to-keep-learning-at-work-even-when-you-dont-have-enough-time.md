@@ -16,23 +16,27 @@ tags:
   - engineering management
   - learning
 ---
-I have always been someone who love learning. I thought myself to code and built my first website before attending my first programming class at school. While at school, I was always trying to learn more than what the teacher usually gave us. I would go on to read from multiple sources, search the internet, trying to find additional material that would give me an edge over the rest of my classmates. 
+I have always been someone who loves learning. I thought myself to code and built my first website before attending my first programming class at school. At school, I was always trying to learn more than what teachers were giving us. I would go on to read from multiple sources, browse through the internet in order to find additional materials that would give me an edge over the rest of my classmates. 
 
-After finishing school, I brought that same love for learning at work. For me, learning was not just something I did because I loved it, it was not a passion, it was a necessity. Hence, I could not understand when people with more experience told me they did not have time to learn a new technology or work on side projects to hone their skills. I could not understand it. I always thought that as professionals, it was our duties to spend that extra time to keep learning, just like professional athletes spend time practising at the gym. 
+After finishing school, I brought that same love for learning at work. Yes, learning new things is fun but fun was not the reason why I did it. For me, learning has always been a necessity. It was our duties as professionals to spend that extra time to learn just like professional athletes spend time practising at the gym. Hence, I could not understand people who were telling me they did not have time to learn a new technology or work on side projects to acquire new skills.
 
-Back in 2017, when I was still new in the job market and my girlfriend was still living miles away from me in Russia, I used late nights at the office to keep learning. There were days when I would remain at the office up until 11 in the evening working on side projects or taking a course online. When I was not spending times with friends on weekends, I would put a game of basketball on TV while working on a side project. I was always in a constant learning mode.
+When I started working full time in January 2017,  my girlfriend was still living miles away from me in Russia. That allowed me to spend time after work to keep learning. There were days when I would remain at the office up until 11 p.m just working on some side projects or attending an online course. And on weekends, when I was not spending times with friends, I would continue working on a side project while watching a game of basketball. I was always in a constant learning mode. For me, that was the only way to maintain a high level on my profession. 
 
 \- The wall
 
-But in September 2017, my girlfriend and I got married and one year later, she was done with school in Russia and moved in with me in Canada. From then on, things started changing for me. 
+In September 2017, my girlfriend and I got married and one year later, we started living together. From then on, things started changing for me. 
 
-First to go were the late nights at the office. Obviously with my wife at home, I could not do them anymore. Nevertheless, I still have the time to keep learning after my wife would go to bed. Yes, it was not the same amount of time anymore but it was more than enough to work on side projects.
+First to go were the late nights at the office. Obviously with my wife at home, I could not afford to stay that late at the office. Nevertheless, I still had the time to keep learning after my wife would go to bed. It was not the same amount of learning as before but it was more than enough to keep me up-to-date on new development in my field. But things were about to get a lot harder than that.
 
-Then in May 2019, we welcomed a third member in our small family. The arrival of our  son would create even more changes than I initially expected. It was now very hard to find time to keep learning at home after work, even on the weekends. All my side projects were put to rest. Suddenly, I could understand now why my experienced colleagues had difficulties working on side projects or learning after work: They had a life.
+In May 2019, we welcomed a third member of our small family. People already warned me that raising a kid is a full time job on its own. But I did not grasp the full extent of that. With my son in the mix, it was now really hard to find time to keep learning outside of work, even on weekends. All my projects were put to rest. I stopped taking online classes and basically for the next 3 months or so, I did not learn something new on my own time. Now I was starting to understand what people told when they said they did not have time to work on side projects or to learn after work. Life happened. 
 
-For the first time in my work lifetime, I would go on for more than 3 months without learning something new outside of what I was working on at the office. Well, I did learn a lot about parenting during those times but professionally, I stalled. I did not like that feeling one bit. At that stage of my career, stalling was not an option. I had still so much to learn and grow that I had to find a way. So I went back to some colleagues with family and more experience to find out how they do it.
+Obviously, for someone who see learning as a necessity, that situation bordered me. I was afraid my career would stall while I still had so much room to learn and grow. I could not let that happen. It was not an option. I was sure there was a way to make it work. I mean there are a lot of people with both successful careers and successful family. How do they do it ?
 
 \- The new opportunity
+
+To find a solution to my problems, I first went to talk to people who had more work experience than me and also had a large family to attend. I asked them how they found time to learn while still having a great work-life balance.
+
+
 
 "Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to" Lao Tzu
 
