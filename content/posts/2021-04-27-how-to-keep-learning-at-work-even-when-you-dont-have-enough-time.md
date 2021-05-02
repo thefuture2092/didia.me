@@ -6,7 +6,7 @@ date: 2021-04-27T10:15:39.044Z
 description: >-
   As professionals, we are expected to keep learning and adapt to the
   ever-changing needs of our environment and organizations. But with our work
-  day already spent in full on our regular duties, how can we find the time,
+  day already spent entirely on our regular duties, how can we find the time,
   energy and focus required to learn new things while still maintaining a
   semblance of work life balance ?
 category: Personal development
@@ -30,11 +30,19 @@ First to go were the late nights at the office. Obviously with my wife at home, 
 
 In May 2019, we welcomed a third member of our small family. People already warned me that raising a kid was a full time job on its own. But I did not grasp the full extent of that. With my son in the mix, it got extremely hard to find time to keep learning outside of work, even on weekends. All my projects were put to rest. I stopped taking online classes and basically for the next 3 months or so that followed, I did not learn anything new outside of work. Now I was starting to understand what people meant when they said they did not have time to work on side projects or to learn after work: Life happened.
 
-For someone like me, who has always considered learning as a necessity, it was a tough pill to swallow. I feared that my career would stall while I still had so much room to grow. I could not let that happen. It was not an option. I had to find a way to make it work. I mean there are a lot of people with both successful careers and successful family. How did they make it work ? I had to find out, so I went and asked around.
+For someone like me, who has always considered learning as a necessity, it was a tough pill to swallow. I feared that my career would stall while I still had so much room to grow. I could not let that happen. It was not an option. I had to find a way to make it work. I mean there are a lot of people with both successful careers and successful family. How did they make it work ? I had to find out. So I went and asked around.
+
+The first people I reached out to were colleagues who had more experience than I and who had a family to attend to. I asked them how they found time to keep learning while maintaining a good work-life balance. The answers I got were surprising, insightful and it led me to my first insight on how I could possibly make it work. That is what I am going to share with you in the next article of this series of articles on how to keep learning at work even when you don't have enough time.
+
+Until next time, 
+
+PS: If you found this article interesting, don't forget to follow me @didia_aristote on twitter so that you will not miss the next article on this series. 
 
 \- The new opportunity
 
-The first people I reached out to were colleagues who had more experience than me and who had a family to attend to. I asked them how they found time to keep learning while maintaining a great work-life balance.
+The first people I reached out to were colleagues who had more experience than I and who had a family to attend to. I asked them how they found time to keep learning while maintaining a great work-life balance. Most of them told me that they faced the same issue. They wanted to keep learning on their own time but found it impossible. Some told me it should be expected of them to spend their home time to keep learning for work, it was immoral. Still, some did find time to do it, albeit an insignificant time. But for most experienced people I talked to, I learned that they did most if not all of their learning at work on company time.
+
+That last insight is what surprised me the most. How do you learn on company time ? Well, I know most employers provide formation budgets but they rarely give employees time needed to use those budgets. So employees end up needing to use their own time for the formation. But these people were telling me they were learning on company time. How were they doing it ?  We are usually so busy at work that taking time to learn instead of working on our deliverables is almost never an option. So do you take time at work to work on
 
 "Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to" Lao Tzu
 
