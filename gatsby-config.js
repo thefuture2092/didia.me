@@ -27,7 +27,6 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     'gatsby-plugin-netlify',
-    'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     netlifyCmsPaths,
@@ -189,6 +188,7 @@ module.exports = {
           camelCase: false
         }
       }
-    }
+    },
+    'gatsby-plugin-offline'
   ]
 };
