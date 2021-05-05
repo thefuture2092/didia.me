@@ -1,6 +1,7 @@
 ---
 template: post
-title: How to keep learning at work even when you don't have enough time.
+title: 'How to keep learning while working, Part 1: The struggle'
+slug: how-to-keep-learning-while-working-the-struggle
 draft: true
 date: 2021-04-27T10:15:39.044Z
 description: >-
@@ -9,14 +10,14 @@ description: >-
   day already spent entirely on our regular duties, how can we find the time,
   energy and focus required to learn new things while still maintaining a
   semblance of work life balance ?
-category: Personal development
+category: How to keep learning while working
 tags:
   - Personal development
   - work life balance
   - engineering management
   - learning
 ---
-I have always been someone who loves learning. I thought myself to code and built my first website before attending my first programming class at school. While at school, I was always trying to learn more than what teachers were giving us. I would go on to read from multiple sources, browse the internet in order to find additional materials that would give me an edge over the rest of my classmates. 
+I have always been someone who loves learning. Like many people, I thought myself to code and built my first website before attending my first programming class at school. While at school, I was always trying to learn more than what teachers were giving us. I would go on to read from multiple sources, browse the internet in order to find additional materials that would give me an edge over the rest of my classmates. 
 
 After finishing school, I brought that same mentality to work. Yes, learning new things is always fun but that was not the reason why I did it. For me, learning has always been a necessity. I thought it was our duties as professionals to spend that extra time to learn just like professional athletes spend time practising at the gym. That is why I could not understand people who were telling me they did not have time to learn a new technology or work on side projects to acquire new skills.
 
@@ -36,20 +37,4 @@ The first people I reached out to were colleagues who had more experience than I
 
 Until next time, 
 
-PS: If you found this article interesting, don't forget to follow me @didia_aristote on twitter so that you will not miss the next article on this series. 
-
-\- The new opportunity
-
-The first people I reached out to were colleagues who had more experience than I and who had a family to attend to. I asked them how they found time to keep learning while maintaining a great work-life balance. Most of them told me that they faced the same issue. They wanted to keep learning on their own time but found it impossible. Some told me it should be expected of them to spend their home time to keep learning for work, it was immoral. Still, some did find time to do it, albeit an insignificant time. But for most experienced people I talked to, I learned that they did most if not all of their learning at work on company time.
-
-That last insight is what surprised me the most. How do you learn on company time ? Well, I know most employers provide formation budgets but they rarely give employees time needed to use those budgets. So employees end up needing to use their own time for the formation. But these people were telling me they were learning on company time. How were they doing it ?  We are usually so busy at work that taking time to learn instead of working on our deliverables is almost never an option. So do you take time at work to work on
-
-"Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to" Lao Tzu
-
-\- The plan
-
-\- The conflict
-
-\- The achievement
-
-\- The transformation
+PS: If you found this article interesting, don't forget to follow me @didia_aristote on twitter so that you will not miss the next article on this series.
