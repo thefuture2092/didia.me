@@ -23,8 +23,6 @@ After finishing school, I brought that same mentality to work. Yes, learning new
 
 When I started working full time in January 2017,  my then girlfriend now wife was still competing his studies miles away from me in Russia. That allowed me to spend more time learning after work. There were days when I would remain at the office up until 11 p.m to work on some side projects or to follow an online course. Even on weekends, when I was not spending time with friends, I would work on a side project while watching a game of basketball. I was always in a constant learning mode. For me, that was the only way to remain at the top of my game. 
 
-\- The wall
-
 But things started changing for me in July 2018. My wife was done with school and joined me in Canada. As we started leaving together, I needed to make some changes to the routine I had while leaving alone.
 
 First to go were the late nights at the office. Obviously with my wife at home, I could not afford to stay that late at the office. Then, I needed to cut back on the amount of hours I spend working on the weekends which were basically the same as on weekdays. No need to say that these changes greatly impacted the time I spent learning outside of work. Nevertheless, I could still find some time here and there that was more than enough for me to keep up with new development in my field. And when I needed focused time to work on an online class, I would take 1 or 2 hours on the weekends to do it. But things were about to get a lot harder than that.
@@ -35,6 +33,4 @@ For someone like me, who has always considered learning as a necessity, it was a
 
 The first people I reached out to were colleagues who had more experience than I and who had a family to attend to. I asked them how they found time to keep learning while maintaining a good work-life balance. The answers I got were surprising, insightful and it led me to my first insight on how I could possibly make it work. That is what I am going to share with you in the next article of this series of articles on how to keep learning at work even when you don't have enough time.
 
-Until next time, 
-
-PS: If you found this article interesting, don't forget to follow me @didia_aristote on twitter so that you will not miss the next article on this series.
+Until next time ✌🏾
