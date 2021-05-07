@@ -1,7 +1,7 @@
 ---
 template: post
-title: 'How to keep learning while working, Part 1: The struggle'
-slug: how-to-keep-learning-while-working-the-struggle
+title: 'How to keep learning while working, Part 1: It''s hard when you have a life.'
+slug: how-to-keep-learning-while-working/its-hard-when-you-have-a-life
 draft: true
 date: 2021-04-27T10:15:39.044Z
 description: >-
@@ -16,6 +16,7 @@ tags:
   - work life balance
   - engineering management
   - learning
+thumbnail: /media/avel-chuklanov-dumfltmeabq-unsplash.jpg
 ---
 I have always been someone who loves learning. Like many people, I thought myself to code and built my first website before attending my first programming class at school. While at school, I was always trying to learn more than what teachers were giving us. I would go on to read from multiple sources, browse the internet in order to find additional materials that would give me an edge over the rest of my classmates. 
 
