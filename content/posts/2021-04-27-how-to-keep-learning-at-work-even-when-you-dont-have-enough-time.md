@@ -3,7 +3,7 @@ template: post
 title: 'How to keep learning while working, Part 1: It''s hard when you have a life.'
 slug: how-to-keep-learning-while-working/its-hard-when-you-have-a-life
 draft: false
-date: 2021-04-27T10:15:39.044Z
+date: 2021-05-07T10:15:39.044Z
 description: >-
   As professionals, we are expected to keep learning and adapt to the
   ever-changing needs of our environment and organizations. But with our work
