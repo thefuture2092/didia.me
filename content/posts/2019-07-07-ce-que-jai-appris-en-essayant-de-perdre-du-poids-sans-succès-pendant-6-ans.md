@@ -12,9 +12,9 @@ tags:
   - Prendre plaisir à perdre du poids
 thumbnail: /media/10661722_961171013898005_2997289113553107312_o.jpg
 ---
-_Cet article est le deuxième de la série [**Prendre plaisir à perdre du poids**](https://www.didia.me/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d’essais, j’ai enfin réussi à mettre au point un programme qui m’aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d’autres._
+_Cet article est le deuxième de la série [**Prendre plaisir à perdre du poids**](/category/prendre-plaisir-a-perdre-du-poids/), dans laquelle je partage comment, après 6 ans d’essais, j’ai enfin réussi à mettre au point un programme qui m’aide à perdre du poids tout en étant amusant. En espérant que cela inspire aussi d’autres._
 
-Article précédent ☞ [**Comment je suis devenu obèse en moins de 9 mois au Canada.**](<Comment je suis devenu obèse en moins de 9 mois au Canada.>)
+Article précédent ☞ [**Comment je suis devenu obèse en moins de 9 mois au Canada.**](/comment-je-suis-devenu-obese)
 
 Cher ami(e),
 
