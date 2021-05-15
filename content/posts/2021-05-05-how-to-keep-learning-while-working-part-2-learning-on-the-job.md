@@ -29,9 +29,42 @@ The question I asked all of them was something like this: How do you find time t
 
 I got many different answers. You could easily see that everybody had their own approaches. But upon reviewing all the answers, I was able to group them into 3 main categories:
 
-1. The learning by experience folks.
-2. The actively learning on the job horde.
-3. The "I learn on my own time" tribe.
+1. People who learn by experience
+2. People who learn proactively on the job
+3. People who learn on their own time after work
+
+Of course, there were other people who were doing two or three of the above but even then one aspect was always predominant than the others.
+
+## Learning by experience
+
+Everybody I talked to listed learning by experience as one of the way they kept learning on the job. And the majority of them said this method was the only way they used to get better at their job.
+
+> Ut est rerum omnium magister usus 
+>
+> \
+>
+>
+> Julius Caesar, De bello Civile
+
+Learning by experience is probably the default way all of us learn on the job. That's because we don't have to do anything to make it happen. In fact, as the great Julius Cesar once said, _Ut est rerum omnium magister usus _which means experience is the best teacher.
+
+But for me, settling for this method only wouldn't have helped at all! Learning by experience depends on what you are working on! The only time you learn new things is when you are faced with new problems to solve. With this method only, the pace of learning can be very slow especially when you are working on a stable project. This method also limits the diversity of learning because you are only learning thing that are related to the problem at hands. So this alone wouldn't have worked for me.
+
+## Learning proactively on the job
+
+People in this category told me that they learn proactively on their job. They didn't way for problems to happen to learn how to solve them. They anticipated problems. They kept sync with what was happening in their field, the innovation and tried to bring it back to their job to make things better.
+
+Most of the people in this category had some kind of incentive to do it! Either they held positions in their company that allowed them some flexibility to do that or the company gave them time and learning budget to encourage learning.
+
+
+
+Choosing learning by experience as the only way to learn on the job is probably the best option for most people how have a life because in most case it does not require more than what we are already asked to do in our job description.
+
+However, the drawback with this option is it doesn't allow us to
+
+People in this category told me that they do most of the learning on the job while working on their projects. When they face new problems, they learn how to solve them. That's how they get better at their jobs.
+
+Everybody I talked to listed learning by experience as one of the way they kept learning on the job. And the majority of people listed this method as the only way. This should not be surprising to anyone because as Julius Cesar once said, _Ut est rerum omnium magister usus, _which means experience is the best teacher.
 
 The answers I got could be grouped into 3 main categories:
 
