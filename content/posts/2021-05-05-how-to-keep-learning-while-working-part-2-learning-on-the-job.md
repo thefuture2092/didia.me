@@ -21,28 +21,35 @@ This is the second article of the series [**How to keep learning while working**
 
 Previous article ☞ [**How to keep learning while working, Part 1: it's hard when you have a life**](/how-to-keep-learning-while-working/its-hard-when-you-have-a-life)
 
-After the birth of my son, it became increasingly difficult for me to find time to keep learning outside of work. I put to rest all my side projects. I stopped taking online classes and basically for the next three months or so that followed, I didn’t learn anything new outside of work.
+After the birth of my son, it became increasingly difficult for me to find time to keep learning outside of work. I put to rest all my side projects. I stopped taking online classes. Basically, I didn't learn anything new outside of work for the next three months or so that followed. I was afraid that my career was stalling while I still had so much room to grow! I couldn't let that happen! 
 
-This made me fear that my career was stalling while I still had so much room to grow! Of course, I couldn't let that happen! Fortunately, I knew a lot of people who seemed to have successful careers and successful families. I told myself if they could do it, I could do it. I just needed to find out how they were doing it. So I reached out to them to find out.
+Fortunately, I knew a lot of people who seemed to have both successful careers and successful families. I thought if they could do it, why shouldn't I ? I just needed to find out how. So I went and asked them.
 
-The question I asked all of them was something like this: How do you find time to keep getting better at your job while still giving enough quality time to your family and friends ?
+My question was something like this: How do you find time to keep getting better at your job while still giving enough quality time to your family and friends ?
 
-I got many different answers. You could easily see that everybody had their own approaches. But upon reviewing all the answers, I was able to group them into 3 main categories:
+Almost everyone I talked to had his own approach to the problem. But I was able to group all those different approaches into three main insights:
 
-1. People who learn by experience
-2. People who learn proactively on the job
-3. People who learn on their own time after work
+1. Learn on my own time
+2. Learn by experience
+3. Learn proactively on company time
 
-Of course, there were other people who were doing two or three of the above but even then one aspect was always predominant than the others.
+## Learning on my own time
+
+Some people I talked to used their own time after work to learn more and acquire new skills about their job. Most of people in this category had either grown kids or no kids at all! But there were still some who were able to do it while having small kids (mostly a single child).
+
+When I asked the latter how they did it, most told me they made time after their kids have gone to bed or early in the morning. I wanted to ask what about spending time with your partner but I didn't. I felt it was too private to ask.
+
+Those answers didn't quite satisfy me because that was the struggle I was in. Even if I could manage to find time after my child and wife are sleeping, it wouldn't be enough to cover the amount of learning I used to do. So I needed to find something else.
 
 ## Learning by experience
+
+Learning by experience was the preferred way for most people I talked to. I could easily see why. This is probably the default way all of us learn on the job because we don't have to do anything to make it happen.
 
 Everybody I talked to listed learning by experience as one of the way they kept learning on the job. And the majority of them said this method was the only way they used to get better at their job.
 
 > Ut est rerum omnium magister usus 
 >
 > \
->
 >
 > Julius Caesar, De bello Civile
 
@@ -55,8 +62,6 @@ But for me, settling for this method only wouldn't have helped at all! Learning 
 People in this category told me that they learn proactively on their job. They didn't way for problems to happen to learn how to solve them. They anticipated problems. They kept sync with what was happening in their field, the innovation and tried to bring it back to their job to make things better.
 
 Most of the people in this category had some kind of incentive to do it! Either they held positions in their company that allowed them some flexibility to do that or the company gave them time and learning budget to encourage learning.
-
-
 
 Choosing learning by experience as the only way to learn on the job is probably the best option for most people how have a life because in most case it does not require more than what we are already asked to do in our job description.
 
