@@ -43,7 +43,15 @@ Those answers didn't quite satisfy me because that was the struggle I was in. Ev
 
 ## Learning by experience
 
-Learning by experience was the preferred way for most people I talked to. I could easily see why. This is probably the default way all of us learn on the job because we don't have to do anything to make it happen.
+Learning by experience was the preferred way for most people I talked to. I could easily see why. This is probably the default way all of us learn on the job because we don't have to do anything to make it happen. In fact, as the great Julius Cesar once said, «\_Ut est rerum omnium magister usus \_» which translates to "experience is the best teacher". 
+
+But is learning by experience enough by itself ?
+
+In my opinion, I don't think so. Learning by experience can be exceptionally great when working in a fast paced environnement where the type of problems you work on changes very often. But for most people who work in a steady environment, the learning by experience process can be very slow.
+
+Learning by experience was already what I was doing but I wasn't satisfied with it because I felt like it depended a lot on what I was working on. It also put me in a reactionary mode. I only learned things to solve the problems at hand. Learning  
+
+As we can see, learning by experience depends a lot on what you are working on! And what I dislike the most about using this method only is the fact that it puts me in a reactionary mode. You only learn when you are faced with a problem to solve.
 
 Everybody I talked to listed learning by experience as one of the way they kept learning on the job. And the majority of them said this method was the only way they used to get better at their job.
 
