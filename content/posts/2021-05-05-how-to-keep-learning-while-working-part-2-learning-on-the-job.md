@@ -49,6 +49,8 @@ As we can see, learning by experience alone was not enough for me. I needed an a
 
 ## Learning on my own time
 
+I was very surprised to learn than some people I talked to 
+
 Some people I talked to used their own time after work to learn more and acquire new skills about their job. Most of people in this category had either grown kids or no kids at all! But there were still some who were able to do it while having small kids (mostly a single child).
 
 When I asked the latter how they did it, most told me they made time after their kids have gone to bed or early in the morning. I wanted to ask what about spending time with your partner but I didn't. I felt it was too private to ask.
