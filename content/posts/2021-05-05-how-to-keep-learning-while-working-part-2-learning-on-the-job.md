@@ -33,6 +33,20 @@ Almost everyone I talked to had his own approach to the problem. But I was able 
 2. Learn by experience
 3. Learn proactively on company time
 
+## Learning by experience
+
+Learning by experience was the preferred way for most people I talked to. I could easily see why. This is probably the default way all of us learn on the job because we don't have to do anything to make it happen. In fact, as the great Julius Cesar once said, «Ut est rerum omnium magister usus» which translates to "experience is the best teacher". 
+
+But is learning by experience enough by itself ?
+
+In my opinion, I don't think so. Learning by experience can be exceptionally great when working in a fast paced environnement where the type of problems you work on changes very often. But for most people who work in a steady environment, the learning by experience process can be very slow.
+
+Even when I was not able to find time to learn after work anymore, I was still learning by experience while doing my job. But it was not enough. I wasn't satisfied with it because it depended a lot on what I was working on at the moment. When I was working on something new, a new technology or a new framework, I was learning a lot. But it was not the case when I was just applying what I already knew.
+
+But the biggest problem for me with the learning by experience approach is the feeling that I am in a passive mode. It put me in a situation when I am not in control of what I learn. I am only learning when faced with problems I don't know how to solve already. I am not learning to avoid potential problems nor to innovate.
+
+As we can see, learning by experience alone was not enough for me. I needed an approach that would allow me to keep learning more than what is required to do my job.
+
 ## Learning on my own time
 
 Some people I talked to used their own time after work to learn more and acquire new skills about their job. Most of people in this category had either grown kids or no kids at all! But there were still some who were able to do it while having small kids (mostly a single child).
@@ -40,30 +54,6 @@ Some people I talked to used their own time after work to learn more and acquire
 When I asked the latter how they did it, most told me they made time after their kids have gone to bed or early in the morning. I wanted to ask what about spending time with your partner but I didn't. I felt it was too private to ask.
 
 Those answers didn't quite satisfy me because that was the struggle I was in. Even if I could manage to find time after my child and wife are sleeping, it wouldn't be enough to cover the amount of learning I used to do. So I needed to find something else.
-
-## Learning by experience
-
-Learning by experience was the preferred way for most people I talked to. I could easily see why. This is probably the default way all of us learn on the job because we don't have to do anything to make it happen. In fact, as the great Julius Cesar once said, «\_Ut est rerum omnium magister usus \_» which translates to "experience is the best teacher". 
-
-But is learning by experience enough by itself ?
-
-In my opinion, I don't think so. Learning by experience can be exceptionally great when working in a fast paced environnement where the type of problems you work on changes very often. But for most people who work in a steady environment, the learning by experience process can be very slow.
-
-Learning by experience was already what I was doing but I wasn't satisfied with it because I felt like it depended a lot on what I was working on. It also put me in a reactionary mode. I only learned things to solve the problems at hand. Learning  
-
-As we can see, learning by experience depends a lot on what you are working on! And what I dislike the most about using this method only is the fact that it puts me in a reactionary mode. You only learn when you are faced with a problem to solve.
-
-Everybody I talked to listed learning by experience as one of the way they kept learning on the job. And the majority of them said this method was the only way they used to get better at their job.
-
-> Ut est rerum omnium magister usus 
->
-> \
->
-> Julius Caesar, De bello Civile
-
-Learning by experience is probably the default way all of us learn on the job. That's because we don't have to do anything to make it happen. In fact, as the great Julius Cesar once said, _Ut est rerum omnium magister usus _which means experience is the best teacher.
-
-But for me, settling for this method only wouldn't have helped at all! Learning by experience depends on what you are working on! The only time you learn new things is when you are faced with new problems to solve. With this method only, the pace of learning can be very slow especially when you are working on a stable project. This method also limits the diversity of learning because you are only learning thing that are related to the problem at hands. So this alone wouldn't have worked for me.
 
 ## Learning proactively on the job
 
