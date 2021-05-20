@@ -51,19 +51,25 @@ As we can see, learning by experience alone was not enough for me. I needed an a
 
 Some people I talked to were able to find outside of work to keep learning. When I asked them how they did it, most told me they used the time after their kids have gone to bed or early in the morning.
 
-Unfortunetely, that answer was not that useful to me because it was exactly what I was struggling with. I did not see how I could possibly make it work. With my family in the mix, my schedule was already packed.
+Unfortunately, that answer was not that useful to me because it was exactly what I was struggling with. I did not see how I could possibly make it work. With my family in the mix, my schedule was already packed.
 
-I wake up my day at 5 a.m. From 5 a.m to 6 a.m, I go through the waking up routine, meditation and some stretching exercices to get my day going. From 6 a.m to 6 p.m, it's 12h work time: 8h on my regular job, one hour exercising and the remaining is spent on my passion project.
+I wake up my day at 5 a.m. From 5 a.m to 6 a.m, I go through the waking up routine, meditation and some stretching exercices to get my day going. From 6 a.m to 6 p.m, it's a 12h work timespan: 8h on my regular job, one hour exercising and the rest on my passion project.
 
-When my work is done at 6 p.m, I try the next 3 hours on supper and playing with my kid. Beside getting him to daycare, that's almost the only time I spend with him on weekdays. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. From 10 p.m to 10:30 pm, it's planning time for the next day. At 11 p.m, the day is over and I hit restart.
+When I am done working at 6 p.m, I try to spend the next 3 hours on supper and playing with my kid. Beside getting him to daycare, that's almost the only time I spend with him on weekdays. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. 10 p.m to 10:30 pm is planning time for the next day. And at 11 p.m, the day is over. I go to bed and hit restart the next morning at 5 a.m.
 
-I have to admit that writing the last two paragraph made me feel like my life was a little too scripted. But this pretty sums up why I was not able to find time to learn outside of work anymore on weekdays. And when it comes to weekends, my wife once scolded me because I was spending as much time working on weekdays than on weekends. Since then , I try to dedicate my weekends to spending as much time as I can playing with my kid.
+I have to admit that writing the last two paragraphs made my life feel very boring. But they pretty sum up why I was not able to find time to learn outside of work on weekdays. When it comes to weekends, my wife once scolded me because I was spending as much time working on weekdays than on weekends. Since then, I try to dedicate my weekends to spending as much time as I can playing with my kid.
 
-With my crazy schedule in mind, the make time after your kid have gone to sleep or early i
+One thing that also surprised me a lot was some people who used this approach to advance their company projects were resentful of their employer for that. It was like they felt their employer exploited them and didn't recognize enough the extra time they were putting in.  It was a very surprising to me because it was not their employers who asked them to do it in the first place.
 
-Those answers didn't quite satisfy me because that was the struggle I was in. Even if I could manage to find time after my child and wife are sleeping, it wouldn't be enough to cover the amount of learning I used to do. So I needed to find something else.
+All this and my crazy schedule convinced me that this was not the right approach for me. I was just unable to see how I could possibly find time outside of work to learn without impacting negatively the already limited time I was spending with my family. I needed to find something else.
 
 ## Learning proactively on the job
+
+What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur or just limiting ourselves to do the job we are given, we could instead use sometimes to creatively think how to make what we are working on better ? How to avoid potential problems before they even occur ?
+
+That was the approach some colleagues I reached out to used to keep learning on their job. They were using their company time not only to do the job at hands but also to learn more about how they could innovate. They were always in sync with what was new in their field.
+
+After digging deeper, I realized that most people
 
 People in this category told me that they learn proactively on their job. They didn't way for problems to happen to learn how to solve them. They anticipated problems. They kept sync with what was happening in their field, the innovation and tried to bring it back to their job to make things better.
 
