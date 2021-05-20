@@ -49,11 +49,17 @@ As we can see, learning by experience alone was not enough for me. I needed an a
 
 ## Learning on my own time
 
-I was very surprised to learn than some people I talked to 
+Some people I talked to were able to find outside of work to keep learning. When I asked them how they did it, most told me they used the time after their kids have gone to bed or early in the morning.
 
-Some people I talked to used their own time after work to learn more and acquire new skills about their job. Most of people in this category had either grown kids or no kids at all! But there were still some who were able to do it while having small kids (mostly a single child).
+Unfortunetely, that answer was not that useful to me because it was exactly what I was struggling with. I did not see how I could possibly make it work. With my family in the mix, my schedule was already packed.
 
-When I asked the latter how they did it, most told me they made time after their kids have gone to bed or early in the morning. I wanted to ask what about spending time with your partner but I didn't. I felt it was too private to ask.
+I wake up my day at 5 a.m. From 5 a.m to 6 a.m, I go through the waking up routine, meditation and some stretching exercices to get my day going. From 6 a.m to 6 p.m, it's 12h work time: 8h on my regular job, one hour exercising and the remaining is spent on my passion project.
+
+When my work is done at 6 p.m, I try the next 3 hours on supper and playing with my kid. Beside getting him to daycare, that's almost the only time I spend with him on weekdays. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. From 10 p.m to 10:30 pm, it's planning time for the next day. At 11 p.m, the day is over and I hit restart.
+
+I have to admit that writing the last two paragraph made me feel like my life was a little too scripted. But this pretty sums up why I was not able to find time to learn outside of work anymore on weekdays. And when it comes to weekends, my wife once scolded me because I was spending as much time working on weekdays than on weekends. Since then , I try to dedicate my weekends to spending as much time as I can playing with my kid.
+
+With my crazy schedule in mind, the make time after your kid have gone to sleep or early i
 
 Those answers didn't quite satisfy me because that was the struggle I was in. Even if I could manage to find time after my child and wife are sleeping, it wouldn't be enough to cover the amount of learning I used to do. So I needed to find something else.
 
