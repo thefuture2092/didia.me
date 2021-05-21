@@ -65,9 +65,13 @@ All this and my crazy schedule convinced me that this was not the right approach
 
 ## Learning proactively on the job
 
-What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur or just limiting ourselves to do the job we are given, we could instead use sometimes to creatively think how to make what we are working on better ? How to avoid potential problems before they even occur ?
+What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job we are expected to do, we could use some company time to learn how to make what we are working on better ?
 
-That was the approach some colleagues I reached out to used to keep learning on their job. They were using their company time not only to do the job at hands but also to learn more about how they could innovate. They were always in sync with what was new in their field.
+This proactive learning approach was used by some people I talked in order to keep learning on their job. They were using company time not only to do the job at hands but also to learn about how their industry was evolving in order to innovate on their job.
+
+When I was first told about this approach, I felt stupid. I asked myself why didn't I think about this in the first place ? Why was I not using this approach ? It seemed like the most logical think to do, right ? Well not entirely!
+
+
 
 After digging deeper, I realized that most people
 
