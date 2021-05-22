@@ -24,7 +24,7 @@ After finishing school, I brought that same mentality to work. Yes, learning new
 
 When I started working full time in January 2017, my then girlfriend now wife was still completing her studies miles away from me in Russia. Not having her around allowed me to spend more time learning after work. There were days when I would remain at the office up until 11 p.m. to work on some side projects or to follow an online course. Even on weekends, when I wasn’t spending time with friends, I would work on a side project while watching a game of basketball. I was always in a constant learning mode because I believed that was the only way to remain on top of my game. 
 
-But things started changing in July 2018. My wife completed her medical studies and joined me in Canada. As we started leaving together, the need to make some changes to the way I was living before became evident.
+But things started changing in July 2018. My wife completed her medical studies and joined me in Canada. As we started living together, the need to make some changes to the way I was living before became evident.
 
 The late nights at the office were the first to go. Obviously with my wife at home, I couldn’t afford to stay that late at the office. After that, I needed to cut back on the number of hours I spend working on weekends which were basically the same number as on weekdays. 
 
