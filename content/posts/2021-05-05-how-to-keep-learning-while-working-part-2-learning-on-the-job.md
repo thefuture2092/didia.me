@@ -27,10 +27,10 @@ Fortunately, I knew a lot of people who seemed to have both successful careers a
 
 My question was something like this: How do you find time to keep getting better at your job while still giving enough quality time to your family and friends ?
 
-Almost everyone I talked to had his own approach to the problem. But I was able to group all those different approaches into three main insights:
+Almost everyone I talked to had his own approach to the problem. But I was able to group all those different approaches into three group:
 
-1. Learn on my own time
-2. Learn by experience
+1. Learn by experience
+2. Learn on my own time
 3. Learn proactively on company time
 
 ## Learning by experience
@@ -63,15 +63,19 @@ One thing that also surprised me a lot was some people who used this approach to
 
 All this and my crazy schedule convinced me that this was not the right approach for me. I was just unable to see how I could possibly find time outside of work to learn without impacting negatively the already limited time I was spending with my family. I needed to find something else.
 
-## Learning proactively on the job
+## Learning proactively on company time
 
 What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job we are expected to do, we could use some company time to learn how to make what we are working on better ?
 
 This proactive learning approach was used by some people I talked in order to keep learning on their job. They were using company time not only to do the job at hands but also to learn about how their industry was evolving in order to innovate on their job.
 
-When I was first told about this approach, I felt stupid. I asked myself why didn't I think about this in the first place ? Why was I not using this approach ? It seemed like the most logical think to do, right ? Well not entirely!
+When I was first told about this approach, I felt stupid. Why didn't I think about this in the first place ? Why was I not using this approach ? It seemed like the most logical think to do, right ? But after putting some thoughts on it, I was not so sure anymore.
 
+For starter, I already had a lot on my plate at my job and things kept being added to the backlog. How could I possibly use company time to learn new things when I already felt like the 40 hours per week I was doing were not even enough to do what had yet to be done ?
 
+Most people I talked to were able to do it because the roles they had gave them freedom to do it! When you are working in a research & development(R&D) context, it is part of your job to learn new things. But for those of us who work in a service context, it is not obvious. When clients come to us with projects to realize, it is usually because they believe we know how to do it. They are not paying us to learn how to do it. This makes using their time to learn 
+
+Although learning proactively on company time seemed like the perfect option for me, I could not see how I could justify using the
 
 After digging deeper, I realized that most people
 
