@@ -53,25 +53,27 @@ Some people I talked to were able to find outside of work to keep learning. When
 
 Unfortunately, that answer was not that useful to me because it was exactly what I was struggling with. I did not see how I could possibly make it work. With my family in the mix, my schedule was already packed.
 
-I wake up my day at 5 a.m. From 5 a.m to 6 a.m, I go through the waking up routine, meditation and some stretching exercices to get my day going. From 6 a.m to 6 p.m, it's a 12h work timespan: 8h on my regular job, one hour exercising and the rest on my passion project.
+I wake up my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine, meditation and some stretching exercices to get my day going. From 6 a.m to 6 p.m, it's a 12h work timespan for me: 8h on my regular job, one hour exercising and the rest on my passion project.
 
-When I am done working at 6 p.m, I try to spend the next 3 hours on supper and playing with my kid. Beside getting him to daycare, that's almost the only time I spend with him on weekdays. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. 10 p.m to 10:30 pm is planning time for the next day. And at 11 p.m, the day is over. I go to bed and hit restart the next morning at 5 a.m.
+When I am done working at 6 p.m, I try to spend the next 3 hours playing with my kid. Beside getting him to daycare, that's the only time I spend with him on weekdays. So, those 3 hours are sacred. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. 10 p.m to 10:30 pm is planning time for the next day. And at 11 p.m, the day is over. I go to bed and hit restart the next morning at 5 a.m.
 
-I have to admit that writing the last two paragraphs made my life feel very boring. But they pretty sum up why I was not able to find time to learn outside of work on weekdays. When it comes to weekends, my wife once scolded me because I was spending as much time working on weekdays than on weekends. Since then, I try to dedicate my weekends to spending as much time as I can playing with my kid.
+I have to admit that these last two paragraphs make my life feel very boring. But they pretty sum up why I was not able to find time to learn outside of work on weekdays. And when it comes to weekends, my wife once scolded me because I was spending as much time working on weekdays than on weekends. Since then, I try to make sure my weekends as light as possible. On Saturday, I can spend a couple of hours working on my passion project but on Sunday, it is prohibited. I don't do anything related to work on Sunday. It is off the limit. 
 
-One thing that also surprised me a lot was some people who used this approach to advance their company projects were resentful of their employer for that. It was like they felt their employer exploited them and didn't recognize enough the extra time they were putting in.  It was a very surprising to me because it was not their employers who asked them to do it in the first place.
+Another thing that also surprised me from people who were using their own time to advance their company projects is how most of their were resentful to their employer. It seemed like they felt exploited and didn't receive enough recognition for the extra effort they were putting in. This was very surprising to me because it was not their employers who asked them to do it in the first place.
 
-All this and my crazy schedule convinced me that this was not the right approach for me. I was just unable to see how I could possibly find time outside of work to learn without impacting negatively the already limited time I was spending with my family. I needed to find something else.
+All that and my crazy schedule convinced me that this was not the right approach for me. I was just unable to see how I could possibly find time outside of work to learn without impacting negatively the already limited time I was spending with my family. I needed to find something else.
 
 ## Learning proactively on company time
 
-What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job we are expected to do, we could use some company time to learn how to make what we are working on better ?
+What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job, we could use some company time to learn how to do an even better job ?
 
-This proactive learning approach was used by some people I talked in order to keep learning on their job. They were using company time not only to do the job at hands but also to learn about how their industry was evolving in order to innovate on their job.
+Many people I talked to were already using this proactive learning approach. They were using company time not only to do the job at hands but also to learn about new development in their fields.
 
-When I was first told about this approach, I felt stupid. Why didn't I think about this in the first place ? Why was I not using this approach ? It seemed like the most logical think to do, right ? But after putting some thoughts on it, I was not so sure anymore.
+When I came across this approach, I couldn't believe I was not using it! This seemed like the most obvious thing to do. You do the learning while at work and you keep your time outside of work for your social life! Why didn't I think about this in the first place ?
 
-For starter, I already had a lot on my plate at my job and things kept being added to the backlog. How could I possibly use company time to learn new things when I already felt like the 40 hours per week I was doing were not even enough to do what had yet to be done ?
+Well, after putting some thoughts into it, I realized that this approach never crossed my mind because I always feel like I never have enough time for the amount of work I have to do. So, taking some time out of the already insufficient time I had wouldn't make sense at all. If there was a way to switch to a 30 hours day, I would gladly take it!  
+
+
 
 Most people I talked to were able to do it because the roles they had gave them freedom to do it! When you are working in a research & development(R&D) context, it is part of your job to learn new things. But for those of us who work in a service context, it is not obvious. When clients come to us with projects to realize, it is usually because they believe we know how to do it. They are not paying us to learn how to do it. This makes using their time to learn 
 
