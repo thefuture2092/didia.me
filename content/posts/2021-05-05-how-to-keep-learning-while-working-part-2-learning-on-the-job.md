@@ -71,11 +71,16 @@ Many people I talked to were already using this proactive learning approach. The
 
 When I came across this approach, I couldn't believe I was not using it! This seemed like the most obvious thing to do. You do the learning while at work and you keep your time outside of work for your social life! Why didn't I think about this in the first place ?
 
-Well, after putting some thoughts into it, I realized that this approach never crossed my mind because I always feel like I never have enough time for the amount of work I have to do. So, taking some time out of the already insufficient time I had wouldn't make sense at all. If there was a way to switch to a 30 hours day, I would gladly take it!  
+Well, after putting some thoughts into it, I realized that this approach never crossed my mind because I always feel like I have to give value to my employer or client for every penny I am being paid. The way I see it, when clients come to me with projects to realize, it is usually because they believe I know how to do it. They are not paying me to learn how to do it. So, I was not confortable using the money they were paying me to advance myself. But how were others able to do it ?
+
+After digging deeper, I was able to group people using the learning on company time in three categories:
+
+1. **People whose jobs included learning**: Many people have learning new things included in their job description. For exemple, people who work in Research & Development (R&D) are expected to spend a big part of their company time learning new things. There are a lot people like that whose part of their jobs is to actively monitor what is going on in their field of expertise.
+2. **People whose companies have a learning time policy**: Some companies give their employees not only budgets but also time to learn new things. People in those companies can take time off their projects to learn new things which can be useful for the company.\
+   What I found out by talking to people is companies giving just budget to encourage learning is not enough because employee still have to use their own time outside of work to learn. So those budgets end up unused most of the time. 
+3. **People who just took the time**: Lastly, there were a few people who just took company time to learn on their own even if it was not included in their job description or it was not provided by the company. Most people in this category were working in a project with little to no stress that allowed them to do that. But still, there were others who were doing it because they felt it was their right to do it.
 
 
-
-Most people I talked to were able to do it because the roles they had gave them freedom to do it! When you are working in a research & development(R&D) context, it is part of your job to learn new things. But for those of us who work in a service context, it is not obvious. When clients come to us with projects to realize, it is usually because they believe we know how to do it. They are not paying us to learn how to do it. This makes using their time to learn 
 
 Although learning proactively on company time seemed like the perfect option for me, I could not see how I could justify using the
 
