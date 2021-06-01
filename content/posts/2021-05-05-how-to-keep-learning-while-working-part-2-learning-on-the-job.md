@@ -21,13 +21,13 @@ This is the second article of the series [**How to keep learning while working**
 
 Previous article ☞ [**How to keep learning while working, Part 1: it's hard when you have a life**](/how-to-keep-learning-while-working/its-hard-when-you-have-a-life)
 
-After the birth of my son, it became increasingly difficult for me to find time to keep learning outside of work. I put to rest all my side projects. I stopped taking online classes. Basically, I didn't learn anything new outside of work for the next three months or so that followed. I was afraid that my career was stalling while I still had so much room to grow! I couldn't let that happen! 
+After the birth of my son, it became increasingly difficult for me to find time to keep learning outside of work. I put all my side projects to rest. I stopped taking online classes. Basically, I didn't learn anything new outside of work for the next three months or so that followed. I was afraid that my career was stalling when I still had so much room to grow! I couldn't let that happen! 
 
 Fortunately, I knew a lot of people who seemed to have both successful careers and successful families. I thought if they could do it, why shouldn't I ? I just needed to find out how. So I went and asked them.
 
-My question was something like this: How do you find time to keep getting better at your job while still giving enough quality time to your family and friends ?
+My question was something like this: How do you find time to keep getting better at your job while still spending quality time with your friends and families ?
 
-Almost everyone I talked to had his own approach to the problem. But I was able to group all those different approaches into three group:
+Almost everyone I talked to had his own approach to the problem. But by talking to them, I was able to regroup all those approaches into three options:
 
 1. Learn by experience
 2. Learn on my own time
@@ -35,27 +35,25 @@ Almost everyone I talked to had his own approach to the problem. But I was able 
 
 ## Learning by experience
 
-Learning by experience was the preferred way for most people I talked to. I could easily see why. This is probably the default way all of us learn on the job because we don't have to do anything to make it happen. In fact, as the great Julius Cesar once said, «Ut est rerum omnium magister usus» which translates to "experience is the best teacher". 
+Learning by experience was the preferred way for most people I talked to and I could easily see why. It's the default way we learn on the job and we don't even have to do anything to make it happen. It's a natural process. In fact, as the great Julius Cesar once said, «Ut est rerum omnium magister usus» which translates to "experience is the best teacher". 
 
-But is learning by experience enough by itself ?
+Learning by experience is great because it happens naturally on the job. It doesn't require us to spend any additional time or effort outside of what is already required by our job. It can be exceptionally great when working in a fast paced environnement were the type of problems we work on changes very often. Unfortunately, that's not always the case for everybody.
 
-In my opinion, I don't think so. Learning by experience can be exceptionally great when working in a fast paced environnement where the type of problems you work on changes very often. But for most people who work in a steady environment, the learning by experience process can be very slow.
+In fact, when working in a steady environnement, learning by experience can be very slow and limited. And  it also depends a lot on the job we are doing at the moment. For me personally, even when I was not able to find time to learn after work anymore, I was still able to learn by experience when doing my job. But it was not enough because I was learning only when working on something new, a new technology or a new framework which does not happen very often. Most of the time, I was just applying what I already knew.
 
-Even when I was not able to find time to learn after work anymore, I was still learning by experience while doing my job. But it was not enough. I wasn't satisfied with it because it depended a lot on what I was working on at the moment. When I was working on something new, a new technology or a new framework, I was learning a lot. But it was not the case when I was just applying what I already knew.
+Another problem I had with only learning by experience was the feeling that I was not in control of what I was learning. I was not innovating anymore. I was only learning when faced with problems I didn't already know how to solve.
 
-But the biggest problem for me with the learning by experience approach is the feeling that I am in a passive mode. It put me in a situation when I am not in control of what I learn. I am only learning when faced with problems I don't know how to solve already. I am not learning to avoid potential problems nor to innovate.
-
-As we can see, learning by experience alone was not enough for me. I needed an approach that would allow me to keep learning more than what is required to do my job.
+All these problems convinced me that learning by experience alone wasn't enough for me. I need an approach that would me to keep learning more than just what is required to the job.
 
 ## Learning on my own time
 
-Some people I talked to were able to find outside of work to keep learning. When I asked them how they did it, most told me they used the time after their kids have gone to bed or early in the morning.
+Some people I talked to were able to find time outside of work to keep learning. When I asked them how they did it, most told me they used the time after their kids have gone to bed or early in the morning.
 
-Unfortunately, that answer was not that useful to me because it was exactly what I was struggling with. I did not see how I could possibly make it work. With my family in the mix, my schedule was already packed.
+Unfortunately, that answer was not very useful to me because it was exactly what I was already struggling with. I did not see how I could possibly make it work with already packed schedule.
 
-I wake up my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine, meditation and some stretching exercices to get my day going. From 6 a.m to 6 p.m, it's a 12h work timespan for me: 8h on my regular job, one hour exercising and the rest on my passion project.
+In fact, I start my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine which includes some meditation and stretching exercices to get my day going. 6 a.m to 6 p.m, is my 12h work timespan: 8h on my regular job, one hour exercising and the rest on my passion project.
 
-When I am done working at 6 p.m, I try to spend the next 3 hours playing with my kid. Beside getting him to daycare, that's the only time I spend with him on weekdays. So, those 3 hours are sacred. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. 10 p.m to 10:30 pm is planning time for the next day. And at 11 p.m, the day is over. I go to bed and hit restart the next morning at 5 a.m.
+After I am done working at 6 p.m, I try to spend the next 3 hours playing with my kid. Beside getting him to daycare, that's the only time I spend with him on weekdays. So, those 3 hours are sacred. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. 10 p.m to 10:30 pm is planning time for the next day. And at 11 p.m, the day is over. I go to bed and hit restart the next morning at 5 a.m.
 
 I have to admit that these last two paragraphs make my life feel very boring. But they pretty sum up why I was not able to find time to learn outside of work on weekdays. And when it comes to weekends, my wife once scolded me because I was spending as much time working on weekdays than on weekends. Since then, I try to make sure my weekends as light as possible. On Saturday, I can spend a couple of hours working on my passion project but on Sunday, it is prohibited. I don't do anything related to work on Sunday. It is off the limit. 
 
@@ -79,8 +77,6 @@ After digging deeper, I was able to group people using the learning on company t
 2. **People whose companies have a learning time policy**: Some companies give their employees not only budgets but also time to learn new things. People in those companies can take time off their projects to learn new things which can be useful for the company.\
    What I found out by talking to people is companies giving just budget to encourage learning is not enough because employee still have to use their own time outside of work to learn. So those budgets end up unused most of the time. 
 3. **People who just took the time**: Lastly, there were a few people who just took company time to learn on their own even if it was not included in their job description or it was not provided by the company. Most people in this category were working in a project with little to no stress that allowed them to do that. But still, there were others who were doing it because they felt it was their right to do it.
-
-
 
 Although learning proactively on company time seemed like the perfect option for me, I could not see how I could justify using the
 
