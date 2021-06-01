@@ -55,28 +55,30 @@ In fact, I start my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up
 
 After I am done working at 6 p.m, I try to spend the next 3 hours playing with my kid. Beside getting him to daycare, that's the only time I spend with him on weekdays. So, those 3 hours are sacred. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. 10 p.m to 10:30 pm is planning time for the next day. And at 11 p.m, the day is over. I go to bed and hit restart the next morning at 5 a.m.
 
-I have to admit that these last two paragraphs make my life feel very boring. But they pretty much sum up why I was not able to find time to learn outside of work on weekdays. And when it comes to weekends, my wife once scolded me because I was spending as much time working on weekdays than on weekends. Since then, I try to make sure my weekends as light as possible. On Saturday, I can spend a couple of hours working on my passion project but on Sunday, it is prohibited. I don't do anything related to work on Sunday. It is off the limit. 
+I have to admit that these last two paragraphs make my life feel very boring. But they pretty much sum up why I was not able to find time to learn outside of work on weekdays. But what about the weekends ? 
 
-Another thing that also surprised me from people who were using their own time to advance their company projects is how most of their were resentful to their employer. It seemed like they felt exploited and didn't receive enough recognition for the extra effort they were putting in. This was very surprising to me because it was not their employers who asked them to do it in the first place.
+Well, when it comes to weekends, I had another big challenge. My wife was not really happy that I was spending as much time working on weekdays than on weekends and she scolded me for it. Since then, I try to make sure my weekends are as light on work as possible. On Saturday, I can spend a couple of hours working on my passion project while my kid is still sleeping but on Sunday, it is down right prohibited. I don't do anything remotely related to work unless I am on-call. Sunday is really off-limit.
 
-All that and my crazy schedule convinced me that this was not the right approach for me. I was just unable to see how I could possibly find time outside of work to learn without impacting negatively the already limited time I was spending with my family. I needed to find something else.
+All this convinced me that learning on my own time at home would be difficult to pull off. I could not see how I could possibly find time outside of work without impacting negatively the already limited time I was spending with my family. In addition to my lack of time problem, I observed something else that made me even wary of using this approach.
+
+In fact, when talking to people who were using their own time to learn things or work on side-projects that were directly benefiting their employers, I remarked that they usually were resentful of their employer.  It seemed like they felt exploited and didn't receive enough recognition for the extra effort they were putting in. This was very surprising to me because in almost every case, it was not the employers who asked them to work on their own time. So why were they resentful if they chose to do it themselves ?
+
+Well, I couldn't find out. But what I did know was that I needed another learning approach.
 
 ## Learning proactively on company time
 
 What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job, we could use some company time to learn how to do an even better job ?
 
-Many people I talked to were already using this proactive learning approach. They were using company time not only to do the job at hands but also to learn about new development in their fields.
+Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, this didn't really make sense. I mean, when employers or clients pay us, it's because they think we already know how to do the job, not to learn how to do it. I have always thought that I had to provide value for every penny I was being paid and learning was not providing value. So I was not confortable using company time to advance my self.
 
-When I came across this approach, I couldn't believe I was not using it! This seemed like the most obvious thing to do. You do the learning while at work and you keep your time outside of work for your social life! Why didn't I think about this in the first place ?
+So, I was really surprised when I realized that some people I talked to were using just that: proactively learning on company time. How were they doing it ?
 
-Well, after putting some thoughts into it, I realized that this approach never crossed my mind because I always feel like I have to give value to my employer or client for every penny I am being paid. The way I see it, when clients come to me with projects to realize, it is usually because they believe I know how to do it. They are not paying me to learn how to do it. So, I was not confortable using the money they were paying me to advance myself. But how were others able to do it ?
+For starters, I realized that almost everybody who were using this approach felt into three categories:
 
-After digging deeper, I was able to group people using the learning on company time in three categories:
-
-1. **People whose jobs included learning**: Many people have learning new things included in their job description. For exemple, people who work in Research & Development (R&D) are expected to spend a big part of their company time learning new things. There are a lot people like that whose part of their jobs is to actively monitor what is going on in their field of expertise.
+1. **People whose jobs included learning**: Many people have learning new things included in their job description. For exemple, people who work in Research & Development (R&D) are expected to spend a big part of their company time learning new things. There are a lot people like that whose part of their jobs is to actively monitor what is going on in their field of expertise and bring it back to their employer.
 2. **People whose companies have a learning time policy**: Some companies give their employees not only budgets but also time to learn new things. People in those companies can take time off their projects to learn new things which can be useful for the company.\
    What I found out by talking to people is companies giving just budget to encourage learning is not enough because employee still have to use their own time outside of work to learn. So those budgets end up unused most of the time. 
-3. **People who just took the time**: Lastly, there were a few people who just took company time to learn on their own even if it was not included in their job description or it was not provided by the company. Most people in this category were working in a project with little to no stress that allowed them to do that. But still, there were others who were doing it because they felt it was their right to do it.
+3. **People who just took time on their own**: Lastly, there were a few people who just took company time to learn on their own even if it was not included in their job description or it was not explicitly provided by the company. Most people in this category were working in a project with little to no stress that allowed them to do that. But still, there were others who were doing it because they felt it was their duty as professionals to do it.
 
 Although learning proactively on company time seemed like the perfect option for me, I could not see how I could justify using the
 
