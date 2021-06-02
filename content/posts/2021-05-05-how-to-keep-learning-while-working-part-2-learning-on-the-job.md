@@ -80,7 +80,23 @@ For starters, I realized that almost everybody who were using this approach felt
    What I found out by talking to people is companies giving just budget to encourage learning is not enough because employee still have to use their own time outside of work to learn. So those budgets end up unused most of the time. 
 3. **People who just took time on their own**: Lastly, there were a few people who just took company time to learn on their own even if it was not included in their job description or it was not explicitly provided by the company. Most people in this category were working in a project with little to no stress that allowed them to do that. But still, there were others who were doing it because they felt it was their duty as professionals to do it.
 
-Although learning proactively on company time seemed like the perfect option for me, I could not see how I could justify using the
+## My choice
+
+In addition to learning by experience, learning on my own time was approach I used to keep learning at work before the birth of my son. But I wasn't able to keep it going after that because I couldn't find time for it without impacting the time I spent with my friends and family.
+
+As seen from some people I talked to, I could just settle for learning by experience alone. But it wasn't enough for me. It would have slowed my career down while I still had so much room to grow. 
+
+Learning proactively on company time was the only viable option remaining for me. But there were two main obstacles that were preventing me to adopt this approach. 
+
+First, my company didn't have a learning time policy until January 2021 (We are now given 8 hours to spend on learning each year). Although we were provided a generous learning budget, we needed to use our own time to spend it.
+
+The second obstacle was that my job didn't consist primarily of R&D. Although, we couldn't have time to work on proof of concept here and there, it was not something expected. Most of the time was spent on actually doing the work. I have to admit that the kind of work we do provided me with a lot of learning by experience opportunity and I am really grateful for that. However, it was primarily learning to solve problems we were facing, not learning to innovate. And I wasn't confortable using client money to learn or work on side projects that didn't bring him value at all.
+
+
+
+In , I couldn't settle for learning by experience alone because it made me feel like my career was stalling. The passi
+
+
 
 After digging deeper, I realized that most people
 
