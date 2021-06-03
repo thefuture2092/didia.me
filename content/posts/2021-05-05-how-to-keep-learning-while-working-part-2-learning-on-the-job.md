@@ -88,15 +88,9 @@ On one hand, relying on experience only to get better at my job was already out 
 
 On the other hand, I had already used the learning on my own time approach before the birth of my son. It worked really well for me and allowed me to learn a lot in the first few years of my career. But as I started building my family, I realized that I needed to sacrifice a lot my social life in order to find time to keep learning. That wasn't something I was eager to do.
 
-So, the only remaining option for me was the learning proactively on company time approach. That provided both the advantage of working on 
+So, the only remaining option for me was to learn proactively on company time. It would have allowed me to stay ahead of the curve without impacting the time I spent with friends and family. However, as I started thinking about how I would set it up, I found that there were two main obstacles that would prevent me to adopt this approach.
 
-In addition to learning by experience, learning on my own time was approach I used to keep learning at work before the birth of my son. But I wasn't able to keep it going after that because I couldn't find time for it without impacting the time I spent with my friends and family.
-
-As seen from some people I talked to, I could just settle for learning by experience alone. But it wasn't enough for me. It would have slowed my career down while I still had so much room to grow. 
-
-Learning proactively on company time was the only viable option remaining for me. But there were two main obstacles that were preventing me to adopt this approach. 
-
-First, my company didn't have a learning time policy until January 2021 (We are now given 8 hours to spend on learning each year). Although we were provided a generous learning budget, we needed to use our own time to spend it.
+The first obstacle was the lack of a learning time policy or benefit at my company. Although we were provided with a generous learning budget, we weren't given the time necessary to spend that budget. (Disclaimer: This changed in January 2021 when we started receiving one full day per year to spend on learning)
 
 The second obstacle was that my job didn't consist primarily of R&D. Although, we couldn't have time to work on proof of concept here and there, it was not something expected. Most of the time was spent on actually doing the work. I have to admit that the kind of work we do provided me with a lot of learning by experience opportunity and I am really grateful for that. However, it was primarily learning to solve problems we were facing, not learning to innovate. And I wasn't confortable using client money to learn or work on side projects that didn't bring him value at all.
 
