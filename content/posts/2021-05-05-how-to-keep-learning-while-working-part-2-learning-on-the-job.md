@@ -90,7 +90,8 @@ On the other hand, I had already used the learning on my own time approach befor
 
 So, the only remaining option for me was to learn proactively on company time. It would have allowed me to stay ahead of the curve without impacting the time I spent with friends and family. However, as I started thinking about how I would set it up, I found that there were two main obstacles that would prevent me to adopt this approach.
 
-The first obstacle was the lack of a learning time policy or benefit at my company. Although we were provided with a generous learning budget, we weren't given the time necessary to spend that budget. (Disclaimer: This changed in January 2021 when we started receiving one full day per year to spend on learning)
+The first obstacle was the lack of a learning time policy or benefit at my company. Although we were provided with a generous learning budget, we weren't given the time necessary to spend that budget. (Disclaimer: This changed in January 2021 when we started receiving one full day per year to spend on learning\
+This meant that I needed to use my project time in order to keep learning which I wasn't very confortable doing. And even if I were confortable doing it, It would be hard to pull off because I couldn't afford downtime on the project I was working on.
 
 The second obstacle was that my job didn't consist primarily of R&D. Although, we couldn't have time to work on proof of concept here and there, it was not something expected. Most of the time was spent on actually doing the work. I have to admit that the kind of work we do provided me with a lot of learning by experience opportunity and I am really grateful for that. However, it was primarily learning to solve problems we were facing, not learning to innovate. And I wasn't confortable using client money to learn or work on side projects that didn't bring him value at all.
 
