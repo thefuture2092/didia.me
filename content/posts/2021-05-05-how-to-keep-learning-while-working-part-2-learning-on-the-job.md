@@ -80,7 +80,15 @@ For starters, I realized that almost everybody who were using this approach felt
    What I found out by talking to people is companies giving just budget to encourage learning is not enough because employee still have to use their own time outside of work to learn. So those budgets end up unused most of the time. 
 3. **People who just took time on their own**: Lastly, there were a few people who just took company time to learn on their own even if it was not included in their job description or it was not explicitly provided by the company. Most people in this category were working in a project with little to no stress that allowed them to do that. But still, there were others who were doing it because they felt it was their duty as professionals to do it.
 
-## My choice
+## What would work best for me ?
+
+After reviewing all the options above, I came into the realization that the first two approaches wouldn't really work for me.
+
+On one hand, relying on experience only to get better at my job was already out of question because that's what prompted me to start looking for alternatives in the first place. Learning by experience alone slowed down my career and didn't allow me to stay ahead of the curve. So, I couldn't afford to settle for it.
+
+On the other hand, I had already used the learning on my own time approach before the birth of my son. It worked really well for me and allowed me to learn a lot in the first few years of my career. But as I started building my family, I realized that I needed to sacrifice a lot my social life in order to find time to keep learning. That wasn't something I was eager to do.
+
+So, the only remaining option for me was the learning proactively on company time approach. That provided both the advantage of working on 
 
 In addition to learning by experience, learning on my own time was approach I used to keep learning at work before the birth of my son. But I wasn't able to keep it going after that because I couldn't find time for it without impacting the time I spent with my friends and family.
 
@@ -92,11 +100,7 @@ First, my company didn't have a learning time policy until January 2021 (We are 
 
 The second obstacle was that my job didn't consist primarily of R&D. Although, we couldn't have time to work on proof of concept here and there, it was not something expected. Most of the time was spent on actually doing the work. I have to admit that the kind of work we do provided me with a lot of learning by experience opportunity and I am really grateful for that. However, it was primarily learning to solve problems we were facing, not learning to innovate. And I wasn't confortable using client money to learn or work on side projects that didn't bring him value at all.
 
-
-
 In , I couldn't settle for learning by experience alone because it made me feel like my career was stalling. The passi
-
-
 
 After digging deeper, I realized that most people
 
