@@ -50,17 +50,17 @@ All these problems convinced me that learning by experience alone wasn't enough 
 
 ## Learning on my own time
 
-Some people I talked to were able to find time outside of work to keep learning. When I asked them how they did it, most told me they used the time after their kids have gone to bed or early in the morning.
+Among folks I talked to, some were able to do what I wasn't able to do anymore: find time outside of work to keep learning. So, I was eager to learn how they pulled it off. 
 
-Unfortunately, that answer was not very useful to me because it was exactly what I was already struggling with. I did not see how I could possibly make it work with already packed schedule.
+Unfortunately, the answers I got didn't help me at all. Most told me they used the time after their kids have gone to bed or early in the morning. That was exactly what I was struggling with myself. I didn't see how I could possibly make that work with my already packed schedule. 
 
-In fact, I start my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine which includes some meditation and stretching exercices to get my day going. 6 a.m to 6 p.m, is my 12h work timespan: 8h on my regular job, one hour exercising and the rest on my passion project.
+In fact, I start my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine which includes some meditations and stretching exercices to get my blood flowing to my brain. After that, 6 a.m to 6 p.m is reserved for work: 8h on my regular job, one hour exercising and the rest on my passion project or household chores.\
+After I am done working at 6 p.m, I try to spend the next three and half hours with my family as much as I can. That includes eating supper together, playing with my kid, watching a movie or a NBA game and praying together. \
+Then from 9:30 p.m to 10:30 pm, I do a quick retrospective of the day and plan the next day. And finally, I try to always get done with my day at 11 p.m in order to have at least 6 hours of sleep before hitting restart the next morning at 5 a.m.
 
-After I am done working at 6 p.m, I try to spend the next 3 hours playing with my kid. Beside getting him to daycare, that's the only time I spend with him on weekdays. So, those 3 hours are sacred. After he goes to bed, I try to spend 9 p.m to 10 p.m with my wife as much as I can. 10 p.m to 10:30 pm is planning time for the next day. And at 11 p.m, the day is over. I go to bed and hit restart the next morning at 5 a.m.
+When I was still living alone, some if not most of the three and half hours I now spend with my family was spent working on a side project or doing an online course. Now I couldn't do it anymore. That pretty much explains I was not able to find time to learn outside of work on weekdays anymore. But what about the weekends ?
 
-I have to admit that these last two paragraphs make my life feel very boring. But they pretty much sum up why I was not able to find time to learn outside of work on weekdays. But what about the weekends ? 
-
-Well, when it comes to weekends, I had another big challenge. My wife was not really happy that I was spending as much time working on weekdays than on weekends and she scolded me for it. Since then, I try to make sure my weekends are as light on work as possible. On Saturday, I can spend a couple of hours working on my passion project while my kid is still sleeping but on Sunday, it is down right prohibited. I don't do anything remotely related to work unless I am on-call. Sunday is really off-limit.
+Well, when it came to weekends, I had another big challenge. My wife was not really happy that I was spending as much time working on weekdays than on weekends and she scolded me for it. Since then, I try to make sure my weekends are as light on work as possible. On Saturday, I can spend a couple of hours working on my passion project while my kid is still sleeping but on Sunday, it is down right prohibited. I don't do anything remotely related to work unless I am on-call. Sunday is really off-limit.
 
 All this convinced me that learning on my own time at home would be difficult to pull off. I could not see how I could possibly find time outside of work without impacting negatively the already limited time I was spending with my family. In addition to my lack of time problem, I observed something else that made me even wary of using this approach.
 
