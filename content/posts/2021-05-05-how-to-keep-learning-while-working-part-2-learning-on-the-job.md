@@ -65,9 +65,9 @@ Wrong! Well, when it came to weekends, I had another big challenge. When we firs
 
 As you can see from the schedule and limitations above, learning on my own time at home had become downright impossible to pull off for me because it meant I would have to sacrifice either the time I spent on RDC Études or the time I spent with my family. And that wasn't something I was willing to do.
 
-However, my lack of time wasn't the only problem I had with this approach. While talking to people who used their own time to learn things that directly benefited their employers, I noticed that they usually were resentful of their employers. It seemed like they felt they didn't receive enough recognition for the extra effort they were putting in and hence were exploited by their employers. This was very surprising to me because in almost every case, it was not the employers who asked them to work on their own time. So why were they resentful if they chose to do it themselves ?
+However, my lack of time wasn't the only problem I had with this approach. While talking to people who used their own time to learn things that directly benefited their employers, I noticed that they usually were resentful of their employers. They felt they didn't receive enough recognition for the extra effort they were putting in. They felt exploited even if it was not their employers who asked them to do it. Although it didn't make sense to me at first, I quickly realized this kind of resentment can grow when you are constantly sacrificing your social life for work.
 
-Well, I couldn't find that out. But I did know that I didn't want to have to choose between learning and spending quality time with my family. I needed to find another alternative.
+For me personally, I didn't want to reach that level. I didn't want to have to choose between learning for work and spending quality time with my family. I needed to find another alternative that would allow me to keep getting better at my job without affecting my social life. 
 
 ## Learning proactively on company time
 
