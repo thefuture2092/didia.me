@@ -50,11 +50,11 @@ All these problems convinced me that learning by experience alone wasn't enough 
 
 ## Learning on my own time
 
-Among folks I talked to, some were able to do what I wasn't able to do anymore: find time outside of work to keep learning. So, I was eager to learn how they pulled it off. 
+Among folks I talked to, some were able to do what I wasn't able to do anymore: find time outside of work to keep learning. I was eager to learn how they pulled it off. 
 
-Unfortunately, the answers I got didn't help me at all. Most told me they take time to learn after their kids have gone to bed or early in the morning. But that was exactly what I was struggling with. I wanted to do just that but I couldn't make it work with my already packed schedule. 
+Unfortunately, when I asked them how they do it, the answers I got didn't help me at all. Most people told me they just created time for it. Whether it was after their kids have gone to bed, early in the morning or on the weekends, they just took time and did it. But with my already packed schedule, I just couldn't see how that would even be possible for me. To understand my challenge, let me explain how my schedule goes.
 
-In fact, I start my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine which includes some meditations and stretching exercices to get my blood flowing to my brain. After that, 6 a.m to 6 p.m is reserved for work: 8h on my regular job, one hour exercising and the rest on RDC Études or household chores.\
+I start my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine which includes some meditations and stretching exercices to get my blood flowing to my brain. After that, 6 a.m to 6 p.m is reserved for work: 8h on my regular job, one hour exercising and the rest on RDC Études or household chores.\
 After I am done working at 6 p.m, I try to spend the next three and half hours with my family as much as I can. That includes eating supper together, playing with my kid, watching a movie or a NBA game and praying together. \
 Then from 9:30 p.m to 10:30 p.m, I do a quick retrospective of the day and plan the next one.\
 And 10:30 p.m to 11 p.m is spent trying to fall asleep. I always try to sleep before 11 p.m in order to have at least 6 hours of sleep before hitting restart the next morning at 5 a.m.
