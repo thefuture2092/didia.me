@@ -72,58 +72,23 @@ Although I didn't feel resentful while doing it when I was still living alone, I
 
 What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job, we could use some company time to learn how to do an even better job ?
 
-Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, this didn't really make sense. I mean, when employers or clients pay us, it's because they think we already know how to do the job, not to learn how to do it. I have always thought that I had to provide value for every penny I was being paid and learning was not providing value. So I was not confortable using company time to advance my self.
+Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, it didn't really make sense. I mean, when employers or clients pay us, it's because they think we already know how to do the job, not to learn how to do it. I have always thought that I had to provide value for every penny I was being paid. To me, learning proactively wasn't proving value to the clients because it wasn't something the client immediately needed. and learning was not providing value. That's why I wasn't confortable doing it on company time.
 
-So, I was really surprised when I realized that some people I talked to were using just that: proactively learning on company time. How were they doing it ?
+So, I was really surprised when I learned that some people I talked to were using their companies time to learn proactively. How were they doing it ? Was it even professional to do it ? Did their companies know they were doing it ?
 
-For starters, I realized that almost everybody who were using this approach felt into three categories:
+By asking these questions, I realized there were three main categories of people learning on company time:
 
-1. **People whose jobs included learning**: Many people have learning new things included in their job description. For exemple, people who work in Research & Development (R&D) are expected to spend a big part of their company time learning new things. There are a lot people like that whose part of their jobs is to actively monitor what is going on in their field of expertise and bring it back to their employer.
-2. **People whose companies have a learning time policy**: Some companies give their employees not only budgets but also time to learn new things. People in those companies can take time off their projects to learn new things which can be useful for the company.\
-   What I found out by talking to people is companies giving just budget to encourage learning is not enough because employee still have to use their own time outside of work to learn. So those budgets end up unused most of the time. 
-3. **People who just took time on their own**: Lastly, there were a few people who just took company time to learn on their own even if it was not included in their job description or it was not explicitly provided by the company. Most people in this category were working in a project with little to no stress that allowed them to do that. But still, there were others who were doing it because they felt it was their duty as professionals to do it.
+1. **People whose jobs included learning**: Researchers and engineers who work in Research & Development (R&D) fall primarily into this category. Their jobs is to learn new things. They are expected to spend a big part of their company time learning. For them, it was their job. There are a lot of people like that whom part of their jobs is to actively monitor the new development in their industries. For them, learning proactively on company time is natural.
+2. **People whose companies have a learning time policy**: Some companies not only give their employees budgets but also allocate time for them to learn new things. Here the important part is the time allocation because there are a lot of companies that give budgets but without allocating time. I found out by talking to people in those companies that just providing a learning budget is not enough because people remain reluctant to use their own time to learn for work even when they are given a good amount of money to spend on learning.
+3. **People who just took time on their own**: Lastly, there were a few people who just took company time to learn on their own even if it wasn't included in their job description or it wasn't explicitly allocated by the company. They told me they believed it was professional to do so as long as they were delivering on their projects on time and within budgets. I liked this approach but I couldn't shake the fact that it felt like stealing to me. So I decided not to use it.
 
 ## What would work best for me ?
 
-After reviewing all the options above, I came into the realization that the first two approaches wouldn't really work for me.
+After talking to people, I was exasperated because I couldn't find an approach that would best fit me. I wasn't going to settle for learning by experience only so I decided to go back to learning on my own time. I started thinking about what part of my social life I would be sacrificing for it. I thought about the explanation I would give my wife after announcing her I would start working for eight hours on Sundays and Saturdays. Then one day, an unsuspected idea came to me.
 
-On one hand, relying on experience only to get better at my job was already out of question because that's what prompted me to start looking for alternatives in the first place. Learning by experience alone slowed down my career and didn't allow me to stay ahead of the curve. So, I couldn't afford to settle for it.
+I was participating in a team meeting when one colleague floated the idea of charging a client a internal tools tax.
 
-On the other hand, I had already used the learning on my own time approach before the birth of my son. It worked really well for me and allowed me to learn a lot in the first few years of my career. But as I started building my family, I realized that I needed to sacrifice a lot my social life in order to find time to keep learning. That wasn't something I was eager to do.
 
-So, the only remaining option for me was to learn proactively on company time. It would have allowed me to stay ahead of the curve without impacting the time I spent with friends and family. However, as I started thinking about how I would set it up, I found that there were two main obstacles that would prevent me to adopt this approach.
-
-The first obstacle was the lack of a learning time policy or benefit at my company. Although we were provided with a generous learning budget, we weren't given the time necessary to spend that budget. (Disclaimer: This changed in January 2021 when we started receiving one full day per year to spend on learning)\
-This meant that I needed to use my project time in order to keep learning which I wasn't very confortable with because it meant using project time on something that may not even be useful for my client or company. And even if I were confortable doing it, It would be hard to pull off because I couldn't afford downtime on the project I was working on.
-
-The second obstacle was that my job didn't consist primarily of R&D. Although, we couldn't have time to work on proof of concept here and there, it was not something expected. Most of the time was spent on actually doing the work. I have to admit that the kind of work we do provided me with a lot of learning by experience opportunity and I am really grateful for that. However, it was primarily learning to solve problems we were facing, not learning to innovate. And I wasn't confortable using client money to learn or work on side projects that didn't bring him value at all.
-
-In , I couldn't settle for learning by experience alone because it made me feel like my career was stalling. The passi
-
-After digging deeper, I realized that most people
-
-People in this category told me that they learn proactively on their job. They didn't way for problems to happen to learn how to solve them. They anticipated problems. They kept sync with what was happening in their field, the innovation and tried to bring it back to their job to make things better.
-
-Most of the people in this category had some kind of incentive to do it! Either they held positions in their company that allowed them some flexibility to do that or the company gave them time and learning budget to encourage learning.
-
-Choosing learning by experience as the only way to learn on the job is probably the best option for most people how have a life because in most case it does not require more than what we are already asked to do in our job description.
-
-However, the drawback with this option is it doesn't allow us to
-
-People in this category told me that they do most of the learning on the job while working on their projects. When they face new problems, they learn how to solve them. That's how they get better at their jobs.
-
-Everybody I talked to listed learning by experience as one of the way they kept learning on the job. And the majority of people listed this method as the only way. This should not be surprising to anyone because as Julius Cesar once said, _Ut est rerum omnium magister usus, _which means experience is the best teacher.
-
-The answers I got could be grouped into 3 main categories:
-
-\- They let experience teach them new things\
-
-* Some people learn actively on the job\
-* Some learn by themselves using their own time.
-
-The first people I reached out to were colleagues who had more experience than I and who had a family to attend to. I asked them how they found time to keep learning while maintaining a great work-life balance. Most of them told me that they faced the same issue. They wanted to keep learning on their own time but found it impossible. Some told me it should be expected of them to spend their home time to keep learning for work, it was immoral. Still, some did find time to do it, albeit an insignificant time. But for most experienced people I talked to, I learned that they did most if not all of their learning at work on company time.
-
-That last insight is what surprised me the most. How do you learn on company time ? Well, I know most employers provide formation budgets but they rarely give employees time needed to use those budgets. So employees end up needing to use their own time for the formation. But these people were telling me they were learning on company time. How were they doing it ?  We are usually so busy at work that taking time to learn instead of working on our deliverables is almost never an option. So do you take time at work to work on
 
 "Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to" Lao Tzu
 
