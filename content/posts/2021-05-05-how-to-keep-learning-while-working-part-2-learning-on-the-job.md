@@ -84,18 +84,12 @@ By asking these questions, I realized there were three main categories of people
 
 ## What would work best for me ?
 
-After talking to people, I was exasperated because I couldn't find an approach that would best fit me. I wasn't going to settle for learning by experience only so I decided to go back to learning on my own time. I started thinking about what part of my social life I would be sacrificing for it. I thought about the explanation I would give my wife after announcing her I would start working for eight hours on Sundays and Saturdays. Then one day, an unsuspected idea came to me.
+After talking to people, I was exasperated because I couldn't find an approach that would best fit me. Because I wasn't going to settle for learning by experience, I decided to go back to learning on my own time. I started thinking about which part of my social life I needed to sacrifice. I thought about the explanation I would give my wife for spending hours in front of my computer on Saturdays and Sundays.
 
-I was participating in a team meeting when one colleague floated the idea of charging a client a internal tools tax.
+At the same time I was thinking about all this, I was also getting ready to file my taxes. Then one day, an unsuspected idea came to me from the tax system. Although we tend to think negatively of taxes, the premise of the tax system seems kind of good. We pay taxes to the government to help them make our life better. They do so by building public infrastructures and public services which benefit the entire population.
 
+So, I thought what if my employer or projects I was working on paid me a learning tax to get better at serving them ? How would something like that work ? Would it even work ? Would it be professional ? Would my employer be willing to pay the tax ?
 
+I had so many questions but the idea seemed good to me so I decided to try it. In the next article on this series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/), I'm going to share 
 
-"Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to" Lao Tzu
-
-\- The plan
-
-\- The conflict
-
-\- The achievement
-
-\- The transformation
+In the next article on this series of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/), I am going to share with you my experience setting up the learning tax model and how it helped me get better at my job. I will also share with you the difficulty I ran into while using the model.
