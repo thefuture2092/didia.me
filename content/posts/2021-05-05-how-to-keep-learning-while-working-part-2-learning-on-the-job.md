@@ -84,6 +84,12 @@ By asking these questions, I realized there were three main categories of people
 
 ## What would work best for me ?
 
+Talking to a lot of experienced people taught me that there wasn't a single best approach to learning on the job. I needed to go with the approach that best fitted my lifestyle.
+
+After analyzing all three approaches above, I realized that none of them really fitted me. Obviously, I wasn't going to settle for learning by experience only because I felt it was too slow and I didn't like that I wasn't really controlling what I was learning. And when it comes to learning on company time, my job didn't really involve a lot of R&D that would allow me to spend my work time to learn. So, the only option for me if I really wanted to keep learning was to do it on my own time. I knew it would negatively impact the time I spend with friends and family but I couldn't see another way. 
+
+I was already thinking about which part of my social life I would sacrifice when an unsuspected idea came to me while filling my taxes. As I 
+
 After talking to people, I was exasperated because I couldn't find an approach that would best fit me. Because I wasn't going to settle for learning by experience, I decided to go back to learning on my own time. I started thinking about which part of my social life I needed to sacrifice. I thought about the explanation I would give my wife for spending hours in front of my computer on Saturdays and Sundays.
 
 At the same time I was thinking about all this, I was also getting ready to file my taxes. Then one day, an unsuspected idea came to me from the tax system. Although we tend to think negatively of taxes, the premise of the tax system seems kind of good. We pay taxes to the government to help them make our life better. They do so by building public infrastructures and public services which benefit the entire population.
