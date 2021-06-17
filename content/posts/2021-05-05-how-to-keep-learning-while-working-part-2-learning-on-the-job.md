@@ -24,13 +24,13 @@ This is the second article of the series [**How to keep learning while working**
 
 Previous article ☞ [**How to keep learning while working, Part 1: it's hard when you have a life**](/how-to-keep-learning-while-working/its-hard-when-you-have-a-life)
 
-After the birth of my son, it became increasingly difficult for me to find time to keep learning outside of work. I stopped taking online classes and I put all my side projects to rest. Basically, I didn't learn anything new outside of work for the next three months that followed. I was afraid that my career was stalling when I still had so much room to grow! I couldn't let that happen! 
+After the birth of my son, it became increasingly difficult for me to find time to keep learning outside of work. I stopped taking online classes and I put all my side projects to rest. This made me afraid that my career was stalling when I still had so much room to grow! I couldn't let that happen! 
 
-Fortunately, I knew a lot of people who seemed to have both successful careers and successful families. I thought if they could do it, why shouldn't I ? I just needed to find out how. So I went and asked them.
+Fortunately, I knew a lot of people who seemed to have both successful careers and successful families. I thought if they could do it, I could do it too. I just needed to find out how by asking them how they did it.
 
-My question was something like this: How do you find time to keep getting better at your job while still spending quality time with your friends and families ?
+So I went and talked to as much people as I could. My question was something like this: **How do you find time to keep getting better at your job while still spending quality time with your friends and family ?**
 
-Almost everyone had his own approach to the problem. But by talking to them, I was able to regroup all those approaches into three options:
+Unsurprisingly, everyone had their own approach when it came to continuous learning. But after careful consideration, I was able to regroup all those personal approaches into three main options: 
 
 1. Learn by experience
 2. Learn on my own time
@@ -38,15 +38,13 @@ Almost everyone had his own approach to the problem. But by talking to them, I w
 
 ## Learning by experience
 
-Learning by experience was the preferred way for most people I talked to and I could easily see why. Learning by experience is the default way we learn on the job. Most of the times, we don't even have to do anything to make it happen. It just happens. In fact, as the great Julius Cesar once said, «Ut est rerum omnium magister usus» which translates to "experience is the best teacher". 
+Learning by experience was the preferred way for most people I talked to and I could easily see why. Learning by experience is the default way we learn in life. Most of the times, we don't even have to do anything to make it happen. It just happens. In fact, as the great Julius Cesar once said, «Ut est rerum omnium magister usus» which means «experience is the best teacher». 
 
-Learning by experience is great because it happens naturally on the job. It doesn't require us to spend any additional time or effort outside of what is already required by our job. It can exceptionally work wonders when working in a fast paced environnement where the job content changes very often. Unfortunately, that's not always the case for everybody.
+Learning by experience is great because it happens naturally on the job. It doesn't require us to spend any additional time or effort outside of what is already required by our job. And it can exceptionally work wonders when in a fast paced environment where the job content changes very often. Unfortunately, not everybody works in such an environment.
 
-In fact, when working on the same job content for a long period of time, learning by experience can be very slow and limited. For me personally, I am lucky to work in an environment which allows me to change frequently what I work on. But even in that environment, the learning opportunities weren't just enough for me. I realized I was usually learning only when working on something new, a new technology, a new framework or a new issue which was not frequent enough. Most of the time, I was just applying what I already knew.
+For me personally, I am lucky to work in an environment which allows me to change frequently what I work on. But even in that environment, the learning opportunities aren't just enough to keep me learning at the pace I want. I realized I was usually learning only when either working on something new or trying to solve a problem I didn't already know how to solve. But more than 90% percent of my time at work is spent applying what I already knew.
 
-Another problem I had with only learning by experience was the feeling that I was not in control of what I was learning. I was not innovating anymore. I was only learning when faced with problems I didn't already know how to solve.
-
-All these problems convinced me that learning by experience alone wasn't enough for me. I need an approach that would me to keep learning more than just what is required to the job.
+This reactionary learning approach didn't suit me at all. I needed something that would allow me to learn not only to solve problems when they occur but also to prevent them to occur in the first place. I needed a more proactive approach.
 
 ## Learning on my own time
 
