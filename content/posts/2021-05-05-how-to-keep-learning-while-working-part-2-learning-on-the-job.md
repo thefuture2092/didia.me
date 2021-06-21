@@ -70,7 +70,7 @@ Although I didn't feel resentful while doing it when I was still living alone, I
 
 What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job, we could use some company time to learn how to do an even better job ?
 
-Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, it didn't really make sense. I mean, when employers or clients pay us, it's because they think we already know how to do the job, not to learn how to do it. I have always thought that I had to provide value for every penny I was being paid. To me, learning proactively wasn't proving value to the clients because it wasn't something the client immediately needed. and learning was not providing value. That's why I wasn't confortable doing it on company time.
+Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, it didn't really make sense. I mean, when employers or clients pay us, it's because they think we already know how to do the job, not to learn how to do it. I have always thought that I had to provide value for every penny I was being paid. To me, learning proactively wasn't proving value to the clients because it wasn't something the client immediately needed. and learning was not providing value. That's why I wasn't comfortable doing it on company time.
 
 So, I was really surprised when I learned that some people I talked to were using their companies time to learn proactively. How were they doing it ? Was it even professional to do it ? Did their companies know they were doing it ?
 
@@ -82,16 +82,18 @@ By asking these questions, I realized there were three main categories of people
 
 ## What would work best for me ?
 
-Talking to a lot of experienced people taught me that there wasn't a single best approach to learning on the job. I needed to go with the approach that best fitted my lifestyle.
+Talking to a lot of experienced people taught me that there wasn't a single best approach to learning on the job. I needed to go with the approach that best fitted my lifestyle and the amount of learning I wanted to do.
 
-After analyzing all three approaches above, I realized that none of them really fitted me. Obviously, I wasn't going to settle for learning by experience only because I felt it was too slow and I didn't like that I wasn't really controlling what I was learning. And when it comes to learning on company time, my job didn't really involve a lot of R&D that would allow me to spend my work time to learn. So, the only option for me if I really wanted to keep learning was to do it on my own time. I knew it would negatively impact the time I spend with friends and family but I couldn't see another way. 
+After analyzing all three approaches above, I realized that none of them really fitted what I wanted. Obviously, I wasn't going to settle for learning by experience only because I felt it was too slow and I didn't like the lack of control over what I was learning. And when it came to learning on company time, my job wasn't the kind of the job which would have allowed me to spend a great deal of my work time to learn. So, the only option for me if I wanted to keep learning was to do it on my own time. I knew it would negatively impact the time I spend with my friends and family but I couldn't see another way. 
 
 I was already thinking about which part of my social life I would sacrifice when an unsuspected idea came to me: What if I made my employer or projects I was working on pay me a learning tax to get better at serving them ?
 
-The idea came to me while filling my taxes. Although I tended to feel negatively about giving government my money, the premise of the tax system itself seemed perfect. We pay taxes to the government so it can make our life better by building public infrastructures and public services which benefit the entire population.
+The idea came to me while filling my taxes. Although I tended to feel negatively about giving government my hard earned money, the premise of the tax system itself seemed perfect. We pay taxes so the government can make our life better by building public infrastructures and services which benefit the entire population.
 
-What if I applied the same idea to my employers and clients ? They will pay me part of their project time to learn how to serve them better. This seemed to me like a good version of working on company that didn't feel like stealing from the company. But I still had so many questions about this approach. Would it really work ? How would it work ? Would my employer be willing to pay the tax ?
+So I thought to myself, "What if I applied the same idea to my employers and clients ? They would pay me a small percentage of project time to learn how to serve them better."
 
-To answer those questions, I decided to give the approach a try. And that's what I'm going to talk about in the next article of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/)**.** I will share with you how adopting the learning tax approach helped me start learning proactively on the job again while bringing a lot of value to the projects I was working on. But I will also share with you the multiple limitations I ran into while using the approach and what I did to mitigate what could be mitigated.
+I liked the idea. It seemed to me like a better version of working on company time that didn't feel like stealing. However, I still had many questions about the approach. How would it work ? Would it even work ? Would my employer be willing to pay the tax ?
+
+In the next article of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/), I will share some answers to those questions, what I discovered by adopting the learning tax approach to learn on the job, the impact it had on the projects I was working on and the difficulties I ran into while using it.
 
 Until next, ✌🏾
