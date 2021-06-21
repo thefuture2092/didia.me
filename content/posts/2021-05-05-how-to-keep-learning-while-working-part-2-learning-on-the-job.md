@@ -5,8 +5,8 @@ title: >-
   about learning on the job!
 slug: >-
   how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job
-draft: true
-date: 2021-05-05T11:30:17.032Z
+draft: false
+date: 2021-06-21T11:30:17.032Z
 description: >-
   How do you find time to keep getting better at your job while still giving
   enough quality time to your friends and family? That was the question I asked
