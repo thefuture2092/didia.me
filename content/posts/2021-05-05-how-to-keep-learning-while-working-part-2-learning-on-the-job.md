@@ -19,6 +19,7 @@ tags:
   - work life balance
   - engineering management
   - learning
+thumbnail: /media/scott-graham-5fnmwej4taa-unsplash.jpg
 ---
 This is the second article of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/) in which I share how I learned to find the time, energy and focus necessary to learn new things while maintaining a good work-life balance.
 
