@@ -5,8 +5,8 @@ title: >-
   about learning on the job!
 slug: >-
   how-to-keep-learning-while-working/what-experienced-people-taught-me-about-learning-on-the-job
-draft: true
-date: 2021-05-05T11:30:17.032Z
+draft: false
+date: 2021-06-21T11:30:17.032Z
 description: >-
   How do you find time to keep getting better at your job while still giving
   enough quality time to your friends and family? That was the question I asked
@@ -19,18 +19,19 @@ tags:
   - work life balance
   - engineering management
   - learning
+thumbnail: /media/scott-graham-5fnmwej4taa-unsplash.jpg
 ---
 This is the second article of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/) in which I share how I learned to find the time, energy and focus necessary to learn new things while maintaining a good work-life balance.
 
 Previous article ☞ [**How to keep learning while working, Part 1: it's hard when you have a life**](/how-to-keep-learning-while-working/its-hard-when-you-have-a-life)
 
-After the birth of my son, it became increasingly difficult for me to find time to keep learning outside of work. I stopped taking online classes and I put all my side projects to rest. Basically, I didn't learn anything new outside of work for the next three months that followed. I was afraid that my career was stalling when I still had so much room to grow! I couldn't let that happen! 
+After the birth of my son, it became increasingly difficult for me to find time to keep learning outside of work. I stopped taking online classes and I put all my side projects to rest. This made me afraid that my career was stalling when I still had so much room to grow! I couldn't let that happen! 
 
-Fortunately, I knew a lot of people who seemed to have both successful careers and successful families. I thought if they could do it, why shouldn't I ? I just needed to find out how. So I went and asked them.
+Fortunately, I knew a lot of people who seemed to have both successful careers and successful families. I thought if they could do it, I could do it too. I just needed to find out how by asking them how they did it.
 
-My question was something like this: How do you find time to keep getting better at your job while still spending quality time with your friends and families ?
+So I went and talked to as much people as I could. My question was something like this: **How do you find time to keep getting better at your job while still spending quality time with your friends and family ?**
 
-Almost everyone had his own approach to the problem. But by talking to them, I was able to regroup all those approaches into three options:
+Unsurprisingly, everyone had their own approach when it came to continuous learning. But after careful consideration, I was able to regroup all those personal approaches into three main options: 
 
 1. Learn by experience
 2. Learn on my own time
@@ -38,15 +39,13 @@ Almost everyone had his own approach to the problem. But by talking to them, I w
 
 ## Learning by experience
 
-Learning by experience was the preferred way for most people I talked to and I could easily see why. Learning by experience is the default way we learn on the job. Most of the times, we don't even have to do anything to make it happen. It just happens. In fact, as the great Julius Cesar once said, «Ut est rerum omnium magister usus» which translates to "experience is the best teacher". 
+Learning by experience was the preferred way for most people I talked to and I could easily see why. Learning by experience is the default way we learn in life. Most of the times, we don't even have to do anything to make it happen. It just happens. In fact, as the great Julius Cesar once said, «Ut est rerum omnium magister usus» which means «experience is the best teacher». 
 
-Learning by experience is great because it happens naturally on the job. It doesn't require us to spend any additional time or effort outside of what is already required by our job. It can exceptionally work wonders when working in a fast paced environnement where the job content changes very often. Unfortunately, that's not always the case for everybody.
+Learning by experience is great because it happens naturally on the job. It doesn't require us to spend any additional time or effort outside of what is already required by our job. And it can exceptionally work wonders when in a fast paced environment where the job content changes very often. Unfortunately, not everybody works in such an environment.
 
-In fact, when working on the same job content for a long period of time, learning by experience can be very slow and limited. For me personally, I am lucky to work in an environment which allows me to change frequently what I work on. But even in that environment, the learning opportunities weren't just enough for me. I realized I was usually learning only when working on something new, a new technology, a new framework or a new issue which was not frequent enough. Most of the time, I was just applying what I already knew.
+For me personally, I am lucky to work in an environment which allows me to change frequently what I work on. But even in that environment, the learning opportunities aren't just enough to keep me learning at the pace I want. I realized I was usually learning only when either working on something new or trying to solve a problem I didn't already know how to solve. But more than 90% percent of my time at work is spent applying what I already knew.
 
-Another problem I had with only learning by experience was the feeling that I was not in control of what I was learning. I was not innovating anymore. I was only learning when faced with problems I didn't already know how to solve.
-
-All these problems convinced me that learning by experience alone wasn't enough for me. I need an approach that would me to keep learning more than just what is required to the job.
+This reactionary learning approach didn't suit me at all. I needed something that would allow me to learn not only to solve problems when they occur but also to prevent them to occur in the first place. I needed a more proactive approach.
 
 ## Learning on my own time
 
@@ -72,7 +71,7 @@ Although I didn't feel resentful while doing it when I was still living alone, I
 
 What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job, we could use some company time to learn how to do an even better job ?
 
-Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, it didn't really make sense. I mean, when employers or clients pay us, it's because they think we already know how to do the job, not to learn how to do it. I have always thought that I had to provide value for every penny I was being paid. To me, learning proactively wasn't proving value to the clients because it wasn't something the client immediately needed. and learning was not providing value. That's why I wasn't confortable doing it on company time.
+Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, it didn't really make sense. I mean, when employers or clients pay us, it's because they think we already know how to do the job, not to learn how to do it. I have always thought that I had to provide value for every penny I was being paid. To me, learning proactively wasn't proving value to the clients because it wasn't something the client immediately needed. and learning was not providing value. That's why I wasn't comfortable doing it on company time.
 
 So, I was really surprised when I learned that some people I talked to were using their companies time to learn proactively. How were they doing it ? Was it even professional to do it ? Did their companies know they were doing it ?
 
@@ -84,18 +83,18 @@ By asking these questions, I realized there were three main categories of people
 
 ## What would work best for me ?
 
-After talking to people, I was exasperated because I couldn't find an approach that would best fit me. I wasn't going to settle for learning by experience only so I decided to go back to learning on my own time. I started thinking about what part of my social life I would be sacrificing for it. I thought about the explanation I would give my wife after announcing her I would start working for eight hours on Sundays and Saturdays. Then one day, an unsuspected idea came to me.
+Talking to a lot of experienced people taught me that there wasn't a single best approach to learning on the job. I needed to go with the approach that best fitted my lifestyle and the amount of learning I wanted to do.
 
-I was participating in a team meeting when one colleague floated the idea of charging a client a internal tools tax.
+After analyzing all three approaches above, I realized that none of them really fitted what I wanted. Obviously, I wasn't going to settle for learning by experience only because I felt it was too slow and I didn't like the lack of control over what I was learning. And when it came to learning on company time, my job wasn't the kind of the job which would have allowed me to spend a great deal of my work time to learn. So, the only option for me if I wanted to keep learning was to do it on my own time. I knew it would negatively impact the time I spend with my friends and family but I couldn't see another way. 
 
+I was already thinking about which part of my social life I would sacrifice when an unsuspected idea came to me: What if I made my employer or projects I was working on pay me a learning tax to get better at serving them ?
 
+The idea came to me while filling my taxes. Although I tended to feel negatively about giving government my hard earned money, the premise of the tax system itself seemed perfect. We pay taxes so the government can make our life better by building public infrastructures and services which benefit the entire population.
 
-"Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to" Lao Tzu
+So I thought to myself, "What if I applied the same idea to my employers and clients ? They would pay me a small percentage of project time to learn how to serve them better."
 
-\- The plan
+I liked the idea. It seemed to me like a better version of working on company time that didn't feel like stealing. However, I still had many questions about the approach. How would it work ? Would it even work ? Would my employer be willing to pay the tax ?
 
-\- The conflict
+In the next article of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/), I will share some answers to those questions, what I discovered by adopting the learning tax approach to learn on the job, the impact it had on the projects I was working on and the difficulties I ran into while using it.
 
-\- The achievement
-
-\- The transformation
+Until next, ✌🏾
