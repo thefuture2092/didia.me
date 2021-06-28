@@ -53,8 +53,8 @@ Among folks I talked to, some were able to do what I wasn't able to do anymore: 
 
 Unfortunately, when I asked them how they do it, the answers I got didn't help me at all. Most people told me they just created time for it. Whether it was after their kids have gone to bed, early in the morning or on the weekends, they just took time and did it. But with my already packed schedule, I just couldn't see how that would even be possible for me. To understand my challenge, let me explain how my schedule goes.
 
-I start my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine which includes some meditations and stretching exercices to get my blood flowing to my brain. After that, 6 a.m to 6 p.m is reserved for work: 8h on my regular job, one hour exercising and the rest on RDC Études or household chores.\
-After I am done working at 6 p.m, I try to spend the next three and half hours with my family as much as I can. That includes eating supper together, playing with my kid, watching a NBA game and praying together. \
+I start my day at 5 a.m. From 5 a.m to 6 a.m, I go through my waking up routine which includes some meditations and stretching exercices to get my blood flowing to my brain. After that, 6 a.m to 6 p.m is reserved for work: 8h on my regular job, an hour working out and the rest on RDC Études or household chores.\
+After I am done working at 6 p.m, I try to spend the next three and half hours with my family as much as I can. That includes eating supper together, playing with my child, watching a NBA game and praying together. \
 At 9:30 p.m, I do a quick retrospective of the day and plan the next one. It usually takes me around 25 minutes. Then I spent the rest of the day with my wife trying to fall asleep before 11 p.m in order to have at least 6 hours of sleep before hitting restart the next morning at 5 a.m.
 
 Such a detailed routine made it hard for me to find time to learn outside of work on weekdays. Before having a family, I used to spend almost the entirety of my time after work to learn new techniques or work on side project. But since 2018, it has gradually become difficult or downright impossible to do so. I could still use the weekends though. But even there, I had another big challenge.
@@ -71,11 +71,9 @@ Although I didn't feel resentful while doing it when I was still living alone, I
 
 What if we could make learning by experience more active than passive ? What if instead of just solving problems when they occur, we could use some company time to learn how to prevent them from occurring ?  What if rather than just doing the job, we could use some company time to learn how to do an even better job ?
 
-Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, it didn't really make sense. I mean, when employers or clients pay us, it's because they think we already know how to do the job, not to learn how to do it. I have always thought that I had to provide value for every penny I was being paid. To me, learning proactively wasn't proving value to the clients because it wasn't something the client immediately needed. and learning was not providing value. That's why I wasn't comfortable doing it on company time.
+Of all the learning approaches, learning proactively on company time was the only one I hadn't thought about. To me, it didn't really make sense because I have always thought that employers or clients pay us because we already know how to do the job and not to learn how to do it. That's why I wasn't comfortable using company time to learn.
 
-So, I was really surprised when I learned that some people I talked to were using their companies time to learn proactively. How were they doing it ? Was it even professional to do it ? Did their companies know they were doing it ?
-
-By asking these questions, I realized there were three main categories of people learning on company time:
+Now, you can image how surprised I was when I learned that other people were using their company's time to learn proactively. I wanted to know how they were doing it. When I asked them about it, I came to the realization that there were three main categories of people learning on company time:
 
 1. **People whose jobs included learning**: Researchers and engineers who work in Research & Development (R&D) fall primarily into this category. Their jobs is to learn new things. They are expected to spend a big part of their company time learning. For them, it was their job. There are a lot of people like that whom part of their jobs is to actively monitor the new development in their industries. For them, learning proactively on company time is natural.
 2. **People whose companies have a learning time policy**: Some companies not only give their employees budgets but also allocate time for them to learn new things. Here the important part is the time allocation because there are a lot of companies that give budgets but without allocating time. I found out by talking to people in those companies that just providing a learning budget is not enough because people remain reluctant to use their own time to learn for work even when they are given a good amount of money to spend on learning.
@@ -83,11 +81,11 @@ By asking these questions, I realized there were three main categories of people
 
 ## What would work best for me ?
 
-Talking to a lot of experienced people taught me that there wasn't a single best approach to learning on the job. I needed to go with the approach that best fitted my lifestyle and the amount of learning I wanted to do.
+Talking to a lot of experienced people taught me that there wasn't a single best approach to learning on the job. I realized that the learning approach depended a lot on people's lifestyle and their job content. I needed to go with the approach that fitted my lifestyle and the amount of learning I wanted to do. After analyzing all three approaches above, I realized that none of them really fitted what I wanted. 
 
-After analyzing all three approaches above, I realized that none of them really fitted what I wanted. Obviously, I wasn't going to settle for learning by experience only because I felt it was too slow and I didn't like the lack of control over what I was learning. And when it came to learning on company time, my job wasn't the kind of the job which would have allowed me to spend a great deal of my work time to learn. So, the only option for me if I wanted to keep learning was to do it on my own time. I knew it would negatively impact the time I spend with my friends and family but I couldn't see another way. 
+For starters, I wasn't going to settle for learning by experience only because I felt it was too slow and I didn't like the lack of control over what I was learning. And when it came to learning on company time, my job wasn't the kind of the job which would have allowed me to spend a great deal of my work time on learning. So, the only option for me if I wanted to keep learning was to do it on my own time. I knew it would negatively impact the time I spend with my friends and family but I couldn't see another way. 
 
-I was already thinking about which part of my social life I would sacrifice when an unsuspected idea came to me: What if I made my employer or projects I was working on pay me a learning tax to get better at serving them ?
+I was already thinking about which part of my social life I would sacrifice when an unsuspected idea came to my mind: What if I made my employer or projects I was working on pay me a learning tax to get better at serving them ?
 
 The idea came to me while filling my taxes. Although I tended to feel negatively about giving government my hard earned money, the premise of the tax system itself seemed perfect. We pay taxes so the government can make our life better by building public infrastructures and services which benefit the entire population.
 
