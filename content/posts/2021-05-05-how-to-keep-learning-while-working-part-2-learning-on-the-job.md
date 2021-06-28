@@ -87,12 +87,10 @@ For starters, I wasn't going to settle for learning by experience only because I
 
 I was already thinking about which part of my social life I would sacrifice when an unsuspected idea came to my mind: What if I made my employer or projects I was working on pay me a learning tax to get better at serving them ?
 
-The idea came to me while filling my taxes. Although I tended to feel negatively about giving government my hard earned money, the premise of the tax system itself seemed perfect. We pay taxes so the government can make our life better by building public infrastructures and services which benefit the entire population.
+The idea came to me while filling my taxes. Although I tended to feel negatively about giving government my hard earned money, the premise of the tax system itself seemed perfect. We pay taxes so the government can make our life better by building public infrastructures and services which benefit the entire population. I could apply the same logic to my projects. I would spend a small percentage of project time to acquire additional knowledge or skills that would best serve the project.
 
-So I thought to myself, "What if I applied the same idea to my employers and clients ? They would pay me a small percentage of project time to learn how to serve them better."
+I liked the idea. It seemed to me like a better version of working on company time that didn't feel like stealing. Nonetheless, I still had many questions about the approach. How would it work ? Would it even work ? Would my employer be willing to pay the tax ?
 
-I liked the idea. It seemed to me like a better version of working on company time that didn't feel like stealing. However, I still had many questions about the approach. How would it work ? Would it even work ? Would my employer be willing to pay the tax ?
-
-In the next article of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/), I will share some answers to those questions, what I discovered by adopting the learning tax approach to learn on the job, the impact it had on the projects I was working on and the difficulties I ran into while using it.
+In the next article of the series [**How to keep learning while working**](/category/how-to-keep-learning-while-working/), I will share with you what I discovered by adopting the learning tax approach to learn on the job, the impact it had on the projects I was working on and the difficulties I ran into while using it.
 
 Until next, ✌🏾
