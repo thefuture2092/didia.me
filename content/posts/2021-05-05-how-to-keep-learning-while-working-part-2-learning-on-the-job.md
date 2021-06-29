@@ -31,7 +31,7 @@ Fortunately, I knew a lot of people who seemed to have both successful careers a
 
 So I went and talked to as much people as I could. My question was something like this: **How do you find time to keep getting better at your job while still spending quality time with your friends and family ?**
 
-Unsurprisingly, everyone had their own approach when it came to continuous learning. But after careful consideration, I was able to regroup all those personal approaches into three main options: 
+Unsurprisingly, everyone had their own approach when it came to continuous learning. But after careful consideration, I realized that almost everyone was following one or more of the following approaches: 
 
 1. Learn by experience
 2. Learn on my own time
