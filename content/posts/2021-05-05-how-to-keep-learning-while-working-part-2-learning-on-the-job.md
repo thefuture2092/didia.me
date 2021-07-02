@@ -83,7 +83,7 @@ Now, you can image how surprised I was when I learned that other people were usi
 
 Talking to a lot of experienced people taught me that there wasn't a single best approach to learning on the job. I realized that the learning approach depended a lot on people's lifestyle and their job content. I needed to go with the approach that fitted my lifestyle and the amount of learning I wanted to do. After analyzing all three approaches above, I realized that none of them really fitted what I wanted. 
 
-For starters, I wasn't going to settle for learning by experience only because I felt it was too slow and I didn't like the lack of control over what I was learning. And when it came to learning on company time, my job wasn't the kind of the job which would have allowed me to spend a great deal of my work time on learning. So, the only option for me if I wanted to keep learning was to do it on my own time. I knew it would negatively impact the time I spend with my friends and family but I couldn't see another way. 
+For starters, I wasn't going to settle for learning by experience only because I felt it was too slow and I didn't like the lack of control over what I was learning. And when it came to learning on company time, my job wasn't the type of jobs which would have allowed me to spend a great deal of my work time on learning. So, the only option for me if I wanted to keep learning was to do it on my own time. I knew it would negatively impact the time I spend with my friends and family but I couldn't see another way. 
 
 I was already thinking about which part of my social life I would sacrifice when an unsuspected idea came to my mind: What if I made my employer or projects I was working on pay me a learning tax to get better at serving them ?
 
